@@ -1,0 +1,336 @@
+%%% Based on Kieran Healy's CV
+
+\documentclass[11pt,usenames,dvipsnames]{article}
+
+\usepackage[none]{hyphenat} % This removed hypenation. I added it to KH's template
+
+%%%------------------------------------------------------------------------
+%%% Metadata
+%%%------------------------------------------------------------------------
+
+\def\myauthor{John McLevey}
+\def\mytitle{Vita}
+\def\mycopyright{\myauthor}
+\def\mykeywords{}
+\def\mybibliostyle{plain}
+\def\mybibliocommand{}
+\def\mysubtitle{}
+\def\myaffiliation{McMaster University}
+\def\myaddress{Sociology Department}
+\def\myemail{mclevejv@mcmaster.ca}
+\def\myweb{www.johnmclevey.com}
+\def\myphone{(647) 921-2044}
+\def\myversion{}
+\def\myrevision{}
+\def\lastupdated{Last Updated: October 12, 2012} % WHAT IS THE DATE TODAY???
+
+\def\myaffiliation{McMaster University}
+\def\myauthor{John McLevey}
+\date{} % not used (revision control instead)
+\def\mykeywords{John, McLevey, John McLevey, Vita, CV, Resume, Sociology}
+
+%%%------------------------------------------------------------------------  
+%%% Git version tracking 
+%%%------------------------------------------------------------------------
+
+%% If you don't use git or the vc package (from CTAN), comment this out.
+%% If you comment it out, be sure to remove the \rfoot comment below, too.
+%\input{vc}
+
+%%%------------------------------------------------------------------------
+%%% Required style files
+%%%------------------------------------------------------------------------
+\usepackage{url,fancyhdr}
+%%\usepackage{revnum} % for reverse-numbered publications (revnumerate environment) if needed.
+
+%% needed for xelatex to work
+\usepackage{fontspec}
+\usepackage{xunicode}
+
+%% color for the links 
+\usepackage[usenames,dvipsnames]{color}
+
+
+%% hyperlinks
+\usepackage[xetex, 
+	colorlinks=true,
+	urlcolor=BlueViolet,
+	plainpages=false,
+  	pdfpagelabels,
+  	bookmarksnumbered,
+  	pdftitle={\mytitle},
+  	pagebackref,
+  	pdfauthor={\myauthor},
+  	pdfkeywords={\mykeywords}
+  	]{hyperref}
+
+%%%------------------------------------------------------------------------
+%%% Document
+%%%------------------------------------------------------------------------
+\begin{document}
+
+%% Choose fonts for use with xelatex
+%% Minion and Myriad are widely available, from Adobe. 
+%% Pragmata is available to buy at http://www.fsd.it/fonts/pragma.htm
+%% and is worth every penny. Any good monospace font will work fine, though.
+%% Consolas or inconsolata are good alternatives.
+\setromanfont[Mapping={tex-text},Numbers={OldStyle},Ligatures={Common}]{Minion Pro} 
+\setsansfont[Mapping=tex-text,Colour=AA0000]{Myriad Pro}
+\setmonofont[Mapping=tex-text,Scale=0.9]{Inconsolata} 
+
+
+%%%------------------------------------------------------------------------
+%%% Local commands
+%%%------------------------------------------------------------------------
+
+%% Marginal header
+%% Note: as the document goes on you may need to introduce a (gradually increasing)
+%% \vspace element to keep the marginal header pleasingly aligned with the first 
+%% item in the body text. Like this: \marginhead{{\vskip 0.4em}Grants}, or 
+%% \marginhead{{\vskip 0.8em}Service}. Experiment as needed.
+\newcommand{\marginhead}[1]{\marginpar{\textsf{{\footnotesize\vspace{-1em}\flushright #1}}}}
+
+
+%% custom ampersand (font consistent with the one chosen above)
+\newcommand{\amper}{{\fontspec[Scale=.95,Colour=AA0000]{Minion Pro Medium}\selectfont\&\,}}
+
+%% No bullets on labels
+\renewcommand{\labelitemi}{~} 
+
+%% Custom hanging indent for vita items
+\def\ind{\hangindent=1 true cm\hangafter=1 \noindent}
+%\def\ind{\hangindent=18pt\hangafter=1 \noindent}
+\def\labelitemi{~}
+\renewcommand{\labelitemii}{~}
+
+%%%------------------------------------------------------------------------
+%%% Page layout
+%%%------------------------------------------------------------------------
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\fancyfoot{}
+\rhead{{\scriptsize\thepage}}
+
+%% git revision control footer 
+%\rfoot{\texttt{\scriptsize \VCRevision\ on \VCDateTEX}} % git revision info inserted via external script -- see docs for vc package for details. comment out this line if you're not using vc, and also remove the \input{vc} line above.
+
+%%%------------------------------------------------------------------------
+%%% Address and contact block
+%%%------------------------------------------------------------------------
+\begin{minipage}[t]{2.95in}
+ \flushright {\footnotesize McMaster University, \\  \href{http://www.sociology.mcmaster.ca}{Department of Sociology}, KTH 620 \\ \vspace{-0.05in} Hamilton, \textsc{on} L8S 4M4}\\
+    % {\scriptsize  \texttt{\lastupdated}}\\
+  
+\end{minipage}
+\hfill     
+%\begin{minipage}[t]{0.0in}
+% dummy (needed here)
+%\end{minipage}
+\hfill
+\begin{minipage}[t]{1.7in}
+  \flushright \footnotesize Phone: \myphone \\ 
+  {\scriptsize  \texttt{\href{mailto:\myemail}{\myemail}}} \\
+  {\scriptsize  \texttt{\href{http://www.johnmclevey.com}{johnmclevey.com}}}\\
+\end{minipage}
+
+
+\bigskip
+
+%% Name 
+\noindent{\Large {\textsc{john mclevey}}}
+\reversemarginpar
+
+\medskip 
+
+%% Education
+\medskip 
+\marginhead{Education}
+
+\noindent PhD, Sociology, McMaster University, expected 2013\\ 
+
+\noindent {\it Dissertation:}\\ 
+``Creating and Communicating Policy Ideas in Multi-Institutional Settings: A Study of Think Tanks in Canada''\\
+
+\noindent {\it Exams:}\\
+Theory {\it (with Distinction)}\\
+Work, Occupations, Professions, and Organizations {\it (with Distinction)}\\
+
+\noindent MA, Sociology, McMaster University, 2009.\\
+\noindent BA Honors, Sociology, Memorial University of Newfoundland, 2008.\\
+
+%% Honors and Awards
+
+\marginhead{Honors, Awards}
+
+\noindent 2010–2013 Joseph-Armand Bombardier Canada Graduate Scholarship, Category A, SSHRC Doctoral Scholarship, \$35,000 per annum.\\
+
+\noindent 2012 Yates Scholarship, McMaster University, \$500.\\
+
+\noindent 2012 McMaster Graduate Student Association Travel Grant, \$500.\\
+
+\noindent 2011 McMaster Graduate Student Association Travel Grant, \$500.\\
+
+\noindent 2010–2011 Ontario Graduate Scholarship, \$15,000. Declined.\\
+
+\noindent 2009–2013 PhD Graduate Scholarship, McMaster University, \$52,000. Declined. (\$10,000 replaced by Ontario Graduate Fellowship in 2009–2010, replaced by SSHRC CGS 2010–2013)\\
+
+\noindent 2009–2010 Ontario Graduate Fellowship, \$12,000. Sociology Department Top Up, \$3,000.\\
+
+\noindent 2009 University Gold Medal for Academic Excellence in Sociology, Memorial University of Newfoundland.\\
+
+\noindent 2008 MA Graduate Scholarship, McMaster University, \$5,000.\\
+
+\noindent 2007 Dean's Book Award, Memorial University of Newfoundland.\\
+
+\noindent 2007 St. Andrew’s Society Scholarship, \$500.\\
+
+\noindent 2006 Scotiabank Scholarship for International Study, \$600.\\
+
+%% Publications 
+
+\marginhead{Publications (In Progress)}
+
+\noindent\emph{Under Review \vspace{0.01in}}
+
+\ind Neil McLaughlin and John McLevey. ``Robert Nisbet: The Science and Politics of Sociology.'' Under review at \textit{The Journal of Classical Sociology}.\\
+
+\noindent\emph{In Progress \vspace{0.01in}}
+
+\ind John McLevey. ``Think Tanks, Funding, and the Politics of Policy Knowledge in Canada.''\\
+
+\ind John McLevey. ``Utilitarianism and Communication Strategies: Epistemic Styles in the Production of Policy Knowledge in Canadian Think Tanks.''\\
+
+\ind John McLevey. ``The Institutional Conditions for Thick and Thin Democratic Imaginations among Canadian Think Tanks.''\\
+
+\ind Vanina Leschziner, Neil McLaughlin, John McLevey, and Allyson Stokes (Alphabetical listing). ``The American Fame Game: Academic Status and Public Renown in the Social Sciences.''\\
+
+\ind Vanina Leschziner, Neil McLaughlin, John McLevey, and Allyson Stokes (Alphabetical listing). ``Scientific Intellectual Movements?''\\
+
+\ind John McLevey and Allyson Stokes. ``Evaluation in `The Art of Fiction:' Attributions of Excellence Among Elite Novelists.''\\
+
+%% Research, Teaching Interests
+
+\marginhead{Research, Teaching Interests}
+
+\noindent Theory\\
+Sociology of Culture\\
+Sociologies of Knowledge and Science\\
+Work, Professions, and Organizational Sociology\\ 
+Qualitative and Comparative Methods\\ 
+Social Movements\\
+Economic Sociology\\
+
+%% Academic Work
+
+\marginhead{Research, Teaching Experience}
+
+\noindent 2010–Present {\it Research Assistant}\\
+Neil McLaughlin, Sociology, McMaster University.\\ 
+``Shaping Opinion in the Public Sphere: Public Intellectual Authority in the Journalistic Field'.' Funded by SSHRC.\\
+
+\noindent 2009–2010 {\it Teaching Assistant}\\
+Classical and Contemporary Sociological Theory.\\
+Neil McLaughlin, Sociology, McMaster University.\\
+
+\noindent 2008–2009 {\it Research Assistant}\\
+Neil McLaughlin, Sociology, McMaster University.\\ 
+``Professors as Public Intellectuals.'' Funded by SSHRC.\\
+
+\noindent 2009 {\it Conference Coordinator}\\
+``Cognitive Poetics,'' June 8–14.\\ 
+Paul Bouissac, French, University of Toronto. Funded by SSHRC.\\
+
+\noindent 2007–2008 {\it Research Assistant}\\
+Stephen Riggins, Sociology, Memorial University of Newfoundland.\\ 
+``50 Years of Sociology at Memorial University of Newfoundland.''\\
+
+\noindent 2006–2007 {\it General Assistant}\\
+Christopher Dunn, Political Science, Memorial University of Newfoundland.\\
+
+%% Additional Training
+
+\marginhead{Additional Training}
+
+\noindent Qualitative Comparative Analysis and Fuzzy Sets.\\ 
+Arizona Methods Workshops, held at University of Arizona. January, 2012.\\
+
+\noindent Hierarchical Linear Models.\\ 
+(ICPSR) Inter-University Consortium for Political and Social Research, held at University of Massachusetts, Amherst. June, 2011.\\
+
+%% Selected Conference Presentations
+
+\marginhead{Selected Conference Presentations}
+
+\ind June 2012 ``Epistemic Cultures in the Production of Policy Expertise'' Annual Qualitative Analysis Conference, Memorial University of Newfoundland, St John's NL, Canada.\\
+
+\ind May 2012 ``Translation Work and the Marketing of Policy Expertise: Leads from Research on Canadian Think Tanks.'' Annual meetings of the Canadian Sociology Association, Waterloo University, Waterloo ON, Canada. Sociology of Science session.\\
+
+\ind Aug 2011 ``Rhythms and Reason Giving: Understanding Academic Involvement in Canadian Think Tanks.'' Annual meetings of the American Sociology Association, Las Vegas, NV. Refinement of a paper presented in Philadelphia earlier that year. \\
+
+\ind May 2010 ``How and Why Do Academics Get Involved with Think Tanks?'' Annual Qualitative Analysis Conference, Wilfred Laurier University, Brantford ON, Canada.\\
+
+\ind April 2011 Participation in NYLON workshop ``Cultures of Circulation.'' Ottawa ON, Canada.\\
+
+\ind Feb 2011 (Previous version of) ``Rhythms and Reason Giving: Understanding Academic Involvement in Canadian Think Tanks.'' Annual meetings of the Eastern Sociology Society, Philadelphia PA, US. Regular Session on ``Constructing Workplaces and Professional Domains.''\\
+
+\ind June 2010 ``Contesting Education: A Comparative Frame Analysis of Opinion Pieces by The Fraser Institute and The Canadian Centre for Policy Alternatives.'' Annual meetings  of the Canadian Sociology Association, Concordia University, Montreal QC, Canada.\\
+
+\ind June 2010 (with Lisa Kowalchuk and Neil McLaughlin) ``Public Intellectual Work: Uses of the Canadian Op-Ed Column.'' Annual meetings of the Canadian Sociology Association, Concordia University, Montreal QC, Canada.\\
+
+\ind May 2010 (Previous version of) ``Contesting Education: A Comparative Frame Analysis of Opinion Pieces by The Fraser Institute and The Canadian Centre for Policy Alternatives.'' Annual Qualitative Analysis Conference, Wilfred Laurier University, Brantford ON, Canada.\\
+
+\ind May 2009 ``Understanding Marginality, Ambiguous Outcomes, and Failure in Social Movements Research and the Sociology of Ideas.'' Annual meetings of the Canadian Sociology Association, Carleton University, Ottawa ON, Canada.\\
+
+%% Professional Service
+
+\marginhead{Professional Service}
+
+\noindent Peer Reviewing: {\it Sociological Theory}\\
+
+\noindent {\it McMaster University}\\
+\noindent 2012–2013 Peer Mentor Committee\\
+\noindent 2011–2012 Selection Committee member for tenure-track hire in Sociology\\
+\noindent 2010–2012 Chair of Graduate Student Caucus\\
+\noindent 2011–2012 PhD (ABD) Representative on the Graduate Committee\\
+\noindent 2009–2010 PhD Representative on the Graduate Committee\\
+\noindent 2009–2010 Co-Organizer, Culture and Politics workshop\\
+\noindent 2009–2012 Co-Organizer of Jane Synge Memorial Conferences and Graduate Student Conference (2009), Sociology, McMaster University\\
+\noindent 2009–Present Peer Mentor in Sociology Peer Mentoring Program\\
+\noindent 2008–2009 Union Steward, Sociology (CUPE 3906)\\
+
+%% Professional Memberships
+
+\marginhead{Professional Memberships}
+
+\noindent Canadian Sociological Association\\
+\noindent American Sociological Association \\
+\noindent Eastern Sociological Society\\
+\noindent Society for Social Studies of Science (4S)\\
+
+
+%% References
+
+\marginhead{References}
+
+\noindent Dr. Neil McLaughlin\\
+Associate Professor, Department of Sociology\\
+McMaster University\\
+Hamilton ON, Canada, L8S 4M4\\
+nmclaugh@mcmaster.ca\\
+
+\noindent Dr. Scott Davies\\
+Professor, Department of Sociology\\
+McMaster University\\
+Hamilton ON, Canada, L8S 4M4\\
+daviesrs@mcmaster.ca\\
+
+\noindent Dr. Tina Fetner\\
+Associate Professor, Department of Sociology\\
+McMaster University\\
+Hamilton ON, Canada, L8S 4M4\\
+fetnert@mcmaster.ca\\
+
+\noindent Others available on request.\\
+
+\end{document}
