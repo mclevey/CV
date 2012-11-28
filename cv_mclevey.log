@@ -1,6 +1,7 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  12 OCT 2012 20:03
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  26 NOV 2012 19:33
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **cv_mclevey.tex
 (./cv_mclevey.tex
@@ -465,7 +466,7 @@ LaTeX Info: Redefining \upshape on input line 1905.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 
-! LaTeX Error: Option clash for package color.
+./cv_mclevey.tex:52: LaTeX Error: Option clash for package color.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -473,7 +474,15 @@ Type  H <return>  for immediate help.
                                                   
 l.52 
      
-? 
+The package color has already been loaded with options:
+  []
+There has now been an attempt to load it with options
+  [usenames,dvipsnames]
+Adding the global options:
+  ,usenames,dvipsnames
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
 
@@ -832,59 +841,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--158
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--161
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Overfull \hbox (12.33493pt too wide) in paragraph at lines 161--162
+\EU1/MinionPro(0)/m/n/10.95 BA Honors, Sociology (with Anthropology and Politic
+al Science), Memorial University
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
-
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+\EU1/MyriadPro(0)/m/n/9 Teaching
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
-
- []
-
-
-Overfull \hbox (4.45395pt too wide) in paragraph at lines 176--177
-\EU1/MinionPro(0)/m/n/10.95 ($10,000 replaced by Ontario Graduate Fellowship in
- 2009–2010, replaced by SSHRC
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
-
- []
-
-
-Overfull \hbox (17.38586pt too wide) in paragraph at lines 180--181
-\EU1/MinionPro(0)/m/n/10.95 2009 University Gold Medal for Academic Excellence 
-in Sociology, Memorial University
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 167--177
 
  []
 
@@ -894,14 +872,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--183
  []
 
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[1
-
-]
 Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
@@ -917,7 +887,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--189
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+
+Overfull \hbox (4.45395pt too wide) in paragraph at lines 192--193
+\EU1/MinionPro(0)/m/n/10.95 ($10,000 replaced by Ontario Graduate Fellowship in
+ 2009–2010, replaced by SSHRC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+
+Overfull \hbox (17.38586pt too wide) in paragraph at lines 196--197
+\EU1/MinionPro(0)/m/n/10.95 2009 University Gold Medal for Academic Excellence 
+in Sociology, Memorial University
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
@@ -932,172 +942,144 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--203
  []
 
 
-Overfull \hbox (27.61292pt too wide) in paragraph at lines 204--205
-\EU1/MinionPro(0)/m/n/10.95 John McLevey. “The Institutional Conditions for T
-hick and Thin Democratic Imaginations
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
 
-Overfull \hbox (8.84412pt too wide) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+
+Overfull \hbox (25.48315pt too wide) in paragraph at lines 222--223
+\EU1/MinionPro(0)/m/n/10.95 John McLevey. “Think Tanks and Climate Change: Ar
+gumentative Styles and Perspectives
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+
+Overfull \hbox (8.84412pt too wide) in paragraph at lines 224--225
 \EU1/MinionPro(0)/m/n/10.95 Vanina Leschziner, Neil McLaughlin, John McLevey, a
 nd Allyson Stokes (Alphabetical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
 
-Overfull \hbox (8.84412pt too wide) in paragraph at lines 208--209
+Overfull \hbox (8.84412pt too wide) in paragraph at lines 226--227
 \EU1/MinionPro(0)/m/n/10.95 Vanina Leschziner, Neil McLaughlin, John McLevey, a
 nd Allyson Stokes (Alphabetical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--214
-[]\EU1/MyriadPro(0)/m/n/9 Research,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--214
-\EU1/MyriadPro(0)/m/n/9 Teaching
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--223
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--226
-[]\EU1/MyriadPro(0)/m/n/9 Research,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--226
-\EU1/MyriadPro(0)/m/n/9 Teaching
  []
 
 [2]
-Overfull \hbox (11.03162pt too wide) in paragraph at lines 228--231
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\EU1/MyriadPro(0)/m/n/9 Research,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\EU1/MyriadPro(0)/m/n/9 Teaching
+ []
+
+
+Overfull \hbox (11.03162pt too wide) in paragraph at lines 234--237
 \EU1/MinionPro(0)/m/n/10.95 “Shaping Opinion in the Public Sphere: Public Int
 ellectual Authority in the Journalistic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--231
+Underfull \hbox (badness 10000) in paragraph at lines 234--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--235
+Underfull \hbox (badness 10000) in paragraph at lines 238--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--239
+Underfull \hbox (badness 10000) in paragraph at lines 242--245
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--243
+Underfull \hbox (badness 10000) in paragraph at lines 246--249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--247
+Underfull \hbox (badness 10000) in paragraph at lines 250--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--250
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--253
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
 []\EU1/MyriadPro(0)/m/n/9 Additional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
+Underfull \hbox (badness 10000) in paragraph at lines 261--263
 
  []
 
 
-Overfull \hbox (21.90741pt too wide) in paragraph at lines 258--260
+Overfull \hbox (21.90741pt too wide) in paragraph at lines 264--266
 \EU1/MinionPro(0)/m/n/10.95 (ICPSR) Inter-University Consortium for Political a
 nd Social Research, held at University
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--260
+Underfull \hbox (badness 10000) in paragraph at lines 264--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--263
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []\EU1/MyriadPro(0)/m/n/9 Selected
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--263
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \EU1/MyriadPro(0)/m/n/9 Conference
  []
 
 
-Overfull \hbox (17.59612pt too wide) in paragraph at lines 265--266
+Overfull \hbox (17.59612pt too wide) in paragraph at lines 271--272
 \EU1/MinionPro(0)/m/n/10.95 June 2012 “Epistemic Cultures in the Production o
 f Policy Expertise” Annual Qualitative
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
-
- []
-
-
-Overfull \hbox (17.13844pt too wide) in paragraph at lines 267--268
-\EU1/MinionPro(0)/m/n/10.95 Research on Canadian Think Tanks.” Annual meeting
-s of the Canadian Sociology
- []
-
-
-Overfull \hbox (3.32613pt too wide) in paragraph at lines 267--268
-\EU1/MinionPro(0)/m/n/10.95 Association, Waterloo University, Waterloo ON, Cana
-da. Sociology of Science
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
-
- []
-
-[3]
-Overfull \hbox (19.53284pt too wide) in paragraph at lines 269--270
-\EU1/MinionPro(0)/m/n/10.95 Canadian Think Tanks.” Annual meetings of the Ame
-rican Sociology Association,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--270
-
  []
 
 
@@ -1106,14 +1088,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 271--272
  []
 
 
+Overfull \hbox (17.13844pt too wide) in paragraph at lines 273--274
+\EU1/MinionPro(0)/m/n/10.95 Research on Canadian Think Tanks.” Annual meeting
+s of the Canadian Sociology
+ []
+
+
+Overfull \hbox (3.32613pt too wide) in paragraph at lines 273--274
+\EU1/MinionPro(0)/m/n/10.95 Association, Waterloo University, Waterloo ON, Cana
+da. Sociology of Science
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
-
-Overfull \hbox (15.87878pt too wide) in paragraph at lines 275--276
-\EU1/MinionPro(0)/m/n/10.95 Feb 2011 (Previous version of) “Rhythms and Reaso
-n Giving: Understanding Academic
+[3]
+Overfull \hbox (19.53284pt too wide) in paragraph at lines 275--276
+\EU1/MinionPro(0)/m/n/10.95 Canadian Think Tanks.” Annual meetings of the Ame
+rican Sociology Association,
  []
 
 
@@ -1122,14 +1116,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--276
  []
 
 
-Overfull \hbox (9.05028pt too wide) in paragraph at lines 277--278
-\EU1/MinionPro(0)/m/n/10.95 Annual meetings of the Canadian Sociology Associati
-on, Concordia University,
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
-
+Overfull \hbox (7.16847pt too wide) in paragraph at lines 279--280
+\EU1/MinionPro(0)/m/n/10.95 April 2011 Invited participant in NYLON workshop �
+�Cultures of Circulation.” Ottawa
  []
 
 
@@ -1138,15 +1132,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--280
  []
 
 
-Overfull \hbox (13.907pt too wide) in paragraph at lines 281--282
-\EU1/MinionPro(0)/m/n/10.95 May 2010 (Previous version of) “Contesting Educat
-ion: A Comparative Frame Analysis
- []
-
-
-Overfull \hbox (22.86673pt too wide) in paragraph at lines 281--282
-\EU1/MinionPro(0)/m/n/10.95 Alternatives.” Annual Qualitative Analysis Confer
-ence, Wilfred Laurier University,
+Overfull \hbox (15.87878pt too wide) in paragraph at lines 281--282
+\EU1/MinionPro(0)/m/n/10.95 Feb 2011 (Previous version of) “Rhythms and Reaso
+n Giving: Understanding Academic
  []
 
 
@@ -1155,13 +1143,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 281--282
  []
 
 
+Overfull \hbox (9.05028pt too wide) in paragraph at lines 283--284
+\EU1/MinionPro(0)/m/n/10.95 Annual meetings of the Canadian Sociology Associati
+on, Concordia University,
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 283--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]\EU1/MyriadPro(0)/m/n/9 Professional
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Overfull \hbox (13.907pt too wide) in paragraph at lines 287--288
+\EU1/MinionPro(0)/m/n/10.95 May 2010 (Previous version of) “Contesting Educat
+ion: A Comparative Frame Analysis
+ []
+
+
+Overfull \hbox (22.86673pt too wide) in paragraph at lines 287--288
+\EU1/MinionPro(0)/m/n/10.95 Alternatives.” Annual Qualitative Analysis Confer
+ence, Wilfred Laurier University,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
  []
 
 
@@ -1170,61 +1181,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 289--290
  []
 
 
-Overfull \hbox (5.75185pt too wide) in paragraph at lines 291--301
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+[]\EU1/MyriadPro(0)/m/n/9 Professional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+
+Overfull \hbox (5.75185pt too wide) in paragraph at lines 297--307
 \EU1/MinionPro(0)/m/n/10.95 2009–2012 Co-Organizer of Jane Synge Memorial Con
 ferences and Graduate Student
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--301
+Underfull \hbox (badness 10000) in paragraph at lines 297--307
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 304--304
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
 []\EU1/MyriadPro(0)/m/n/9 Professional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--310
+Underfull \hbox (badness 10000) in paragraph at lines 312--317
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--321
+Underfull \hbox (badness 10000) in paragraph at lines 324--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--327
+Underfull \hbox (badness 10000) in paragraph at lines 330--335
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--333
+Underfull \hbox (badness 10000) in paragraph at lines 336--341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
  (./cv_mclevey.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 336.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 336.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 336.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 344.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 344.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
  ) 
 Here is how much of TeX's memory you used:
  18852 strings out of 494004
  375757 string characters out of 3150890
- 390094 words of memory out of 3000000
+ 391094 words of memory out of 3000000
  21938 multiletter control sequences out of 15000+200000
  4164 words of font info for 43 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 44i,12n,43p,583b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,11n,43p,583b,326s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on cv_mclevey.pdf (5 pages).
