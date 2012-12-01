@@ -2,7 +2,7 @@
 
 \documentclass[11pt,usenames,dvipsnames]{article}
 
-\usepackage[none]{hyphenat} % This removed hypenation. I added it to KH's template
+\usepackage[none]{hyphenat} % remove hyphenation
 
 %%%------------------------------------------------------------------------
 %%% Metadata
@@ -22,26 +22,17 @@
 \def\myphone{(647) 921-2044}
 \def\myversion{}
 \def\myrevision{}
-\def\lastupdated{Last Updated: October 12, 2012} % WHAT IS THE DATE TODAY???
+\def\lastupdated{Last Updated: December 1, 2012} 
 
 \def\myaffiliation{McMaster University}
 \def\myauthor{John McLevey}
-\date{} % not used (revision control instead)
+\date{}
 \def\mykeywords{John, McLevey, John McLevey, Vita, CV, Resume, Sociology}
-
-%%%------------------------------------------------------------------------  
-%%% Git version tracking 
-%%%------------------------------------------------------------------------
-
-%% If you don't use git or the vc package (from CTAN), comment this out.
-%% If you comment it out, be sure to remove the \rfoot comment below, too.
-%\input{vc}
 
 %%%------------------------------------------------------------------------
 %%% Required style files
 %%%------------------------------------------------------------------------
 \usepackage{url,fancyhdr}
-%%\usepackage{revnum} % for reverse-numbered publications (revnumerate environment) if needed.
 
 %% needed for xelatex to work
 \usepackage{fontspec}
@@ -49,7 +40,6 @@
 
 %% color for the links 
 \usepackage[usenames,dvipsnames]{color}
-
 
 %% hyperlinks
 \usepackage[xetex, 
@@ -69,15 +59,9 @@
 %%%------------------------------------------------------------------------
 \begin{document}
 
-%% Choose fonts for use with xelatex
-%% Minion and Myriad are widely available, from Adobe. 
-%% Pragmata is available to buy at http://www.fsd.it/fonts/pragma.htm
-%% and is worth every penny. Any good monospace font will work fine, though.
-%% Consolas or inconsolata are good alternatives.
 \setromanfont[Mapping={tex-text},Numbers={OldStyle},Ligatures={Common}]{Minion Pro} 
 \setsansfont[Mapping=tex-text,Colour=AA0000]{Myriad Pro}
 \setmonofont[Mapping=tex-text,Scale=0.9]{Inconsolata} 
-
 
 %%%------------------------------------------------------------------------
 %%% Local commands
@@ -89,7 +73,6 @@
 %% item in the body text. Like this: \marginhead{{\vskip 0.4em}Grants}, or 
 %% \marginhead{{\vskip 0.8em}Service}. Experiment as needed.
 \newcommand{\marginhead}[1]{\marginpar{\textsf{{\footnotesize\vspace{-1em}\flushright #1}}}}
-
 
 %% custom ampersand (font consistent with the one chosen above)
 \newcommand{\amper}{{\fontspec[Scale=.95,Colour=AA0000]{Minion Pro Medium}\selectfont\&\,}}
@@ -111,9 +94,6 @@
 \fancyhead{}
 \fancyfoot{}
 \rhead{{\scriptsize\thepage}}
-
-%% git revision control footer 
-%\rfoot{\texttt{\scriptsize \VCRevision\ on \VCDateTEX}} % git revision info inserted via external script -- see docs for vc package for details. comment out this line if you're not using vc, and also remove the \input{vc} line above.
 
 %%%------------------------------------------------------------------------
 %%% Address and contact block
@@ -172,8 +152,6 @@ Work, Professions, and Organizational Sociology\\
 Culture \\
 Qualitative and Comparative Methods\\ 
 Social Movements and Contentious Politics\\
-%Environmental Sociology \\
-%Economic Sociology
 
 %% Honors and Awards
 
@@ -314,8 +292,6 @@ Arizona Methods Workshops, held at University of Arizona. January, 2012.\\
 \noindent Eastern Sociological Society\\
 \noindent Society for Social Studies of Science (4S)\\
 \noindent Canadian Political Science Association \\
-
-
 
 %% References
 
