@@ -1,0 +1,2 @@
++ CV uses Kieran Healy's template: http://www.kieranhealy.org/latex-custom-kjh.html
++ Requires *XeLaTeX* 
