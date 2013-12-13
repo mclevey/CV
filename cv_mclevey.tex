@@ -27,6 +27,9 @@
 \date{}
 \def\mykeywords{John, McLevey, John McLevey, Vita, CV, Resume, Sociology}
 
+\immediate\write18{sh ./vc}
+\input{vc.tex}
+
 %%%------------------------------------------------------------------------
 %%% Required style files
 %%%------------------------------------------------------------------------
@@ -42,7 +45,7 @@
 
 %% hyperlinks
 \usepackage[xetex, 
-	colorlinks=false,
+	colorlinks=true,
 	urlcolor=BlueViolet,
 	plainpages=false,
   	pdfpagelabels,
@@ -95,6 +98,9 @@
 \fancyhead{}
 \fancyfoot{}
 \rhead{{\scriptsize\thepage}}
+
+%% git revision control footer 
+\rfoot{\texttt{\scriptsize \VCRevision\ on \VCDateTEX}} % git revision info inserted via external script -- see docs for vc package for details. comment out this line if you're not using vc, and also remove the \input{vc} line above.
 
 %%%------------------------------------------------------------------------
 %%% Address and contact block
@@ -175,7 +181,7 @@
 
 % \noindent\emph{Articles Under Review \vspace{0.01in}}
 
-\ind John McLevey. ``How Think Tanks Produce and Promote Policy Ideas.'' Revise and resubmit from \emph{Social Studies of Science}\\
+\ind John McLevey. ``How Think Tanks Produce and Promote Policy Ideas.'' Revise and resubmit from \emph{Social Studies of Science}, resubmitted in November \\
 
 % \ind John McLevey. ``Think Tanks in the Space of Opinion: Tactics for Creating Uncertainty about the Scientific Consensus on Climate Change.'' \emph{In progress} \\ % For submission to either \emph{Science, Technology \& Human Values}
 
@@ -183,11 +189,11 @@
 
 % \noindent\emph{Manuscripts in Preparation \vspace{0.01in}}
 
-\ind John McLevey. ``What Does it Mean to be `Free?' Hacking in the Free / Open Source Field.'' \emph{In progress} \\ % For submission to \emph{Poetics}
+\ind John McLevey. ``What Does it Mean to be `Free?' Hacking in the Free / Open Source Field.'' Preparing for submission to \emph{Poetics} \\
 
-\ind John McLevey. ``Think Tanks in the Space of Opinion: Tactics for Creating Uncertainty about the Scientific Consensus on Climate Change.'' \emph{In progress} \\ % For submission to either \emph{Science, Technology \& Human Values}
+\ind John McLevey. ``Think Tanks in the Space of Opinion: Tactics for Creating Uncertainty about the Scientific Consensus on Climate Change.''  Preparing for submission to \emph{Sociological Quarterly} \\
 
-\ind Vanina Leschziner, Neil McLaughlin, John McLevey, and Allyson Stokes (Alphabetical listing). ``The American Fame Game: Academic Status and Public Renown in the Social Sciences.'' \emph{In progress} \\ % For submission to \emph{Poetics}
+\ind Vanina Leschziner, Neil McLaughlin, John McLevey, and Allyson Stokes (Alphabetical listing). ``The American Fame Game: Academic Status and Public Renown in the Social Sciences.'' Preparing for submission to \emph{Poetics} \\
 
 \ind Vanina Leschziner, Neil McLaughlin, John McLevey, and Allyson Stokes (Alphabetical listing). ``Scientific Intellectual Movements?'' \emph{In progress} \\ % For submission to \emph{Theory \& Society} or \emph{American Sociological Review}
 
@@ -355,8 +361,6 @@ Arizona Methods Workshops, held at University of Arizona. January, 2012.\\
 
 \noindent Tina Fetner, Associate Professor, Sociology, McMaster University, Hamilton ON, Canada, \href{mailto:fetnert@mcmaster.ca}{fetnert@mcmaster.ca}\\
 
-\noindent Scott Davies, Professor, Sociology, McMaster University, Hamilton ON, Canada, \href{mailto:daviesrs@mcmaster.ca}{daviesrs@mcmaster.ca}\\
-
-% \noindent Others available on request.\\
+\noindent Scott Davies, Professor, Sociology, McMaster University, Hamilton ON, Canada, \href{mailto:daviesrs@mcmaster.ca}{daviesrs@mcmaster.ca}
 
 \end{document}
