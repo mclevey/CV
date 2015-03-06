@@ -1,12 +1,11 @@
 %!TEX program = xelatex
-
-\documentclass[11pt,usenames,dvipsnames]{article}
+\documentclass[9pt,usenames,dvipsnames]{article}
 
 %%%------------------------------------------------------------------------
 %%% Metadata
 %%%------------------------------------------------------------------------
 
-\def\myauthor{John McLevey}
+\def\myauthor{JOHN MCLEVEY}
 \def\mytitle{Vita}
 \def\mycopyright{\myauthor}
 \def\mykeywords{}
@@ -20,10 +19,10 @@
 \def\myphone{(647) 921-2044}
 \def\myversion{}
 \def\myrevision{}
-\def\lastupdated{Last Updated: June 25, 2013} 
+\def\lastupdated{Last Updated: March 5, 2015} 
 
 \def\myaffiliation{University of Waterloo}
-\def\myauthor{John McLevey}
+\def\myauthor{JOHN MCLEVEY}
 \date{}
 \def\mykeywords{John, McLevey, John McLevey, Vita, CV, Resume, Sociology}
 
@@ -35,6 +34,7 @@
 %%%------------------------------------------------------------------------
 \usepackage{url,fancyhdr}
 \usepackage[none]{hyphenat} % remove hyphenation
+\usepackage{fontawesome}
 
 %% needed for xelatex to work
 \usepackage{fontspec}
@@ -45,25 +45,26 @@
 
 %% hyperlinks
 \usepackage[xetex, 
-	colorlinks=true,
-	urlcolor=BlueViolet,
-	plainpages=false,
-  	pdfpagelabels,
-  	bookmarksnumbered,
-  	pdftitle={\mytitle},
-  	pagebackref,
-  	pdfauthor={\myauthor},
-  	pdfkeywords={\mykeywords}
-  	]{hyperref}
+  colorlinks=true,
+  urlcolor=BlueViolet,
+  plainpages=false,
+    pdfpagelabels,
+    bookmarksnumbered,
+    pdftitle={\mytitle},
+    pagebackref,
+    pdfauthor={\myauthor},
+    pdfkeywords={\mykeywords}
+    ]{hyperref}
 
 %%%------------------------------------------------------------------------
 %%% Document
 %%%------------------------------------------------------------------------
 \begin{document}
 
-\setromanfont[Mapping={tex-text},Numbers={OldStyle},Ligatures={Common}]{Times New Roman} 
-\setsansfont[Mapping=tex-text,Colour=AA0000]{Times New Roman}
-\setmonofont[Mapping=tex-text,Scale=0.9]{Menlo} 
+\setromanfont[Mapping={tex-text},Numbers={OldStyle},Ligatures={Common}]{Crimson Text Regular} 
+\setsansfont[Mapping=tex-text]{Lato Semibold}
+\setmonofont[Mapping=tex-text,Scale=0.9]{Inconsolata} 
+\newfontfamily\myfont[Mapping=tex-text]{Lato Black}
 
 \setkeys{Gin}{width=1\textwidth} 
 
@@ -110,140 +111,131 @@
 % \reversemarginpar
 
 \begin{minipage}[t]{2.95in}
- \flushright \footnotesize \href{https://uwaterloo.ca/}{University of Waterloo} \\  \href{https://uwaterloo.ca/knowledge-integration/faculty-mclevey}{Knowledge Integration} \\ \href{http://sociology.uwaterloo.ca/}{Sociology and Legal Studies} \\ \href{https://uwaterloo.ca/environment-resource-studies/}{Environment and Resource Studies} \\
-    % {\scriptsize  \texttt{\lastupdated}}\\
+ \flushright \footnotesize \href{https://uwaterloo.ca/}{University of Waterloo} \\  \href{https://uwaterloo.ca/knowledge-integration/faculty-mclevey}{Department of Knowledge Integration} \\ Waterloo, ON, Canada \\ N2L 3G1\\
   \end{minipage}
 \hfill     
-%\begin{minipage}[t]{0.0in}
-% dummy (needed here)
-%\end{minipage}
 \hfill
 \begin{minipage}[t]{1.7in}
-  \flushright \footnotesize Office: EV1-212 \\ Phone: \myphone \\ 
-  {\scriptsize  \texttt{\href{mailto:\myemail}{\myemail}}} \\
-  {\scriptsize  \texttt{\href{http://www.johnmclevey.com}{johnmclevey.com}}}\\
-  {\scriptsize  \texttt{\href{http://plaisance-mclevey-lab.github.io/}{plaisance-mclevey-lab.org}}}\\
+  \flushright \footnotesize \myphone\, \faPhone \\
+  {\texttt{\href{mailto:\myemail}{\myemail}} \, \faEnvelope} \\
+  {\texttt{\href{\myweb}{\myweb}} \, \faGlobe} \\
+  {\texttt{\lastupdated}}\\
 \end{minipage}
 
 
 \bigskip
 
 %% Name 
-\noindent{\huge {John McLevey}}
+\noindent{\large {\myfont John McLevey}}
 \reversemarginpar
 
 \bigskip 
-\marginhead{Appointments}
-\medskip 
+\marginhead{APPOINTMENTS}
+\smallskip 
 \noindent 2013-present. Assistant Professor (tenure track), University of Waterloo \\
 \noindent Department of Knowledge Integration, Faculty of Environment \\
-\noindent Cross-appointed to Department of Sociology and Legal Studies, Faculty of Arts \\
-\noindent Cross-appointed to Environment and Resource Studies, Faculty of Environment \\
+\noindent Department of Sociology and Legal Studies, Faculty of Arts \\
+\noindent Environment and Resource Studies, Faculty of Environment \\
 \smallskip
 
-\marginhead{Affiliations}
+\marginhead{AFFILIATIONS}
 
-\noindent 2014-present. Affiliate Researcher, \href{http://wici.ca/new/}{Waterloo Institute for Complexity and Innovation}, University of Waterloo \\
+\ind 2014-present. Affiliate Researcher, \href{http://wici.ca/new/}{Waterloo Institute for Complexity and Innovation}, University of Waterloo 
 
-\noindent 2014-present. Fellow, Science and Health Policy Research Cluster, \href{http://www.balsillieschool.ca/}{Balsillie School of International Affairs}, University of Waterloo \\
+\ind 2014-present. Fellow, Science and Health Policy Research Cluster, \href{http://www.balsillieschool.ca/}{Balsillie School of International Affairs}, University of Waterloo \\
 
-
-%% Education
 \medskip 
-\marginhead{Education}
+\marginhead{EDUCATION}
 
-\noindent PhD, Sociology, McMaster University, June 24 2013
+\noindent 2013. PhD, Sociology, McMaster University \\
+\noindent 2009. MA, Sociology, McMaster University \\
+\noindent 2008. BA Honors, Sociology, Memorial University \\
 
-% \begin{quote}
-% \noindent {\it Dissertation:} ``Producing and Promoting Policy Ideas: A Study of Think Tanks in Canada''\\
+\marginhead{RESEARCH AREAS}
 
-% \noindent {\it Exams:} Sociological Theory {\it (with Distinction)}, Work and Organizations {\it (with Distinction)}\\
-% \end{quote}
+\noindent Knowledge, Science, and Technology; Social Networks; Environmental Sociology; Sociology of Culture; Social Movements; Research Methods \\
 
-\noindent MA, Sociology, McMaster University, 2009
-
-\noindent BA Honors, Sociology, Memorial University of Newfoundland, 2008 \\
-
-%% Research, Teaching Interests
-
-\marginhead{Research Areas}
-
-\noindent Sociology of Science; Technology; Social Networks; Organizations; Social Movements; Research Methods; Sociology of Culture \\
-
-%% Honors and Awards
-
-% \bigskip
-%% Publications 
-\marginhead{Publications}
+\marginhead{PUBLICATIONS}
 
 \ind \textbf{Peer Reviewed Journal Articles} \\
 
-\ind John McLevey. Accepted. ``How Think Tanks Produce and Promote Policy Ideas.'' \emph{Social Studies of Science}. \\
+\ind John McLevey. 2015. ``Understanding Policy Research in Liminal Spaces: Think Tank Responses to Diverging Principles of Legitimacy.'' In Press at \emph{Social Studies of Science}. \\
 
 \ind John McLevey. 2014. ``Think Tanks, Funding, and the Politics of Policy Knowledge in Canada.'' \emph{Canadian Review of Sociology / Revue canadienne de sociologie}. 51(1):54-75.\\
 
-\marginhead{In Progress}
+\marginhead{IN PROGRESS}
 
-\ind \textbf{Articles Under Review} \\
+\ind \textbf{Manuscripts in Preparation or in Progress} \\
 
-\ind John McLevey. ``Struggling Over Climate Expertise: `Consensus' and `Skepticism' in the Space of Opinion.'' \emph{Under review.}   \\ % Preparing for submission to \emph{Science, Technology, \& Human Values} \\
+\ind Allyson Stokes and John McLevey (equal authors). ``From Porter to Bourdieu: A Co-Citation Network Analysis of Sociology in Canada, 1966-2013.'' \emph{Preparing for submission to Canadian Review of Sociology} \\
 
-% \marginhead{In Progress}
+\ind John McLevey. ``Collaborating On-Line: An Analysis of Communication Networks for Linux Kernel Developers.'' \emph{Preparing for submission to Social Forces} \\
 
-\ind \textbf{In Preparation} \\
+\ind John McLevey. ``Climate Change and Strange Transmuted Expertise.'' \emph{Preparing for submission to British Journal of Sociology} \\
 
-\ind Allyson Stokes and John McLevey (equal authors). ``From Porter to Bourdieu: A Co-Citation Network Analysis of Sociology in Canada, 1966-2013.'' \\
+\ind John McLevey and Thomas Medvetz. ``Mapping Think Tank Dependence and Autonomy: A Comparison of Canada and the United States.'' \emph{Preparing for submission to Science and Public Policy}\\
 
-\ind John McLevey. ``Collaborating On-Line: An Analysis of Communication Networks for Linux Kernel Developers.'' \\
+\ind Katie Plaisance and John McLevey (equal authors). ``Mapping the Uptake of Philosophy of Science in the Sciences.'' \emph{In progress}\\
 
-\ind Vanina Leschziner, Neil McLaughlin, and John McLevey (equal authors). ``The American Fame Game: Academic Status and Public Renown in the Social Sciences.'' \\ 
+\ind Vanina Leschziner, Neil McLaughlin, and John McLevey (equal authors). ``The American Fame Game: Academic Status and Public Renown in the Social Sciences.'' \emph{Preparing for submission to Poetics} \\ 
 
-\ind Katie Plaisance and John McLevey (equal authors). ``Mapping the Uptake of Philosophy of Science in the Sciences.'' \\
+\ind John McLevey, Amelia Howard, Alexander Graham, and Tiffany Lin. ``The Developer Imitation Games: How Culture Shapes Free / Open Source Development.'' \emph{In progress}\\
 
-\ind John McLevey and Thomas Medvetz. ``Think Tanks in Canada and the US.'' \\
+\ind Allyson Stokes, John McLevey, and Neil McLaughlin. ``The Partial Canonization of a Dissident Sociologist: C. Wright Mills, Intellectual Social Movements, and Public Intellectuals.'' \emph{In progress}\\ % Preparing for submission to \emph{Cultural Sociology}\\
 
-\ind Allyson Stokes, John McLevey, and Neil McLaughlin. ``The Partial Canonization of a Dissident Sociologist: C. Wright Mills, Intellectual Social Movements, and Public Intellectuals.'' \\ % Preparing for submission to \emph{Cultural Sociology}\\
-
-\ind Neil McLaughlin, John McLevey, and Allyson Stokes. ``Intellectual Movements.'' \\
-
-\ind John McLevey, Amelia Howard, Tiffany Lin, and Sasha Graham. ``The Developer Imitation Games: How Culture Shapes Free / Open Source Development.'' \\
+% \ind Neil McLaughlin, John McLevey, and Allyson Stokes. ``Intellectual Movements.'' \\
 
 % \ind John McLevey. ``Does Research Funding Shape Knowledge Production in Machine Learning Research? A Network Analysis.'' \\ 
 
 % \ind Vanina Leschziner, Neil McLaughlin, John McLevey, and Allyson Stokes (equal authors). ``Scientific Intellectual Movements?'' \emph{In progress} \\ % For submission to \emph{Theory \& Society} or \emph{American Sociological Review}
 
-\marginhead{Other Writing}
+\marginhead{OP-EDS}
 
-\noindent John McLevey and Liam Swiss. ``\href{http://bit.ly/1ohSn1N}{Tory war on evidence claims another casualty}.'' \emph{Toronto Star} Op-Ed published on September 24 2014, section A15. Links: \href{http://bit.ly/1ohSn1N}{PDF scan} or \emph{Toronto Star} \href{http://on.thestar.com/1vbUGbU}{web site}. \\  
+\ind ``\href{http://bit.ly/1ohSn1N}{Tory war on evidence claims another casualty}'' with Liam Swiss. \emph{Toronto Star} Op-Ed published on September 24 2014, section A15. \\ 
 
-\marginhead{Grants, Awards (since 2008)}
+\marginhead{GRANTS AWARDS}
 
-\noindent 2014-2016 \href{http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
-bventions_de_developpement_savoir-eng.aspx}{Social Science and Humanities Research Council of Canada (\textbf{SSHRC}), Insight Development Grant},``Collaborative Design in Online Networks,'' \$74,814. \\
+\ind 2014-2016 \href{http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
+bventions_de_developpement_savoir-eng.aspx}{Social Science and Humanities Research Council of Canada (\textbf{SSHRC}), Insight Development Grant}, John McLevey, ``Collaborative Design in Online Networks,'' \$74,814. \\
 
-\noindent 2013 University of Waterloo, Faculty Research Startup Grant, \$15,000. \\
+\ind 2013 University of Waterloo, Faculty Research Startup Grant, \$15,000. \\
 
-\noindent 2010–2013 \href{http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/fellowships/doctoral-doctorat-eng.aspx}{Joseph-Armand Bombardier Canada Graduate Scholarship}, Category A, SSHRC Doctoral Scholarship, \$105,000.\\
+\ind 2010–2013 \href{http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/fellowships/doctoral-doctorat-eng.aspx}{Joseph-Armand Bombardier Canada Graduate Scholarship}, Category A, SSHRC Doctoral Scholarship, \$105,000.\\
 
-\noindent 2009–2013 PhD Graduate Scholarship, McMaster University, \$52,000. Declined. (\$10,000 replaced by Ontario Graduate Fellowship in 2009–2010, replaced by SSHRC CGS 2010–2013)\\
+\ind 2009–2013 PhD Graduate Scholarship, McMaster University, \$52,000. Declined. (\$10,000 replaced by Ontario Graduate Fellowship in 2009–2010, replaced by SSHRC CGS 2010–2013)\\
 
-\noindent 2010–2011 Ontario Graduate Scholarship, \$15,000. Declined.\\
+\ind 2010–2011 Ontario Graduate Scholarship, \$15,000. Declined.\\
 
-\noindent 2009–2010 Ontario Graduate Fellowship, \$12,000. Sociology Department Top Up, \$3,000.\\
+\ind 2009–2010 Ontario Graduate Fellowship, \$12,000. Sociology Department Top Up, \$3,000.\\
 
-\noindent 2012 Yates Scholarship, McMaster University, \$500.\\
+\ind 2012 Yates Scholarship, McMaster University, \$500.\\
 
-\noindent 2012 McMaster Graduate Student Association Travel Grant, \$500.\\
+\ind 2012 McMaster Graduate Student Association Travel Grant, \$500.\\
 
-\noindent 2011 McMaster Graduate Student Association Travel Grant, \$500.\\
+\ind 2011 McMaster Graduate Student Association Travel Grant, \$500.\\
 
-\noindent 2009 University Gold Medal for Academic Excellence in Sociology, Memorial University of Newfoundland.\\
+\ind 2009 University Gold Medal for Academic Excellence in Sociology, Memorial University.\\
 
-\noindent 2008 MA Graduate Scholarship, McMaster University, \$5,000.\\
- 
-\marginhead{Selected Conference Presentations}
+\ind 2008 MA Graduate Scholarship, McMaster University, \$5,000.\\
 
-\ind June 9 ``Struggling Over Climate Expertise: `Consensus' and `Skepticism' in the Space of Opinion.'' Presented at \href{http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html}{SEEshop 8} (Studies of Expertise and Experience), \emph{Communities of Integration}, Waterloo, ON, Canada. \\
+\noindent \emph{Grant Applications Under Review} \\
+
+\ind Co-Applicant or Partner on 4 grant applications currently under review \\ 
+% with Katie P, Mark S, Vanessa S, and the Internet of Things grant
+
+\marginhead{CONFERENCE PRESENTATIONS}
+
+\ind August 2015 ``Conflict and Cooperation in Large Collaboration Networks: An Analysis of Linux Kernel Development.'' Accepted for Presentation at the Annual Meetings of the American Sociological Association, Chicago, IL. Session: Sociology of Technology. \\
+
+\ind May 2015 ``Conflict and Cooperation in Large Collaboration Networks: An Analysis of Linux Kernel Development.'' Accepted for Presentation at the Annual Meetings of the Canadian Sociological Association, Ottawa, ON. Session: Innovation in Social Research: New Data, New Questions, New Analytics.\\
+
+\ind May 2015 John McLevey, Amelia Howard, Alexander Graham, and Tiffany Lin. ``The Developer Imitation Games.'' Accepted for presentation at \href{http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html}{SEESHOP 9} (Studies of Expertise and Experience), Cardiff Wales, UK. \\
+
+\ind August 2014 ``Think Tanks in the Space of Opinion: Tactics for Creating Uncertainty about the Scientific Consensus on Climate Change.'' Presented at the Annual Meetings of the American Sociological Association, San Francisco, CA. \\
+
+\ind June 2014 ``Struggling Over Climate Expertise: `Consensus' and `Skepticism' in the Space of Opinion.'' Presented at \href{http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html}{SEESHOP 8} (Studies of Expertise and Experience), \emph{Communities of Integration}, Waterloo, ON, Canada. \\
+
+\ind May 2014 Allyson Stokes and John McLevey. ``The Invisible Colleges of Sociology in Canada: A Network Analysis, 1995-2014'' Annual meetings of the Canadian Sociology Association, Brock University, St. Catharines, ON, Canada.\\
 
 \ind May 2014 ``Funding, Fame, and Politics in the Think Tank World.'' Presented at \emph{The Science Policy Interface: International Comparisons}, hosted by The Balsillie School of International Affairs, Waterloo, ON, Canada. \\
 
@@ -259,7 +251,7 @@ bventions_de_developpement_savoir-eng.aspx}{Social Science and Humanities Resear
 
 \ind June 2013 Vanina Leschziner, Neil McLaughlin, and John McLevey (equal authors). ``The American Fame Game: Academic Status and Public Renown in the Social Sciences.'' Presented in the ``The Role of Public Intellectualism in Academe,'' Annual meetings of the Canadian Sociology Association, University of Victoria, Victoria, BC, Canada. \\
 
-\ind June 2012 ``Epistemic Cultures in the Production of Policy Expertise'' Annual Qualitative Analysis Conference, Memorial University of Newfoundland, St John's NL, Canada.\\
+\ind June 2012 ``Epistemic Cultures in the Production of Policy Expertise'' Annual Qualitative Analysis Conference, Memorial University, St John's NL, Canada.\\
 
 \ind May 2012 ``Translation Work and the Marketing of Policy Expertise: Leads from Research on Canadian Think Tanks.'' Annual meetings of the Canadian Sociology Association, University of Waterloo and Wildrid Laurier University, Waterloo ON, Canada. Sociology of Science session.\\
 
@@ -279,77 +271,77 @@ bventions_de_developpement_savoir-eng.aspx}{Social Science and Humanities Resear
 
 \ind May 2009 ``Understanding Marginality, Ambiguous Outcomes, and Failure in Social Movements Research and the Sociology of Ideas.'' Annual meetings of the Canadian Sociology Association, Carleton University, Ottawa ON, Canada.\\
 
-\marginhead{Campus Talks}
+\marginhead{CAMPUS TALKS}
 
 \ind Sept 20, 2013 ``Think Tanks, Funding, and Politics of Policy Knowledge,'' Knowledge Integration Seminar Series, Faculty of Environment, University of Waterloo \\
 
 \ind Dec 2, 2014 ``Collaborating On-Line: An Analysis of Communication Networks for Linux Kernel Developers.'' \href{http://wici.ca/}{Waterloo Institute for Complexity and Innovation} Speaker Series, University of Waterloo \\
 
 
-\marginhead{Teaching}
+\marginhead{TEACHING}
 
-\noindent Disciplines and Integrative Practices (INTEG 120) \\
-\noindent Science and Technology in Society (INTEG 375/SOC 312) \\
-\noindent Creativity and Innovation (INTEG 251/SOC) \\ 
+\noindent Disciplines and Integrative Practices (undergraduate lecture) \\
+\noindent Science and Technology in Society (undergraduate seminar) \\
+\noindent Creativity and Innovation (undergraduate lecture) \\ 
 \\
-\noindent Independent Studies 301: Social Network Analysis and Data Visualization in R \\ % with Sasha Graham
-\noindent Independent Studies 301: Cultural Boundaries of Science \\ % with Tiff Lin
-\noindent Independent Studies 301: The Sociology of Expertise and Science Policy \\ % with Kelly White
-\noindent Independent Studies 303: Organizations \\ % with Ben Carr \\
+\noindent \emph{Independent Studies courses}: Social Network Analysis in R; Cultural Boundaries of Science; The Sociology of Expertise and Science Policy; Organizations \\ % with Sasha Graham, Tiff Lin, Kelly White, Ben Carr \\
+\\
+\noindent \emph{Courses in development}: Social Research Methods; Open Science and Technology; Knowledge Transfer and Diffusion \\
 
 % \newpage
-\marginhead{Student Supervision}
+\marginhead{STUDENT SUPERVISION}
 
-\noindent \emph{PhD}: Amelia Howard (co-supervisor), Noorin Manji (committee member), Michael Clarke (committee member) \\
+\noindent \emph{Dissertation Co-Supervision and Committees}:  \\
+\noindent Amelia Howard (co-supervisor) \\
+\noindent Noorin Manji (committee member) \\
+\noindent Michael Clarke (committee member) \\
 
-\noindent \emph{MA}: Miad Ranjbar, Wilfrid Laurier University (second reader) \\
+\noindent \emph{Senior Honors Theses Supervision}: \\
+\noindent Tiffany Lin (in progress) \\
+\noindent Benjamin Carr (in progress) \\ 
+\noindent Chelsea Mills (completed 2014) \\ 
+\noindent Christina Minji Chung (completed 2014) \\
 
-\noindent \emph{Senior Honors Theses Supervision}: Tiffany Lin (in progress), Benjamin Carr (in progress), Chelsea Mills (completed 2014), Christina Minji Chung (completed 2014) \\
+\marginhead{SERVICE}
 
-%% Professional Service
-
-\marginhead{Service to the Profession}
+\ind \textbf{Service to the Profession}
 
 \noindent Peer Reviewing: {\it Sociological Theory}, {\it Canadian Journal of Sociology}\\
 
 \noindent Co-organizer (with Marion Blute) and co-liaison (with Daphné Esquivel Sada) with the Canadian Sociological Association for the \href{http://www.csa-scs.ca/files/webapps/csapress/sstk/}{Sociology of Science, Technology, and Knowledge Research Cluster}\\
 
-\noindent Session Organizing: Sociology of Technology (CSA meetings, 2014, Brock University), Sociology of Culture (CSA meetings, 2014, Brock University) \\
-
-\marginhead{University Service}
+\noindent Session Organizing: Political Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Technology (CSA meetings, 2014, Brock University), Sociology of Culture (CSA meetings, 2014, Brock University) \\
 
 \noindent {\textbf{University of Waterloo}} \\
 \noindent 2014 Board Member, \href{http://math.uwaterloo.ca/survey-research-centre/node/1}{University of Waterloo Survey Research Centre}  \\
 
-\noindent 2014-2015 Faculty of Environment representative on the Arts Faculty Council, University of Waterloo \\
+\ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council, University of Waterloo \\
 
-\noindent 2014-2015 Department of Knowledge Integration representative on the Environment Faculty Council, University of Waterloo \\
+\ind 2014-2015 Department of Knowledge Integration representative on the Environment Faculty Council, University of Waterloo \\
 
-\noindent 2014 University of Waterloo, Faculty of Environment Teaching and Learning Committee \\
+\ind 2014 University of Waterloo, Faculty of Environment Teaching and Learning Committee \\
 
-\noindent March 10 2014, gave a talk on creativity and innovation to Grade 11 students at Waterloo Unlimited. Title: ``Where do good ideas come from? A social network perspective.'' \\
+\ind March 10 2014, gave a talk on creativity and innovation to Grade 11 students at Waterloo Unlimited. Title: ``Where do good ideas come from? A social network perspective.'' \\
 
 \noindent {\textbf{McMaster University}}\\
-\noindent 2011–2012 Selection Committee member for two tenure-track hires in Sociology\\
-\noindent 2010–2012 Chair of Graduate Student Caucus\\
-\noindent 2011–2012 PhD (ABD) Representative on the Graduate Committee\\
-\noindent 2009–2010 PhD Representative on the Graduate Committee\\
-\noindent 2009–2010 Co-Organizer, Culture and Politics workshop\\
-\noindent 2009–2012 Co-Organizer of Jane Synge Memorial Conferences and Graduate Student Conference (2009), Sociology, McMaster University\\
-\noindent 2009–2012 Peer Mentor in Sociology Peer Mentoring Program\\
-\noindent 2008–2009 Union Steward, Sociology (CUPE 3906)\\
+2011–2012 Selection Committee member for two tenure-track hires in Sociology\\
+2010–2012 Chair of Graduate Student Caucus\\
+2011–2012 PhD (ABD) Representative on the Graduate Committee\\
+2009–2010 PhD Representative on the Graduate Committee\\
+2009–2010 Co-Organizer, Culture and Politics workshop\\
+2009–2012 Co-Organizer of Jane Synge Memorial Conferences\\
+2009–2012 Peer Mentor in Sociology Peer Mentoring Program\\
+2008–2009 Union Steward, Sociology (CUPE 3906)\\
 
 
 %% Additional Training
-\bigskip
-\bigskip
-\marginhead{Additional Research Methods Training}
+\marginhead{ADDITIONAL RESEARCH METHODS TRAINING}
 
-\noindent Qualitative Comparative Analysis and Fuzzy Sets. Arizona Methods Workshops, held at University of Arizona. January, 2012.\\
+\ind Qualitative Comparative Analysis and Fuzzy Sets. Arizona Methods Workshops, held at University of Arizona. January, 2012.\\
 
-\noindent Hierarchical Linear Models. Inter-University Consortium for Political and Social Research (ICPSR), held at University of Massachusetts, Amherst. June, 2011.\\
+\ind Hierarchical Linear Models. Inter-University Consortium for Political and Social Research (ICPSR), held at University of Massachusetts, Amherst. June, 2011.\\
 
-\marginhead{Other Research and Teaching Experience}
+\marginhead{RESEARCH AND TEACHING ASSISTANTSHIPS}
 
 \noindent 2010–2013 {\it Research Assistant}\\
 Neil McLaughlin, Sociology, McMaster University.\\ 
@@ -368,21 +360,24 @@ Neil McLaughlin, Sociology, McMaster University.\\
 % Paul Bouissac, French, University of Toronto. Funded by SSHRC.\\
 
 % \noindent 2007–2008 {\it Research Assistant}\\
-% Stephen Riggins, Sociology, Memorial University of Newfoundland.\\ 
-% ``50 Years of Sociology at Memorial University of Newfoundland.''\\
+% Stephen Riggins, Sociology, Memorial University.\\ 
+% ``50 Years of Sociology at Memorial University.''\\
 
 % \noindent 2006–2007 {\it General Assistant}\\
-% Christopher Dunn, Political Science, Memorial University of Newfoundland.\\
+% Christopher Dunn, Political Science, Memorial University.\\
 
-%% References
+\marginhead{PROFESSIONAL MEMBERSHIPS}
 
-\marginhead{Professional Memberships}
+\noindent \href{http://www.csa-scs.ca}{Canadian Sociological Association} \\
+\href{http://www.asanet.org}{American Sociological Association} \\
+\href{http://www.insna.org}{International Network for Social Network Analysis} \\
+\href{http://4sonline.org}{Society for Social Studies of Science (4S)} \\
+\href{http://www.socwomen.org}{Sociologists for Women in Society} \\
+\href{http://aoir.org}{Association of Internet Researchers} \\
 
-\noindent \href{http://www.csa-scs.ca}{Canadian Sociological Association}, \href{http://www.asanet.org}{American Sociological Association}, \href{http://www.insna.org}{International Network for Social Network Analysis}, \href{http://4sonline.org}{Society for Social Studies of Science (4S)}, \href{http://www.socwomen.org}{Sociologists for Women in Society}, \href{http://aoir.org}{Association of Internet Researchers} \\
+\marginhead{REFERENCES}
 
-\marginhead{References}
-
-\noindent Neil McLaughlin, Associate Professor, Sociology, McMaster University, Hamilton ON, Canada, \href{mailto:nmclaugh@mcmaster.ca}{nmclaugh@mcmaster.ca}\\
+\noindent Neil McLaughlin, Professor, Sociology, McMaster University, Hamilton ON, Canada, \href{mailto:nmclaugh@mcmaster.ca}{nmclaugh@mcmaster.ca}\\
 
 \noindent Tina Fetner, Associate Professor, Sociology, McMaster University, Hamilton ON, Canada, \href{mailto:fetnert@mcmaster.ca}{fetnert@mcmaster.ca}\\
 
