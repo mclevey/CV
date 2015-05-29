@@ -1,2 +1,1 @@
-+ CV uses Kieran Healy's template: http://www.kieranhealy.org/latex-custom-kjh.html
-+ Requires *XeLaTeX* 
+CV based on [Kieran Healy's](http://www.kieranhealy.org/latex-custom-kjh.html).
