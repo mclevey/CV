@@ -51,7 +51,7 @@ Sociology of Culture & Knowledge, Environmental Sociology, Political Sociology, 
 
 \ind John McLevey. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review at *Social Networks*.  
 
-\ind John McLevey. "How Federal Funding, Industry Partnerships, and Collaboration Networks Shape Scientific Expertise: The Case of Canadian Research on the Environment, Climate Change, and Natural and Energy Resources, 1991-2012." Preliminary draft under review for special issue of *Minerva*.
+\ind John McLevey. "How Federal Funding, Industry Partnerships, and Collaboration Networks Shape Scientific Expertise: The Case of Canadian Research on the Environment, Climate Change, Natural Resources, and Northern Development, 1991-2012." Preliminary review for special issue of *Minerva*.
 
 \ind Vanina Leschziner, Neil McLaughlin, and John McLevey (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under review at *Sociological Quarterly*.
 
