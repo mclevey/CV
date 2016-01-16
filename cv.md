@@ -1,24 +1,27 @@
 ---
 title: John McLevey
-mainfont: Minion Pro
 lhead: \href{http://www.johnmclevey.com}{John McLevey, PhD}
-rhead: "Updated Oct. 14, 2015"
+rhead: "Updated November 25th 2015"
+mainfont: Minion Pro
+fontsize: 12
 ...
 
 \noindent Knowledge Integration, Sociology & Legal Studies    
 \noindent University of Waterloo, Waterloo, ON, Canada  
 \noindent <john.mclevey@uwaterloo.ca> | [johnmclevey.com](http://www.johnmclevey.com)    
 \noindent 647-921-2044   
+\bigskip
+\noindent Citizenship: Canadian  
 
 # Appointments
 
-\ind 2013-Present. Assistant Professor (tenure track), University of Waterloo. Department of Knowledge Integration, Department of Sociology and Legal Studies, Environment and Resource Studies  
+\ind 2013-Present. Assistant Professor (tenure track), University of Waterloo, Department of Knowledge Integration | Department of Sociology and Legal Studies | School of Environment, Resources, and Sustainability   
 
 # Affiliations
 
-\ind 2014-Present. Affiliate Researcher, [Waterloo Institute for Complexity and Innovation](http://wici.ca/new/), University of Waterloo
+\ind 2014-Present. Affiliate Researcher, [Waterloo Institute for Complexity and Innovation](http://wici.ca/new/)
 
-\ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/)  
+\ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/) 
 
 # Education
 \ind 2013. PhD, Sociology, McMaster University   
@@ -27,35 +30,34 @@ rhead: "Updated Oct. 14, 2015"
 
 # Research Areas
 
-Sociology of Culture & Knowledge, Environmental Sociology, Political Sociology, Social Networks, Professions, Theory & Methods   
+Social Networks; Sociology of Science, Science Policy, and Scientific Careers; Political Sociology; Environmental Sociology; Research Methods   
 
 # Publications
 
-## Peer Reviewed Journal Articles
+## Peer Reviewed Journal Articles and Chapters in Edited Volumes
+
+\ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 
+
+\ind John McLevey, Allyson Stokes, and Amelia Howard. "The Uneven Influence of Pierre Bourdieu in Canada." Forthcoming from Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
 
 \ind John McLevey. 2015. "Understanding Policy Research in Liminal Spaces: Think Tank Responses to Diverging Principles of Legitimacy." *Social Studies of Science*. 45(2):270-293.  
 
 \ind John McLevey. 2014. "Think Tanks, Funding, and the Politics of Policy Knowledge in Canada." *Canadian Review of Sociology / Revue canadienne de sociologie*. 51(1):54-75.  
-
-## Chapters in Edited Volumes
-
-\ind John McLevey, Allyson Stokes, and Amelia Howard. "The Uneven Influence of Pierre Bourdieu in Canada." Forthcoming from Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.   
-
+   
 # In Progress
 
-## Revise & Resubmit
-
-\ind Allyson Stokes and John McLevey (equal authors). "From Porter to Bourdieu: The Evolving Specialty Structure of Canadian Sociology in Comparative Perspective, 1966- 2014." Revise and Resubmit from *Canadian Review of Sociology / Revue canadienne de sociologie*.  
+<!-- ## Revise & Resubmit -->
+ 
 
 ## Under Review
 
 \ind John McLevey. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review at *Social Networks*.  
 
-\ind John McLevey. "How Federal Funding, Industry Partnerships, and Collaboration Networks Shape Scientific Expertise: The Case of Canadian Research on the Environment, Climate Change, Natural Resources, and Northern Development, 1991-2012." Preliminary review for special issue of *Minerva*.
-
-\ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under review at *Sociological Quarterly*.
+\ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under review at *Social Studies of Science*.
 
 ## Preparing for Submission
+
+\ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." In progress for *The SAGE Handbook of Political Sociology*, edited by William Outhwaite and Stephen Turner.  
 
 \ind John McLevey. "Climate Change and Strange Transmuted Expertise." Preparing for submission.
 
@@ -63,15 +65,15 @@ Sociology of Culture & Knowledge, Environmental Sociology, Political Sociology, 
 
 ## In Progress
 
-\ind John McLevey. "The Sociology of Public Policy Formation and Implementation." In progress for *The SAGE Handbook of Political Sociology*, edited by William Outhwaite and Stephen Turner.  
-
 \ind Katie Plaisance and John McLevey (equal authors). "Mapping the Uptake of Philosophy of Science in the Sciences." *In progress*.  
 
-\ind John McLevey, Amelia Howard, and Alexander Graham. "Brokerage, Expertise, and the Diffusion of Ideas in a Free/Libre Open Source Developer Community" *In progress*.  
+\ind Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *In progress*.  
+
+\ind John McLevey, Amelia Howard, and Alexander Graham. "Brokerage, Expertise, and the Diffusion of Ideas in a Free/Libre Open Source Developer Community." *In progress*.  
 
 \ind Allyson Stokes, John McLevey, and Neil McLaughlin. "Legitimation and Canonization Over Time." *In progress*.  
 
-\ind Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *In progress*.  
+<!-- \ind John McLevey. "How Federal Funding, Industry Partnerships, and Collaboration Networks Shape Scientific Expertise: The Case of Canadian Research on the Environment, Climate Change, Natural Resources, and Northern Development, 1991-2012." -->
 
 # Research Grants
 
@@ -115,7 +117,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Software for Sociological Research
 
-\ind 2015-Present. Reid McIlroy-Young and John McLevey. [metaknowledge: A Python3 library for bibliometric and sociology of knowledge research](http://networkslab.org/metaknowledge/). Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
+\ind 2015-Present. Reid McIlroy-Young and John McLevey. [metaknowledge: A Python3 library for quantitative sociology of knowledge and scientometric  research](http://networkslab.org/metaknowledge/). Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
 
 # Op-Eds and Public Talks
 
@@ -125,7 +127,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Conference Presentations
 
-\ind November 2015 Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Accepted for presentation at the Annual Meeting of the American Society of Criminology, Washington, D.C.  
+\ind November 2015 Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Presented at the Annual Meetings of the American Society of Criminology, Washington, D.C.  
 
 \ind August 2015 "Conflict and Cooperation in Large Collaboration Networks: An Analysis of Linux Kernel Development." Presented at the Annual Meetings of the American Sociological Association, Chicago, IL. Session: Sociology of Technology.   
 
@@ -183,12 +185,12 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Teaching
 
-\noindent Disciplines and Integrative Practices (undergraduate lecture)  
-\noindent Creativity and Innovation (undergraduate lecture)  
-\noindent Open Science and Technology (undergraduate seminar)  
+\noindent Social Research Methods (undergraduate lecture)  
+\noindent Data Visualization (Undergraduate seminar)
 \noindent Sociology of Science (undergraduate seminar)      
-\noindent Social Research Methods (undergraduate lecture -- Winter 2016)  
-\noindent Data Visualization (Undergraduate Seminar -- Winter 2016)
+\noindent Open Science and Technology (undergraduate seminar)  
+\noindent Creativity and Innovation (undergraduate lecture)  
+\noindent Disciplines and Integrative Practices (undergraduate lecture)  
 
 ## Independent Studies Courses
 <!--  with Sasha Graham, Tiff Lin, Kelly White, Ben Carr -->
@@ -203,8 +205,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 ## PhD Dissertations
 
 \noindent Amelia Howard (co-supervisor)  
-\noindent Noorin Manji (co-supervisor)  
-\noindent Michael Clarke (committee member)  
+\noindent Rod Missaghian (co-supervisor)  
+\noindent Michael Clarke (committee member)    
+\noindent Noorin Manji (committee member)   
 
 ## MA Theses
 
@@ -226,10 +229,11 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind Co-organizer (with Marion Blute) and co-liaison (with Daphné Esquivel Sada) with the Canadian Sociological Association for the [Sociology of Science, Technology, and Knowledge Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/sstk/)  
 
-\ind Session Organizing: Political Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Technology (CSA meetings, 2014, Brock University), Sociology of Culture (with Allyson Stokes, CSA meetings, 2014, Brock University)
+\ind Session Organizing: Sociology of Science and Knowledge (CSA Meetings, 2016, University of Calgary) , Political Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Technology (CSA meetings, 2014, Brock University), Sociology of Culture (with Allyson Stokes, CSA meetings, 2014, Brock University)
 
 ## University of Waterloo
 
+\ind 2016-Present Faculty of Environment Advocate on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign for make gender equality a top institutional priority.  
 \ind 2014-Present Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)  
 \ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council, University of Waterloo  
 \ind 2014-2015 Department of Knowledge Integration representative on the Environment Faculty Council, University of Waterloo  
