@@ -1,7 +1,7 @@
 ---
 title: John McLevey
 lhead: \href{http://www.johnmclevey.com}{John McLevey, PhD}
-rhead: "Updated November 25th 2015"
+rhead: "Updated January 16, 2016"
 mainfont: Minion Pro
 fontsize: 12
 ...
@@ -30,7 +30,7 @@ fontsize: 12
 
 # Research Areas
 
-Social Networks; Sociology of Science, Science Policy, and Scientific Careers; Political Sociology; Environmental Sociology; Research Methods   
+Social Networks; Sociology of Science, Science and Health Policy, and Scientific Careers; Environmental Sociology; Political Sociology; Computational Social Science; Research Methods   
 
 # Publications
 
@@ -51,31 +51,34 @@ Social Networks; Sociology of Science, Science Policy, and Scientific Careers; P
 
 ## Under Review
 
-\ind John McLevey. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review at *Social Networks*.  
+\ind John McLevey. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under Review.  
 
-\ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under review at *Social Studies of Science*.
+\ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under Review.
 
 ## Preparing for Submission
 
 \ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." In progress for *The SAGE Handbook of Political Sociology*, edited by William Outhwaite and Stephen Turner.  
 
-\ind John McLevey. "Climate Change and Strange Transmuted Expertise." Preparing for submission.
+<!-- \ind John McLevey. "Climate Change and Strange Transmuted Expertise." Preparing for submission. -->
 
 \ind John McLevey and Thomas Medvetz. "Think Tank ‘Policy Research' as Neoliberal Practice: Toward a Historical-Relational Theory." Preparing for submission.
 
 ## In Progress
 
-\ind Katie Plaisance and John McLevey (equal authors). "Mapping the Uptake of Philosophy of Science in the Sciences." *In progress*.  
+\ind John McLevey, Kathryn S. Plaisance, Reid McIlroy-Young, and Alexander Graham. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
 
-\ind Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *In progress*.  
+\ind Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets" *In progress.*  
 
-\ind John McLevey, Amelia Howard, and Alexander Graham. "Brokerage, Expertise, and the Diffusion of Ideas in a Free/Libre Open Source Developer Community." *In progress*.  
+\ind Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *In progress*.
 
-\ind Allyson Stokes, John McLevey, and Neil McLaughlin. "Legitimation and Canonization Over Time." *In progress*.  
 
-<!-- \ind John McLevey. "How Federal Funding, Industry Partnerships, and Collaboration Networks Shape Scientific Expertise: The Case of Canadian Research on the Environment, Climate Change, Natural Resources, and Northern Development, 1991-2012." -->
+<!-- \ind John McLevey and Alexander Graham. "How Changes in Federal Funding and Institutional Partnerships Shape Scientific Research Agendas and Collaboration Networks: The Case of Canadian Research on the Environment, 1991-2012." *Data analysis stage*. -->
+
+<!-- \ind Allyson Stokes, John McLevey, and Neil McLaughlin. "Legitimation and Canonization Over Time." *In progress*.   -->
 
 # Research Grants
+
+\ind John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Innovation in an Open Source Collaboration Network," $150,000.  
 
 \ind 2015-2016 John McLevey (PI) and Vanessa Schweizer (Co-I), Basillie School of International Affairs, Major Workshops Grant, "Challenges and Opportunities for Governance of Socio-Ecological Systems in Comparative Perspective," $8,400.  
 
@@ -93,7 +96,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Grant Applications Under Review
 
-\ind John McLevey (PI), Ontario Early Researcher Award, Ministry of Research and Innovation, "Innovation in an Open Source Collaboration Network," Requested: $150,000.  
+\ind John McLevey (PI), Collaborators: Martin Cooke and Owen Gallupe. 2016 SSHRC IDG Competition, "Remaking the Boundaries of Open and Proprietary Science: A Longitudinal Study of Biomedical Research and Development Networks in Canada," Requested: $70,790.00.  
+
 
 # Scholarships and Awards
 
@@ -126,6 +130,15 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind Comments at *Talk Science* event, organized by students and local community members involved with *Evidence for Democracy*. Waterloo, ON. September 28, 2015.   
 
 # Conference Presentations
+
+\ind August 2016 Vanina Leschziner, John McLevey, and Neil McLaughlin. "The American Fame Game: Academic Status and Public Renown in Post-War Social Sciences." Accepted for presentation at the Annual Meetings of the American Sociological Association, Section on Science, Knowledge, and Technology session, Seattle, WA. 
+
+\ind May 2016 "Expertise and Embeddedness: How Micro-Level Interactions Shape Network Structure in Open Source Developer Communities." Accepted for presentation at [SEESHOP 9](http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html) (Studies of Expertise and Experience), Cardiff Wales, UK. 
+
+\ind April 2016 Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets." Presented at the [Fields Institute](https://www.ineteconomics.org/community/events/complexity-for-new-economic-thinking) "YSI
+Complexity and Economics Workshop." Toronto, ON, Canada.
+
+\ind April 2016 John McLevey, Katie Plaisance, Reid McIlroy-Young, and Alexander Graham. "Is there a citation penalty for scientifically relevant philosophy of science?" Presented by John McLevey and Alexander Graham at Sunbelt XXXVI (Annual meetings of the International Network for Social Network Analysis), Newport Beach, CA. 
 
 \ind November 2015 Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Presented at the Annual Meetings of the American Society of Criminology, Washington, D.C.  
 
@@ -177,16 +190,27 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind May 2009 "Understanding Marginality, Ambiguous Outcomes, and Failure in Social Movements Research and the Sociology of Ideas." Annual meetings of the Canadian Sociology Association, Carleton University, Ottawa ON, Canada.  
 
-# Campus Talks
+# Invited Talks
+
+## Research
+
+\ind March 2, 2016 "Network Structure and the 'Chain of Trust' in Linux Development: Lessons for Working with Data Scraped from the Web." Guest lecture in Research Methods class in Sociology, Wilfrid Laurier University. 
 
 \ind Dec 2, 2014 "Collaborating On-Line: An Analysis of Communication Networks for Linux Kernel Developers." [Waterloo Institute for Complexity and Innovation](http://wici.ca/) Speaker Series, University of Waterloo  
 
 \ind Sept 20, 2013 "Think Tanks, Funding, and Politics of Policy Knowledge," Knowledge Integration Seminar Series, Faculty of Environment, University of Waterloo  
 
+## Teaching 
+
+\ind March 1, 2016 John McLevey and Patrick Famaran (UG student), "Using Technology to Facilitate Collaboration," Centre for Teaching Excellence Educational Technology Week. 
+
+\ind March 1, 2016 "Enhancing Student Learning by Bringing Data into the Classroom." GREEN TEA speaker series, University of Waterloo. 
+
+
 # Teaching
 
 \noindent Social Research Methods (undergraduate lecture)  
-\noindent Data Visualization (Undergraduate seminar)
+\noindent Data Visualization (Undergraduate seminar)    
 \noindent Sociology of Science (undergraduate seminar)      
 \noindent Open Science and Technology (undergraduate seminar)  
 \noindent Creativity and Innovation (undergraduate lecture)  
@@ -220,12 +244,17 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent Benjamin Carr (completed 2014)    
 \noindent Chelsea Mills (completed 2014)    
 \noindent Christina Minji Chung (completed 2014)      
+<!-- 
+## Research Assistants 
+
+\noindent Reid McIlroy-Young, Evaleen Hellinga
+ -->
 
 # Service
 
 ## Service to the Profession
 
-\ind Peer Reviewing: *Sociological Theory*, *Social Studies of Science*, *Canadian Journal of Sociology*, *Methodological Innovations*
+\ind Peer Reviewing: *Sociological Theory*, *Social Studies of Science*, *Canadian Journal of Sociology*, *Methodological Innovations*, *Acta Sociologica*
 
 \ind Co-organizer (with Marion Blute) and co-liaison (with Daphné Esquivel Sada) with the Canadian Sociological Association for the [Sociology of Science, Technology, and Knowledge Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/sstk/)  
 
@@ -233,13 +262,14 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## University of Waterloo
 
-\ind 2016-Present Faculty of Environment Advocate on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign for make gender equality a top institutional priority.  
+\ind 2016 Co-organized (with Ian Milligan,) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research.    
+\ind 2016-Present Faculty of Environment Advocate on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign to make gender equality a top institutional priority.  
 \ind 2014-Present Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)  
-\ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council, University of Waterloo  
-\ind 2014-2015 Department of Knowledge Integration representative on the Environment Faculty Council, University of Waterloo  
-\ind 2014-2015 Member of the English Language Competency Committee in the Faculty of Environment, University of Waterloo.  
-\ind 2014 University of Waterloo, Faculty of Environment Teaching and Learning Committee  
-\ind March 10 2014, gave a talk on creativity and innovation to Grade 11 students at Waterloo Unlimited. Title: "Where do good ideas come from? A social network perspective."  
+\ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council      
+\ind 2014-2015 Department of Knowledge Integration representative on the Environment Faculty Council    
+\ind 2014-2015 Member of the English Language Competency Committee in the Faculty of Environment     
+\ind 2014 Faculty of Environment Teaching and Learning Committee  
+\ind 2014 Gave a talk on creativity and innovation to Grade 11 students at Waterloo Unlimited. Title: "Where do good ideas come from? A social network perspective."  
 
 ## McMaster University
 
@@ -270,10 +300,11 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \noindent Canadian Sociological Association, American Sociological Association, International Network for Social Network Analysis, Sociologists for Women in Society
 
-# References
+<!-- # References
 
 \ind Neil McLaughlin, Professor, Sociology, McMaster University, Hamilton ON, Canada, <nmclaugh@mcmaster.ca>  
 
 \ind Tina Fetner, Associate Professor, Sociology, McMaster University, Hamilton ON, Canada, <tina.fetner@mcmaster.ca>  
 
 \ind Scott Davies, Professor, Leadership, Higher and Adult Education, University of Toronto, OISE, Toronto ON, Canada, <scott.davies@utoronto.ca>  
+ -->
