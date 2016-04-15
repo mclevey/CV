@@ -78,7 +78,7 @@ Social Networks; Sociology of Science, Science and Health Policy, and Scientific
 
 # Research Grants
 
-\ind John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Innovation in an Open Source Collaboration Network," $150,000.  
+\ind John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $190,000.  
 
 \ind 2015-2016 John McLevey (PI) and Vanessa Schweizer (Co-I), Basillie School of International Affairs, Major Workshops Grant, "Challenges and Opportunities for Governance of Socio-Ecological Systems in Comparative Perspective," $8,400.  
 
