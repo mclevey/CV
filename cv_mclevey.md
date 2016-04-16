@@ -119,7 +119,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2008. MA Graduate Scholarship, McMaster University, $5,000.  
 
-# Software for Sociological Research
+# Research Software 
 
 \ind 2015-Present. Reid McIlroy-Young and John McLevey. [metaknowledge: A Python3 library for quantitative sociology of knowledge and scientometric  research](http://networkslab.org/metaknowledge/). Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
 
