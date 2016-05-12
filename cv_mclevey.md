@@ -15,13 +15,15 @@ fontsize: 12
 
 # Appointments
 
-\ind 2013-Present. Assistant Professor (tenure track), University of Waterloo, Department of Knowledge Integration | Department of Sociology and Legal Studies | School of Environment, Resources, and Sustainability   
+\ind 2013-Present. Assistant Professor (tenure track), University of Waterloo, Department of Knowledge Integration | Department of Sociology and Legal Studies | School of Environment, Resources, and Sustainability. [Approved Doctoral Dissertation Supervisor (ADDS) Status](https://uwaterloo.ca/graduate-studies/about-graduate-studies/organization-graduate-studies#6)  
 
 # Affiliations
 
 \ind 2014-Present. Affiliate Researcher, [Waterloo Institute for Complexity and Innovation](http://wici.ca/new/)
 
 \ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/) 
+
+\ind 2016-Present. Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
 
 # Education
 \ind 2013. PhD, Sociology, McMaster University   
@@ -78,7 +80,7 @@ Social Networks; Sociology of Science, Science and Health Policy, and Scientific
 
 # Research Grants
 
-\ind John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $190,000.  
+\ind John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $150,000.  
 
 \ind 2015-2016 John McLevey (PI) and Vanessa Schweizer (Co-I), Basillie School of International Affairs, Major Workshops Grant, "Challenges and Opportunities for Governance of Socio-Ecological Systems in Comparative Perspective," $8,400.  
 
@@ -239,7 +241,7 @@ Complexity and Economics Workshop." Toronto, ON, Canada.
 
 ## Undergraduate Senior Honors Theses
 
-\noindent Julia Yaroshinsky (2015-Present)    
+\noindent Julia Yaroshinsky (completed 2016)    
 \noindent Tiffany Lin (completed 2015)    
 \noindent Benjamin Carr (completed 2014)    
 \noindent Chelsea Mills (completed 2014)    
@@ -254,6 +256,8 @@ Complexity and Economics Workshop." Toronto, ON, Canada.
 
 ## Service to the Profession
 
+\ind 2016-2020, Communications Officer, Member of the Executive Council, Canadian Sociological Association.   
+
 \ind Peer Reviewing: *Sociological Theory*, *Social Studies of Science*, *Canadian Journal of Sociology*, *Methodological Innovations*, *Acta Sociologica*
 
 \ind Co-organizer (with Marion Blute) and co-liaison (with Daphné Esquivel Sada) with the Canadian Sociological Association for the [Sociology of Science, Technology, and Knowledge Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/sstk/)  
@@ -262,7 +266,8 @@ Complexity and Economics Workshop." Toronto, ON, Canada.
 
 ## University of Waterloo
 
-\ind 2016 Co-organized (with Ian Milligan,) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research.    
+\ind 2016-Present Member of the University of Waterloo Task Force on Bibliometrics   
+\ind 2016 Co-organized (with Ian Milligan) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research.    
 \ind 2016-Present Faculty of Environment Advocate on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign to make gender equality a top institutional priority.  
 \ind 2014-Present Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)  
 \ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council      
