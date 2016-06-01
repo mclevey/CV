@@ -133,7 +133,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind August 2016 Vanina Leschziner, John McLevey, and Neil McLaughlin. "The American Fame Game: Academic Status and Public Renown in Post-War Social Sciences." Accepted for presentation at the Annual Meetings of the American Sociological Association, Section on Science, Knowledge, and Technology session, Seattle, WA. 
 
-\ind May 2016 "Expertise and Embeddedness: How Micro-Level Interactions Shape Network Structure in Open Source Developer Communities." Accepted for presentation at [SEESHOP 9](http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html) (Studies of Expertise and Experience), Cardiff Wales, UK. 
+\ind May 2016 "Expertise and Experience in Dynamic Social Networks: Developing A Co-evolution Model for SEE." Accepted for presentation at [SEESHOP 9](http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html) (Studies of Expertise and Experience), Cardiff Wales, UK. 
 
 \ind April 2016 Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets." Presented at the [Fields Institute](https://www.ineteconomics.org/community/events/complexity-for-new-economic-thinking) "YSI
 Complexity and Economics Workshop." Toronto, ON, Canada.
