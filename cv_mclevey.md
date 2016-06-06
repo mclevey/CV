@@ -54,9 +54,9 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
 
 \ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under Review.
 
-## Preparing for Submission
+\ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." Under Review at *The SAGE Handbook of Political Sociology*, edited by William Outhwaite and Stephen Turner.  
 
-\ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." In progress for *The SAGE Handbook of Political Sociology*, edited by William Outhwaite and Stephen Turner.  
+## Preparing for Submission
 
 \ind John McLevey and Alexander Graham. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Currently being revised.  
 
