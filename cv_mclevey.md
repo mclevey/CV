@@ -38,6 +38,8 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
 
 ## Peer Reviewed Journal Articles and Chapters in Edited Volumes
 
+\ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." In *The SAGE Handbook of Political Sociology*, edited by William Outhwaite and Stephen Turner. 
+
 \ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 
 
 \ind John McLevey, Allyson Stokes, and Amelia Howard. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Forthcoming from Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
@@ -52,9 +54,7 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
  
 ## Under Review
 
-\ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under Review.
-
-\ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." Under Review at *The SAGE Handbook of Political Sociology*, edited by William Outhwaite and Stephen Turner.  
+\ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under Review. 
 
 ## Preparing for Submission
 
