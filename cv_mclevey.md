@@ -38,7 +38,7 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
 
 ## Peer Reviewed Journal Articles and Chapters in Edited Volumes
 
-\ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." In *The SAGE Handbook of Political Sociology*, edited by William Outhwaite and Stephen Turner. 
+\ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." Forthcoming from William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
 
 \ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 
 
