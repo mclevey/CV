@@ -78,7 +78,15 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
 
 # Research Grants
 
-\ind John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $150,000.  
+Hi Rick, 
+
+\ind John McLevey (PI), Owen Gallupe (Collaborator) and Martin Cooke (Collaborator), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
+bventions_de_developpement_savoir-eng.aspx), Insight Development Grant, “Remaking the Boundaries of Open and Proprietary Science: A Longitudinal Study of Biomedical Research and Development Networks in Canada” $67,790.
+
+\ind Katie Plaisance (PI) and John McLevey (Co-I), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
+bventions_de_developpement_savoir-eng.aspx), Insight Development Grant, "Increasing the Impact of Philosophy of Science in Scientific Domains", $59,302
+
+\ind 2016-2020 John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $150,000.  
 
 \ind 2015-2016 John McLevey (PI) and Vanessa Schweizer (Co-I), Basillie School of International Affairs, Major Workshops Grant, "Challenges and Opportunities for Governance of Socio-Ecological Systems in Comparative Perspective," $8,400.  
 
@@ -86,7 +94,7 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
 bventions_de_developpement_savoir-eng.aspx), Insight Grant, "The Oil-Tourism Interface and Social-Ecological Change in the North Atlantic," $188,423.
 
 \ind 2014-2016 John McLevey (PI), [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Development Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
-bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Networks,"" $74,814.
+bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Networks," $74,814.
 
 \ind 2013 University of Waterloo, Faculty Research Startup Grant, $15,000.
 
