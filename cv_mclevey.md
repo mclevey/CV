@@ -78,10 +78,10 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
 
 # Research Grants
 
-\ind John McLevey (PI), Owen Gallupe (Collaborator) and Martin Cooke (Collaborator), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
+\ind 2016-2018 John McLevey (PI), Owen Gallupe (Collaborator) and Martin Cooke (Collaborator), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
 bventions_de_developpement_savoir-eng.aspx), Insight Development Grant, “Remaking the Boundaries of Open and Proprietary Science: A Longitudinal Study of Biomedical Research and Development Networks in Canada” $67,790.
 
-\ind Katie Plaisance (PI) and John McLevey (Co-I), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
+\ind 2016-2018 Katie Plaisance (PI) and John McLevey (Co-I), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
 bventions_de_developpement_savoir-eng.aspx), Insight Development Grant, "Increasing the Impact of Philosophy of Science in Scientific Domains", $59,302
 
 \ind 2016-2020 John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $150,000.  
