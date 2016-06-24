@@ -78,7 +78,7 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
 
 # Research Grants
 
-\ind Total Research Grants since 2013: $563,729   
+\ind Total Research Grants since 2013: $563,729  \bigskip
 
 \ind 2016-2018 John McLevey (PI), Owen Gallupe (Collaborator) and Martin Cooke (Collaborator), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
 bventions_de_developpement_savoir-eng.aspx), Insight Development Grant, “Remaking the Boundaries of Open and Proprietary Science: A Longitudinal Study of Biomedical Research and Development Networks in Canada” $67,790.
