@@ -102,10 +102,6 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2015-2016 John McLevey (PI), LITE Seed Grant, Center for Teaching Excellence, University of Waterloo, "A Data-Driven and Interactive Approach to Enhancing Student Learning about Disciplinary and Interdisciplinary Knowledge Production," $4,765.20.
 
-# Grant Applications Under Review
-
-\ind John McLevey (PI), Collaborators: Martin Cooke and Owen Gallupe. 2016 SSHRC IDG Competition, "Remaking the Boundaries of Open and Proprietary Science: A Longitudinal Study of Biomedical Research and Development Networks in Canada," Requested: $70,790.00.  
-
 
 # Scholarships and Awards
 
