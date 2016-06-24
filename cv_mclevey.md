@@ -52,25 +52,29 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
 
 <!-- ## Revise & Resubmit -->
  
-## Under Review
+<!-- ## Under Review -->
 
-\ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under Review. 
 
-## Preparing for Submission
+## Manuscripts Close to Submission
+
+\ind John McLevey, Alexander Graham, Reid McIlroy-Young, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
 
 \ind John McLevey and Alexander Graham. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Currently being revised.  
 
+\ind John McLevey and Reid McIlroy-Young. "An introduction to metaknowledge for computational and social networks research on science." *In progress*.  
+
 <!-- \ind John McLevey. "Climate Change and Strange Transmuted Expertise." Preparing for submission. -->
 
-## In Progress
+<!-- ## In Progress
 
-\ind John McLevey, Alexander Graham, Reid McIlroy-Young, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
 
 \ind Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets" *In progress.*  
 
 \ind Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *In progress*.
 
-\ind John McLevey and Thomas Medvetz. "Think Tank ‘Policy Research' as Neoliberal Practice: Toward a Historical-Relational Theory." 
+\ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under Review. 
+
+\ind John McLevey and Thomas Medvetz. "Think Tank ‘Policy Research' as Neoliberal Practice: Toward a Historical-Relational Theory."  -->
 
 <!-- \ind John McLevey and Alexander Graham. "How Changes in Federal Funding and Institutional Partnerships Shape Scientific Research Agendas and Collaboration Networks: The Case of Canadian Research on the Environment, 1991-2012." *Data analysis stage*. -->
 
