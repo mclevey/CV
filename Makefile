@@ -15,3 +15,6 @@ CSL = /Users/johnmclevey/Documents/bibliography/apsa.csl
 
 cv_mclevey.pdf: cv_mclevey.md
 	pandoc -r markdown+simple_tables+table_captions+yaml_metadata_block -s -S --latex-engine=xelatex --template=$(TEMPLATES)/cv.tex --filter pandoc-citeproc --csl=$(CSL) --bibliography=$(BIB) -o $@ $<
+
+cv_mclevey.docx: cv_mclevey.md
+	pandoc -r markdown+simple_tables+table_captions+yaml_metadata_block -s -S --latex-engine=xelatex --template=$(TEMPLATES)/cv.tex --filter pandoc-citeproc --csl=$(CSL) --bibliography=$(BIB) -o $@ $<
