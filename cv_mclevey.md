@@ -275,7 +275,7 @@ Complexity and Economics Workshop." Toronto, ON, Canada.
 \ind 2016-Present Member of the University of Waterloo Task Force on Bibliometrics   
 \ind 2016-Present Committee Member on the Faculty of Environment Committee on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign to make gender equality a top institutional priority.  
 \ind 2016 Co-organized (with Ian Milligan) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research.    
-\ind 2016-Present Faculty Advisor, [University of Waterloo iGEM](http://2015.igem.org/Team:Waterloo) (International Genetically Engineering Machine) Team, Human Practices, Policy, and Outreach Subgroup.   
+\ind 2016-Present Faculty Advisor, [University of Waterloo iGEM](http://2015.igem.org/Team:Waterloo) (International Genetically Engineering Machine) Team, Policy & Practices Subgroup.   
 \ind 2014-Present Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)  
 \ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council      
 \ind 2014-2015 Department of Knowledge Integration representative on the Environment Faculty Council    
