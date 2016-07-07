@@ -300,6 +300,10 @@ and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel
 
 # Additional Methods Training
 
+\ind Technical / methods workshops attended at Sunbelt 2016, Newport Beach, USA: (1) Understanding Diffusion with netdiffuseR, (2) Moving beyond Descriptives: Basic Network Statistics with statnet, (3) Exponential Family Random Graph Modeling (ERGMs) Using statnet, (4) Introduction to Egocentric Network Data Analysis with ERGMs and TERGMs Using statnet     
+
+\ind Technical / methods workshops attended at Sunbelt 2015, Brighton, UK: (1) Networks in Python: The Networkx-Package, Parts 1 & 2 [Riebling], (2) Mining of large social networks from Twitter, Facebook and LinkedIn using Python [Boudourides], (3) Social Network Approaches for Behavior Change [Valente], (4) Visualizing Social Networks. How to Create Meaningful and Compelling Network Drawings. [Pfeffer]     
+
 \ind Qualitative Comparative Analysis and Fuzzy Sets. Arizona Methods Workshops, held at University of Arizona. January, 2012.  
 
 \ind Hierarchical Linear Models. Inter-University Consortium for Political and Social Research (ICPSR), held at University of Massachusetts, Amherst. June, 2011.  
