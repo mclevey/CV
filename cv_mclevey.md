@@ -271,11 +271,11 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## University of Waterloo
 
-\ind 2016 Informal committee designing a Master's in Data Science program at the University of Waterloo. 
+\ind 2016 Informal committee designing a Master's in Data Science program at the University of Waterloo.   
 \ind 2016 Internal External Examiner for PhD Dissertation in the Department of Applied Mathematics, University of Waterloo. John Lang, "Mathematical Modelling of Social Factors in Decision Making Processes at the Individual
-and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel M. Abrams. 
-\ind 2016 Internal External Examiner for PhD Dissertation in the Department of Philosophy, University of Waterloo. Benjamin Nelson, "The Depictions of Unwritten Law." Committee Members: Brian Orend, Heather Douglas, and Matt Doucet.
-\ind 2016-Present Member of the University of Waterloo Task Force on Bibliometrics   
+and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel M. Abrams.      
+\ind 2016 Internal External Examiner for PhD Dissertation in the Department of Philosophy, University of Waterloo. Benjamin Nelson, "The Depictions of Unwritten Law." Committee Members: Brian Orend, Heather Douglas, and Matt Doucet.    
+\ind 2016-Present Member of the University of Waterloo Task Force on Bibliometrics       
 \ind 2016-Present Committee Member on the Faculty of Environment Committee on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign to make gender equality a top institutional priority.  
 \ind 2016 Co-organized (with Ian Milligan) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research. 
 \ind 2016-Present Faculty Advisor, [University of Waterloo iGEM](http://2015.igem.org/Team:Waterloo) (International Genetically Engineering Machine) Team, Policy & Practices Subgroup.   
