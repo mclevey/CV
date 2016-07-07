@@ -129,7 +129,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Research Software 
 
-\ind 2015-Present. Reid McIlroy-Young and John McLevey. [metaknowledge: A Python3 library for quantitative sociology of knowledge and scientometric  research](http://networkslab.org/metaknowledge/). Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
+\ind 2015-Present. Reid McIlroy-Young and John McLevey. [metaknowledge: A Python3 library for quantitative sociology of knowledge and scientometric research](http://networkslab.org/metaknowledge/). Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
 
 # Op-Eds and Public Talks
 
@@ -143,8 +143,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind May 2016 "Expertise and Experience in Dynamic Social Networks: Developing A Co-evolution Model for SEE." Accepted for presentation at [SEESHOP 9](http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html) (Studies of Expertise and Experience), Cardiff Wales, UK. 
 
-\ind April 2016 Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets." Presented at the [Fields Institute](https://www.ineteconomics.org/community/events/complexity-for-new-economic-thinking) "YSI
-Complexity and Economics Workshop." Toronto, ON, Canada.
+\ind April 2016 Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets." Presented at the [Fields Institute](https://www.ineteconomics.org/community/events/complexity-for-new-economic-thinking) "YSI Complexity and Economics Workshop." Toronto, ON, Canada.
 
 \ind April 2016 John McLevey, Katie Plaisance, Reid McIlroy-Young, and Alexander Graham. "Is there a citation penalty for scientifically relevant philosophy of science?" Presented by John McLevey and Alexander Graham at Sunbelt XXXVI (Annual meetings of the International Network for Social Network Analysis), Newport Beach, CA. 
 
@@ -272,9 +271,13 @@ Complexity and Economics Workshop." Toronto, ON, Canada.
 
 ## University of Waterloo
 
+\ind 2016 Informal committee designing a Master's in Data Science program at the University of Waterloo. 
+\ind 2016 Internal External Examiner for PhD Dissertation in the Department of Applied Mathematics, University of Waterloo. John Lang, "Mathematical Modelling of Social Factors in Decision Making Processes at the Individual
+and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel M. Abrams. 
+\ind 2016 Internal External Examiner for PhD Dissertation in the Department of Philosophy, University of Waterloo. Benjamin Nelson, "The Depictions of Unwritten Law." Committee Members: Brian Orend, Heather Douglas, and Matt Doucet.
 \ind 2016-Present Member of the University of Waterloo Task Force on Bibliometrics   
 \ind 2016-Present Committee Member on the Faculty of Environment Committee on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign to make gender equality a top institutional priority.  
-\ind 2016 Co-organized (with Ian Milligan) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research.    
+\ind 2016 Co-organized (with Ian Milligan) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research. 
 \ind 2016-Present Faculty Advisor, [University of Waterloo iGEM](http://2015.igem.org/Team:Waterloo) (International Genetically Engineering Machine) Team, Policy & Practices Subgroup.   
 \ind 2014-Present Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)  
 \ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council      
@@ -282,6 +285,7 @@ Complexity and Economics Workshop." Toronto, ON, Canada.
 \ind 2014-2015 Member of the English Language Competency Committee in the Faculty of Environment     
 \ind 2014 Faculty of Environment Teaching and Learning Committee  
 \ind 2014 Gave a talk on creativity and innovation to Grade 11 students at Waterloo Unlimited. Title: "Where do good ideas come from? A social network perspective."  
+\ind 2014 Internal External Examiner for PhD Dissertation in the Department of Psychology, University of Waterloo. Nathaniel Barr, "Reasoned connections: Complex creativity and dual-process theories of cognition." Dissertation Advisor: Jonathon Fugelsang.
 
 ## McMaster University
 
