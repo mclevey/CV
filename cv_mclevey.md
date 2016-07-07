@@ -57,11 +57,11 @@ Social Networks; Sociology of Science, Science and Public Policy, and Scientific
 
 ## Manuscripts Close to Submission
 
+\ind John McLevey and Reid McIlroy-Young. "An introduction to *metaknowledge* for computational research in scientometrics, information science, and the sociology of knowledge." *Preparing for submission*. 
+
 \ind John McLevey, Alexander Graham, Reid McIlroy-Young, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
 
-\ind John McLevey and Alexander Graham. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Currently being revised.  
-
-\ind John McLevey and Reid McIlroy-Young. "An introduction to metaknowledge for computational and social networks research on science." *In progress*.  
+\ind John McLevey and Alexander Graham. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Currently being revised.   
 
 <!-- \ind John McLevey. "Climate Change and Strange Transmuted Expertise." Preparing for submission. -->
 
