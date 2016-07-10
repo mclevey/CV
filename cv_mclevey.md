@@ -318,7 +318,7 @@ and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel
 
 # Professional Memberships
 
-\noindent Canadian Sociological Association, American Sociological Association, International Network for Social Network Analysis, Sociologists for Women in Society
+\noindent Canadian Sociological Association, American Sociological Association, International Network for Social Network Analysis, Association for Information Science and Technology (ASIS&T), Sociologists for Women in Society
 
 <!-- # References
 
