@@ -32,7 +32,7 @@ fontsize: 12
 
 # Research Areas
 
-Social Networks; Sociology of Science; Information Science, Scientometrics, and Science Policy; Environmental Sociology; Political Sociology; Computational Social Science; Research Methods   
+Social Networks; Sociology of Science, Science Policy; Information Science, Bibliometrics, Scientometrics; Political Sociology; Environmental Sociology; Research Methods; Computational Social Science    
 
 # Publications
 
