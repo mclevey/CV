@@ -263,7 +263,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2016-2020, Communications Officer, Member of the Executive Council, Canadian Sociological Association. Am also managing social media accounts for the *Canadian Review of Sociology*.   
 
-\ind Peer Reviewing: *Sociological Theory*, *Social Studies of Science*, *Canadian Journal of Sociology*, *Methodological Innovations*, *Acta Sociologica*
+\ind Peer Reviewing: *American Journal of Sociology*, *Sociological Theory*, *Social Studies of Science*, *Canadian Journal of Sociology*, *Methodological Innovations*, *Acta Sociologica*
 
 \ind Co-organizer (with Marion Blute) and co-liaison (with Daphné Esquivel Sada) with the Canadian Sociological Association for the [Sociology of Science, Technology, and Knowledge Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/sstk/)  
 
