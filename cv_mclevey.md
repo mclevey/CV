@@ -52,12 +52,11 @@ Social Networks; Sociology of Science, Science Policy; Information Science, Bibl
 
 <!-- ## Revise & Resubmit -->
  
-<!-- ## Under Review -->
+## Under Review
 
+\ind John McLevey and Reid McIlroy-Young. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Quantitative Sociology of Science, and Network Analysis." Under review at the *Journal of Informetrics*.  
 
 ## Manuscripts Close to Submission
-
-\ind John McLevey and Reid McIlroy-Young. "An introduction to *metaknowledge* for computational research in scientometrics, information science, and the sociology of knowledge." *Preparing for submission*. 
 
 \ind John McLevey, Alexander Graham, Reid McIlroy-Young, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
 
