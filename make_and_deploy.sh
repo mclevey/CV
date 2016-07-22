@@ -10,6 +10,10 @@ git commit -m "quick tweak, automated git commit..."
 
 git push
 
+echo -e "\033[0;32mCopying most recent CV to CRC application folder.\033[0m"
+
+cp cv_mclevey /Users/johnmclevey/Documents/research/crc_application
+
 echo -e "\033[0;32mCopying most recent CV to research website.\033[0m"
 
 cp cv_mclevey.pdf ~/Documents/websites/john/hugo-sites-code/source_mclevey/content/pdfs/
