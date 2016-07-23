@@ -62,9 +62,10 @@ Social Networks; Sociology of Science, Science Policy; Information Science, Bibl
 
 \ind John McLevey and Alexander Graham. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Currently being revised.   
 
-<!-- \ind John McLevey. "Climate Change and Strange Transmuted Expertise." Preparing for submission. -->
+\ind John McLevey and Allyson Stokes. "Boundary Work and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*  
 
 <!-- ## In Progress
+
 
 
 \ind Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets" *In progress.*  
