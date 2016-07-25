@@ -62,7 +62,7 @@ Social Networks; Sociology of Science, Science Policy; Information Science and C
 
 \ind John McLevey and Alexander Graham. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Currently being revised.   
 
-\ind John McLevey and Allyson Stokes. "Boundary Work and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*  
+\ind John McLevey and Allyson Stokes. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*  
 
 <!-- ## In Progress
 
