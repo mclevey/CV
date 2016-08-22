@@ -1,15 +1,16 @@
 ---
 title: John McLevey
 lhead: \href{http://www.johnmclevey.com}{John McLevey, PhD}
-rhead: "Updated January 16, 2016"
+rhead: "Updated July 30^th^, 2016"
 mainfont: Minion Pro
 fontsize: 12
 ...
 
 \noindent Knowledge Integration, Sociology & Legal Studies    
 \noindent University of Waterloo, Waterloo, ON, Canada  
-\noindent <john.mclevey@uwaterloo.ca> | [johnmclevey.com](http://www.johnmclevey.com)    
-\noindent 647-921-2044   
+\noindent \href{http://www.johnmclevey.com}{johnmclevey.com} | [networkslab.org](http://networkslab.org)   
+\noindent <john.mclevey@uwaterloo.ca>    
+\noindent 647-921-2044    
 \bigskip
 \noindent Citizenship: Canadian  
 
@@ -32,7 +33,7 @@ fontsize: 12
 
 # Research Areas
 
-Social Networks; Sociology of Science, Science Policy; Information Science and Computational Social Science; Political Sociology; Environmental Sociology; Research Methods    
+Sociology of Science, Science & Innovation Policy; Social Networks; Information Science and Computational Social Science; Political Sociology; Environmental Sociology; Research Methods    
 
 # Publications
 
@@ -56,21 +57,20 @@ Social Networks; Sociology of Science, Science Policy; Information Science and C
 
 \ind John McLevey and Reid McIlroy-Young. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Quantitative Sociology of Science, and Network Analysis." Under review at the *Journal of Informetrics*.  
 
+\ind John McLevey and Alexander Graham. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review.   
+
+
 ## Manuscripts Close to Submission
 
-\ind John McLevey, Alexander Graham, Reid McIlroy-Young, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
+\ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Under review at the *European Journal of Criminology*.  
 
-\ind John McLevey and Alexander Graham. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Currently being revised.   
+\ind John McLevey, Reid McIlroy-Young, Alexander Graham, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
 
-\ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*  
+<!-- \ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*   -->
 
 <!-- ## In Progress
 
-
-
 \ind Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets" *In progress.*  
-
-\ind Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *In progress*.
 
 \ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under Review. 
 
@@ -84,22 +84,22 @@ Social Networks; Sociology of Science, Science Policy; Information Science and C
 
 \ind Total Research Grants since 2013: $563,729  \bigskip
 
+\ind 2016-2020 John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $150,000.  
+
 \ind 2016-2018 John McLevey (PI), Owen Gallupe (Collaborator) and Martin Cooke (Collaborator), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
 bventions_de_developpement_savoir-eng.aspx), Insight Development Grant, “Remaking the Boundaries of Open and Proprietary Science: A Longitudinal Study of Biomedical Research and Development Networks in Canada” $67,790.
 
 \ind 2016-2018 Katie Plaisance (PI) and John McLevey (Co-I), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
-bventions_de_developpement_savoir-eng.aspx), Insight Development Grant, "Increasing the Impact of Philosophy of Science in Scientific Domains", $59,302
-
-\ind 2016-2020 John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $150,000.  
+bventions_de_developpement_savoir-eng.aspx), Insight Development Grant, "Increasing the Impact of Philosophy of Science in Scientific Domains", $59,302    
 
 \ind 2015-2016 John McLevey (PI) and Vanessa Schweizer (Co-I), Basillie School of International Affairs, Major Workshops Grant, "Challenges and Opportunities for Governance of Socio-Ecological Systems in Comparative Perspective," $8,400.  
 
 \ind 2015-2020 Mark Stoddart (PI) and John McLevey (Co-I), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
-bventions_de_developpement_savoir-eng.aspx), Insight Grant, "The Oil-Tourism Interface and Social-Ecological Change in the North Atlantic," $188,423.
+bventions_de_developpement_savoir-eng.aspx), Insight Grant, "The Oil-Tourism Interface and Social-Ecological Change in the North Atlantic," $188,423.     
 
 \ind 2014-2016 John McLevey (PI), [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Development Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
-bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Networks," $74,814.
-
+bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Networks," $74,814.     
+  
 \ind 2013 University of Waterloo, Faculty Research Startup Grant, $15,000.
 
 # Teaching Grants
@@ -129,7 +129,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Research Software 
 
-\ind 2015-Present. Reid McIlroy-Young and John McLevey. [metaknowledge: A Python3 library for quantitative sociology of knowledge and scientometric research](http://networkslab.org/metaknowledge/). Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
+\ind \href{http://networkslab.org/metaknowledge/}{\emph{metaknowledge}}: A Python package for quantitative and social networks research in the sociology of science and information science. Developed by Reid McIlroy-Young and John McLevey. First released in 2015. Under active development. Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
+
+\ind \href{http://networkslab.org/gitnet/}{\emph{gitnet}}: A Python package for mining source code repository and mailing list data and generating network datasets. Developed by Joel Becker, Jillian Anderson, Steve McColl, and John McLevey. First released in 2016. Under active development. Website and documentation: [http://networkslab.org/gitnet/](http://networkslab.org/gitnet/)
 
 # Op-Eds and Public Talks
 
@@ -201,7 +203,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Research
 
-\ind March 2, 2016 "Network Structure and the 'Chain of Trust' in Linux Development: Lessons for Working with Data Scraped from the Web." Guest lecture in Research Methods class in Sociology, Wilfrid Laurier University. 
+\ind March 2, 2016 "Network Structure and the 'Chain of Trust' in Linux Development: Lessons for Working with Data Scraped from the Web." Guest lecture in Research Methods class in Sociology, Wilfrid Laurier University  
 
 \ind Dec 2, 2014 "Collaborating On-Line: An Analysis of Communication Networks for Linux Kernel Developers." [Waterloo Institute for Complexity and Innovation](http://wici.ca/) Speaker Series, University of Waterloo  
 
@@ -227,7 +229,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 <!--  with Sasha Graham, Tiff Lin, Kelly White, Ben Carr -->
 
 \noindent Social Network Analysis  
-\noindent Cultural Boundaries of Science  
+\noindent Sociology of Science  
 \noindent The Sociology of Expertise and Science Policy  
 \noindent Organizations  
 
@@ -237,8 +239,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \noindent Amelia Howard (co-supervisor)  
 \noindent Rod Missaghian (co-supervisor)  
-\noindent Michael Clarke (committee member)    
 \noindent Noorin Manji (committee member)   
+\noindent Michael Clarke (committee member -- successfully defended in 2016)    
 
 ## MA Theses
 
@@ -263,21 +265,21 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2016-2020, Communications Officer, Member of the Executive Council, Canadian Sociological Association. Am also managing social media accounts for the *Canadian Review of Sociology*.   
 
-\ind Peer Reviewing: *American Journal of Sociology*, *Sociological Theory*, *Social Studies of Science*, *Canadian Journal of Sociology*, *Methodological Innovations*, *Acta Sociologica*
-
 \ind Co-organizer (with Marion Blute) and co-liaison (with Daphné Esquivel Sada) with the Canadian Sociological Association for the [Sociology of Science, Technology, and Knowledge Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/sstk/)  
 
 \ind Session Organizing: Sociology of Science and Knowledge (CSA Meetings, 2016, University of Calgary) , Political Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Technology (CSA meetings, 2014, Brock University), Sociology of Culture (with Allyson Stokes, CSA meetings, 2014, Brock University)
 
+\ind Peer Reviewing: *American Journal of Sociology*, *Sociological Theory*, *Social Studies of Science*, *Canadian Journal of Sociology*, *Methodological Innovations*, *Acta Sociologica*
+
 ## University of Waterloo
 
-\ind 2016 Informal committee designing a Master's in Data Science program at the University of Waterloo.   
+\ind 2016 Informal committee designing a Master's in Data Science program at the University of Waterloo, joint initiative of the Faculty of Arts and Faculty of Environment.   
 \ind 2016 Internal External Examiner for PhD Dissertation in the Department of Applied Mathematics, University of Waterloo. John Lang, "Mathematical Modelling of Social Factors in Decision Making Processes at the Individual
 and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel M. Abrams.      
 \ind 2016 Internal External Examiner for PhD Dissertation in the Department of Philosophy, University of Waterloo. Benjamin Nelson, "The Depictions of Unwritten Law." Committee Members: Brian Orend, Heather Douglas, and Matt Doucet.    
 \ind 2016-Present Member of the University of Waterloo Task Force on Bibliometrics       
 \ind 2016-Present Committee Member on the Faculty of Environment Committee on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign to make gender equality a top institutional priority.  
-\ind 2016 Co-organized (with Ian Milligan) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research. 
+\ind 2016 Co-organized (with Ian Milligan) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research.    
 \ind 2016-Present Faculty Advisor, [University of Waterloo iGEM](http://2015.igem.org/Team:Waterloo) (International Genetically Engineering Machine) Team, Policy & Practices Subgroup.   
 \ind 2014-Present Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)  
 \ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council      
@@ -302,7 +304,7 @@ and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel
 
 \ind Technical / methods workshops attended at Sunbelt 2016, Newport Beach, USA: (1) Understanding Diffusion with netdiffuseR, (2) Moving beyond Descriptives: Basic Network Statistics with statnet, (3) Exponential Family Random Graph Modeling (ERGMs) Using statnet, (4) Introduction to Egocentric Network Data Analysis with ERGMs and TERGMs Using statnet     
 
-\ind Technical / methods workshops attended at Sunbelt 2015, Brighton, UK: (1) Networks in Python: The Networkx-Package, Parts 1 & 2 [Riebling], (2) Mining of large social networks from Twitter, Facebook and LinkedIn using Python [Boudourides], (3) Social Network Approaches for Behavior Change [Valente], (4) Visualizing Social Networks. How to Create Meaningful and Compelling Network Drawings. [Pfeffer]     
+\ind Technical / methods workshops attended at Sunbelt 2015, Brighton, UK: (1) Networks in Python: The *networkx* Package, Parts 1 & 2<!--  [Riebling] -->, (2) Mining of large social networks from Twitter, Facebook and LinkedIn using Python<!--  [Boudourides] -->, (3) Social Network Approaches for Behavior Change<!--  [Valente] -->, (4) Visualizing Social Networks. How to Create Meaningful and Compelling Network Drawings.<!--  [Pfeffer]    -->  
 
 \ind Qualitative Comparative Analysis and Fuzzy Sets. Arizona Methods Workshops, held at University of Arizona. January, 2012.  
 
@@ -318,13 +320,18 @@ and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel
 
 # Professional Memberships
 
-\noindent Canadian Sociological Association, American Sociological Association, International Network for Social Network Analysis, Association for Information Science and Technology (ASIS&T), Sociologists for Women in Society
+\noindent Canadian Sociological Association, American Sociological Association, International Network for Social Network Analysis, Association for Information Science and Technology (ASIS&T), Society for Social Studies of Science, Sociologists for Women in Society
 
-<!-- # References
+# References
+
+\ind Harry Collins, Fellow of the British Academy, Distinguished Research Professor, School of Social Sciences, Cardiff University, <CollinsHM@cf.ac.uk>   
+
+\ind Mike Gorman, Director and Professor of Science, Technology & Society Program, Professor of Systems Engineering, School of Engineering and Applied Science, University of Virginia, <meg3c@virginia.edu>     
+
+\ind Marion Blute, Professor Emeritus, Department of Sociology, University of Toronto, <marion.blute@utoronto.ca>    
 
 \ind Neil McLaughlin, Professor, Sociology, McMaster University, Hamilton ON, Canada, <nmclaugh@mcmaster.ca>  
 
 \ind Tina Fetner, Associate Professor, Sociology, McMaster University, Hamilton ON, Canada, <tina.fetner@mcmaster.ca>  
 
 \ind Scott Davies, Professor, Leadership, Higher and Adult Education, University of Toronto, OISE, Toronto ON, Canada, <scott.davies@utoronto.ca>  
- -->
