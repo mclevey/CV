@@ -127,6 +127,10 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2008. MA Graduate Scholarship, McMaster University, $5,000.  
 
+# Research Contracts
+
+\ind 2016-2017. Janice Aurini (Co-PI), John McLevey (Co-PI), Rob Gorbet (Co-I). "Robotics and 21^st^ Century Skills." Contract with Council of Ontario Directors of Education (CODE). 
+
 # Research Software 
 
 \ind \href{http://networkslab.org/metaknowledge/}{\emph{metaknowledge}}: A Python package for quantitative and social networks research in the sociology of science and information science. Developed by Reid McIlroy-Young and John McLevey. First released in 2015. Under active development. Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
