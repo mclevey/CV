@@ -102,6 +102,10 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
   
 \ind 2013 University of Waterloo, Faculty Research Startup Grant, $15,000.
 
+## Grant Applications Under Review
+
+\ind Under Review. David Tindall (PI), John McLevey (Co-I), Mark Stoddart (Co-I). Collaborators: Andrew Jorgenson, Philippe Le Billon, Mario Diani, Jennifer Earl, Don Grant, Philip Leifeld, Dana R Fisher, Moses Boudourides. [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx) Application. "Making sense of climate action: Understanding social mobilization to curb anthropogenic climate change through advances in social network analysis." 
+
 # Teaching Grants
 
 \ind 2015-2016 John McLevey (PI), LITE Seed Grant, Center for Teaching Excellence, University of Waterloo, "A Data-Driven and Interactive Approach to Enhancing Student Learning about Disciplinary and Interdisciplinary Knowledge Production," $4,765.20.
@@ -242,7 +246,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 ## PhD Dissertations
 
 \noindent Amelia Howard (co-supervisor)  
-\noindent Rod Missaghian (co-supervisor)  
+\noindent Rod Missaghian (committee member)  
 \noindent Noorin Manji (committee member)   
 \noindent Michael Clarke (committee member -- successfully defended in 2016)    
 
@@ -252,6 +256,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Undergraduate Senior Honors Theses
 
+\noindent Jillian Anderson (in progress)    
 \noindent Julia Yaroshinsky (completed 2016)    
 \noindent Tiffany Lin (completed 2015)    
 \noindent Benjamin Carr (completed 2014)    
