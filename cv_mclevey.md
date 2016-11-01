@@ -60,7 +60,7 @@ Sociology of Science, Science & Innovation Policy; Social Networks; Information 
 
 ## Manuscripts Close to Submission
 
-\ind John McLevey and Alexander Graham. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review.   
+\ind John McLevey, Alexander Graham, and Pierson Browne. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review.   
 
 \ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Under review at the *European Journal of Criminology*.  
 
