@@ -64,7 +64,7 @@ Sociology of Science, Science & Innovation Policy; Social Networks; Information 
 
 \ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Under review at the *European Journal of Criminology*.  
 
-\ind John McLevey, Reid McIlroy-Young, Alexander Graham, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
+\ind John McLevey, Alexander Graham, Reid McIlroy-Young, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
 
 <!-- \ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*   -->
 
