@@ -37,7 +37,11 @@ Sociology of Science, Science & Innovation Policy; Social Networks; Information 
 
 # Publications
 
+<!-- Student co-author names are \underline{underlined}.    -->
+
 ## Peer Reviewed Journal Articles and Chapters in Edited Volumes
+
+\ind John McLevey and Reid McIlroy-Young. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Quantitative Sociology of Science, and Network Analysis." Forthcoming from the *Journal of Informetrics*.  
 
 \ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." Forthcoming from William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
 
@@ -55,16 +59,13 @@ Sociology of Science, Science & Innovation Policy; Social Networks; Information 
  
 ## Under Review
 
-\ind John McLevey and Reid McIlroy-Young. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Quantitative Sociology of Science, and Network Analysis." Under review at the *Journal of Informetrics*.  
-
+\ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Under review at the *Journal of Quantitative Criminology*.  
 
 ## Manuscripts Close to Submission
 
-\ind John McLevey, Alexander Graham, and Pierson Browne. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review.   
+\ind John McLevey, Alexander Graham, and Pierson Browne. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."    
 
-\ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Under review at the *European Journal of Criminology*.  
-
-\ind John McLevey, Alexander Graham, Reid McIlroy-Young, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?" *In progress*.  
+\ind John McLevey, Alexander Graham, Reid McIlroy-Young, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?"   
 
 <!-- \ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*   -->
 
@@ -149,9 +150,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Conference Presentations
 
-\ind August 2016 Vanina Leschziner, John McLevey, and Neil McLaughlin. "The American Fame Game: Academic Status and Public Renown in Post-War Social Sciences." Accepted for presentation at the Annual Meetings of the American Sociological Association, Section on Science, Knowledge, and Technology session, Seattle, WA. 
+\ind August 2016 Vanina Leschziner, John McLevey, and Neil McLaughlin. "The American Fame Game: Academic Status and Public Renown in Post-War Social Sciences." Presented at the Annual Meetings of the American Sociological Association, Section on Science, Knowledge, and Technology session, Seattle, WA. 
 
-\ind May 2016 "Expertise and Experience in Dynamic Social Networks: Developing A Co-evolution Model for SEE." Accepted for presentation at [SEESHOP 9](http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html) (Studies of Expertise and Experience), Cardiff Wales, UK. 
+\ind May 2016 "Expertise and Experience in Dynamic Social Networks: Developing A Co-evolution Model for SEE." Presented at [SEESHOP 9](http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html) (Studies of Expertise and Experience), Cardiff Wales, UK. 
 
 \ind April 2016 Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets." Presented at the [Fields Institute](https://www.ineteconomics.org/community/events/complexity-for-new-economic-thinking) "YSI Complexity and Economics Workshop." Toronto, ON, Canada.
 
@@ -227,7 +228,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 # Teaching
 
 \noindent Social Research Methods (undergraduate lecture)  
-\noindent Data Visualization (Undergraduate seminar)    
+\noindent Data Visualization (undergraduate seminar)    
 \noindent Sociology of Science (undergraduate seminar)      
 \noindent Open Science and Technology (undergraduate seminar)  
 \noindent Creativity and Innovation (undergraduate lecture)  
@@ -248,11 +249,13 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent Amelia Howard (co-supervisor)  
 \noindent Rod Missaghian (committee member)  
 \noindent Noorin Manji (committee member)   
+\noindent Pierson Browne (committee member)  
 \noindent Michael Clarke (committee member -- successfully defended in 2016)    
 
 ## MA Theses
 
 \noindent Alexander Graham (supervisor)  
+\noindent Jill (Junyi) Wang (reader, supervisor Derek Robinson) 
 
 ## Undergraduate Senior Honors Theses
 
