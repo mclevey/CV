@@ -105,7 +105,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Grant Applications Under Review
 
-\ind Under Review. David Tindall (PI), John McLevey (Co-I), Mark Stoddart (Co-I). Collaborators: Andrew Jorgenson, Philippe Le Billon, Mario Diani, Jennifer Earl, Don Grant, Philip Leifeld, Dana R Fisher, Moses Boudourides. [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx) Application. "Making sense of climate action: Understanding social mobilization to curb anthropogenic climate change through advances in social network analysis." 
+\ind Under Review. David Tindall (PI), John McLevey (Co-I), Mark Stoddart (Co-I). Collaborators: Andrew Jorgenson, Philippe Le Billon, Mario Diani, Jennifer Earl, Don Grant, Philip Leifeld, Dana R Fisher, Moses Boudourides. [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx) Application. "Making sense of climate action: Understanding social mobilization to curb anthropogenic climate change through advances in social network analysis."  
 
 # Teaching Grants
 
