@@ -41,13 +41,13 @@ Sociology of Science, Science & Innovation Policy; Social Networks; Information 
 
 ## Peer Reviewed Journal Articles and Chapters in Edited Volumes
 
-\ind John McLevey and Reid McIlroy-Young. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Quantitative Sociology of Science, and Network Analysis." Forthcoming from the *Journal of Informetrics*.  
+\ind John McLevey and Reid McIlroy-Young. Forthcoming. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Network Analysis, and Science of Science." *The Journal of Informetrics*.  
 
-\ind John McLevey and Ryan Deschamps. "The Sociology of Public Policy Formation and Implementation." Forthcoming from William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
+\ind John McLevey and Ryan Deschamps. Forthcoming. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
+
+\ind John McLevey, Allyson Stokes, and Amelia Howard.  Forthcoming. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
 
 \ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 
-
-\ind John McLevey, Allyson Stokes, and Amelia Howard. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Forthcoming from Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
 
 \ind John McLevey. 2015. "Understanding Policy Research in Liminal Spaces: Think Tank Responses to Diverging Principles of Legitimacy." *Social Studies of Science*. 45(2):270-293.  
 
