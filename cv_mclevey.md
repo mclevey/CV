@@ -246,16 +246,18 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## PhD Dissertations
 
+\noindent Michael Clarke (committee member -- successfully defended in 2016)    
 \noindent Amelia Howard (co-supervisor)  
 \noindent Rod Missaghian (committee member)  
 \noindent Noorin Manji (committee member)   
 \noindent Pierson Browne (committee member)  
-\noindent Michael Clarke (committee member -- successfully defended in 2016)    
+\noindent Yixi Yang (dissertation committee member, supervisor Mark Stoddart at Memorial University)
 
 ## MA Theses
 
 \noindent Alexander Graham (supervisor)  
-\noindent Jill (Junyi) Wang (reader, supervisor Derek Robinson) 
+\noindent Jill (Junyi) Wang (reader, supervisor Derek Robinson)  
+\noindent Nick Brendon (committee member, supervisor Shannon Majowicz)  
 
 ## Undergraduate Senior Honors Theses
 
