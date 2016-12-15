@@ -257,7 +257,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \noindent Alexander Graham (supervisor)  
 \noindent Jill (Junyi) Wang (reader, supervisor Derek Robinson)  
-\noindent Nick Brendon (committee member, supervisor Shannon Majowicz)  
+\noindent Nicholas Brandon, MD (committee member, supervisor Shannon Majowicz)  
 
 ## Undergraduate Senior Honors Theses
 
