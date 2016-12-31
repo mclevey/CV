@@ -41,11 +41,14 @@ Sociology of Science, Science & Innovation Policy; Social Networks; Information 
 
 ## Peer Reviewed Journal Articles and Chapters in Edited Volumes
 
-\ind John McLevey and Reid McIlroy-Young. Forthcoming. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Network Analysis, and Science of Science." *The Journal of Informetrics*.  
+\footnotesize{\ind Italics = student at time of publication}\bigskip 
+\normalsize
+ 
+\ind John McLevey and *Reid McIlroy-Young*. 2017. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Network Analysis, and Science of Science." *The Journal of Informetrics*. 11: 176-197. 
 
-\ind John McLevey and Ryan Deschamps. Forthcoming. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
+\ind John McLevey and *Ryan Deschamps*. Forthcoming. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
 
-\ind John McLevey, Allyson Stokes, and Amelia Howard.  Forthcoming. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
+\ind John McLevey, Allyson Stokes, and *Amelia Howard*.  Forthcoming. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
 
 \ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 
 
@@ -63,9 +66,9 @@ Sociology of Science, Science & Innovation Policy; Social Networks; Information 
 
 ## Manuscripts Close to Submission
 
-\ind John McLevey, Alexander Graham, and Pierson Browne. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."    
+\ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."    
 
-\ind John McLevey, Alexander Graham, Reid McIlroy-Young, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?"   
+\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?"   
 
 <!-- \ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*   -->
 
@@ -211,6 +214,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 # Invited Talks
 
 ## Research
+
+\ind Oct 28, 2016, "Open Science and the Uncertain Future of University-Industry Partnerships in Biomedical Research and Development." Environment Seminar Series: Open Data, Open Science. Faculty of Environment, University of Waterloo.
 
 \ind March 2, 2016 "Network Structure and the 'Chain of Trust' in Linux Development: Lessons for Working with Data Scraped from the Web." Guest lecture in Research Methods class in Sociology, Wilfrid Laurier University  
 
