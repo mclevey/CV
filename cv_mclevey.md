@@ -68,7 +68,7 @@ Sociology of Science, Science & Innovation Policy; Social Networks; Information 
 
 \ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."    
 
-\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, and Kathryn S. Plaisance. "Is there a citation penalty for scientifically relevant philosophy of science?"   
+\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Knowledge diffusion and status boundaries: A network analysis of the relationships between philosophy of science and the sciences."   
 
 <!-- \ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*   -->
 
@@ -137,7 +137,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Research Contracts
 
-\ind 2016-2017. Janice Aurini (Co-PI), John McLevey (Co-PI), Rob Gorbet (Co-I). "Robotics and 21^st^ Century Skills." Contract with Council of Ontario Directors of Education (CODE). 
+\ind 2016-2017. Janice Aurini (Co-PI), John McLevey (Co-PI), Rob Gorbet (Co-I). "Assessing the Impact of Classroom-Integrated Robotics on the Cultivation of 21^st^ Century Competencies." Contract with Council of Ontario Directors of Education (CODE). 
 
 # Research Software 
 
