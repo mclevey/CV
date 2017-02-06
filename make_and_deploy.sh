@@ -12,7 +12,7 @@ git push
 
 echo -e "\033[0;32mCopying most recent CV to research website.\033[0m"
 
-cp cv_mclevey.pdf ~/Documents/websites/john/hugo-sites-code/source_mclevey/content/pdfs/
+cp cv_mclevey.pdf /Users/johnmclevey/Documents/websites/john/hugo-sites-code/source_mclevey/static
 
 echo -e "\033[0;32mChanging directories\033[0m"
 
