@@ -9,7 +9,7 @@ fontsize: 12
 \noindent Knowledge Integration, Sociology & Legal Studies    
 \noindent University of Waterloo, Waterloo, ON, Canada  
 \noindent \href{http://www.johnmclevey.com}{johnmclevey.com} | [networkslab.org](http://networkslab.org)   
-\noindent <john.mclevey@uwaterloo.ca>    
+\noindent john.mclevey@uwaterloo.ca    
 \noindent 647-921-2044    
 \bigskip
 \noindent Citizenship: Canadian  
@@ -24,7 +24,7 @@ fontsize: 12
 
 \ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/) 
 
-\ind 2016-Present. Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
+\ind 2016-Present. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
 
 # Education
 \ind 2013. PhD, Sociology, McMaster University   
@@ -33,7 +33,7 @@ fontsize: 12
 
 # Research Areas
 
-Sociology of Science, Science & Innovation Policy; Social Networks; Information Science and Computational Social Science; Political Sociology; Environmental Sociology; Research Methods    
+Social Networks; Science and Public Policy; Education; Environmental Sociology; Computational Social Science and Information Science; Political Sociology; Research Methods    
 
 # Publications
 
@@ -86,7 +86,9 @@ Sociology of Science, Science & Innovation Policy; Social Networks; Information 
 
 # Research Grants
 
-\ind Total Research Grants since 2013: $563,729  \bigskip
+\ind Total Research Grants since 2013: **$846,401**  \bigskip
+
+\ind 2016-2022. David Tindall (PI), John McLevey (Co-I), Mark Stoddart (Co-I). Collaborators: Andrew Jorgenson, Philippe Le Billon, Mario Diani, Jennifer Earl, Don Grant, Philip Leifeld, Dana R Fisher, Moses Boudourides. [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx) Application. "Making sense of climate action: Understanding social mobilization to curb anthropogenic climate change through advances in social network analysis," $282,672  
 
 \ind 2016-2020 John McLevey (PI), Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $150,000.  
 
@@ -106,9 +108,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
   
 \ind 2013 University of Waterloo, Faculty Research Startup Grant, $15,000.
 
-## Grant Applications Under Review
-
-\ind Under Review. David Tindall (PI), John McLevey (Co-I), Mark Stoddart (Co-I). Collaborators: Andrew Jorgenson, Philippe Le Billon, Mario Diani, Jennifer Earl, Don Grant, Philip Leifeld, Dana R Fisher, Moses Boudourides. [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx) Application. "Making sense of climate action: Understanding social mobilization to curb anthropogenic climate change through advances in social network analysis."  
+<!-- ## Grant Applications Under Review -->
 
 # Teaching Grants
 
@@ -151,7 +151,19 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind Comments at *Talk Science* event, organized by students and local community members involved with *Evidence for Democracy*. Waterloo, ON. September 28, 2015.   
 
+\ind Comments at *XMD* Graduate Students Symposium, Big Data & Society. organized by Dr. Beth Coleman, University of Waterloo. Critical Media Lab, Kitchener Waterloo, April 9, 2017.   
+
 # Conference Presentations
+
+\ind August 2017 John McLevey and Eric Kennedy. "Environmental crises, policy, and scientific change: Insights from a computational model." Accepted for presentation at the annual American Sociological Association meetings, Montréal, QC, Canada.
+
+\ind June 2017 John McLevey and Reid McIlroy-Young. "*metaknowledge*: open source software for networks research on science" Accepted for presentation at the annual Sunbelt meeting, International Network for Social Network Analysis (INSNA), Beijing, China. 
+
+\ind May 2017 John McLevey. Panelist in "Assessing Pierre Bourdieu's Legacy," organized by the joint culture/theory research cluster committee at the Canadian Sociological Association meetings at Ryerson University. Toronto, ON, Canada.
+
+\ind May 2017 John McLevey, Mark Stoddart, and Yixi Yang. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." Accepted for presentation at the Canadian Sociological Association annual meeting. Toronto, ON, Canada. 
+
+\ind May 2017 John McLevey. "How do face-to-face and virtual networks shape the development of specialist expertise?" Accepted for presentation at SEESHOP 2017, Geneva, Switzerland. 
 
 \ind August 2016 Vanina Leschziner, John McLevey, and Neil McLaughlin. "The American Fame Game: Academic Status and Public Renown in Post-War Social Sciences." Presented at the Annual Meetings of the American Sociological Association, Section on Science, Knowledge, and Technology session, Seattle, WA. 
 
@@ -215,6 +227,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Research
 
+\ind May 2017, Panelist on "SSHRC's New Data Management Policies: What Do They Mean for your Knowledge Making Practices?" at the 2017 Canadian Sociological Association meetings, Ryerson University.
+
 \ind Oct 28, 2016, "Open Science and the Uncertain Future of University-Industry Partnerships in Biomedical Research and Development." Environment Seminar Series: Open Data, Open Science. Faculty of Environment, University of Waterloo.
 
 \ind March 2, 2016 "Network Structure and the 'Chain of Trust' in Linux Development: Lessons for Working with Data Scraped from the Web." Guest lecture in Research Methods class in Sociology, Wilfrid Laurier University  
@@ -233,11 +247,12 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 # Teaching
 
 \noindent Social Research Methods (undergraduate lecture)  
+\noindent KI Thesis / Senior Research Project
 \noindent Data Visualization (undergraduate seminar)    
 \noindent Sociology of Science (undergraduate seminar)      
 \noindent Open Science and Technology (undergraduate seminar)  
 \noindent Creativity and Innovation (undergraduate lecture)  
-\noindent Disciplines and Integrative Practices (undergraduate lecture)  
+\noindent Meta-cognition and Integrative Thinking (formerly: Disciplines and Integrative Practices) (undergraduate lecture)  
 
 ## Independent Studies Courses
 <!--  with Sasha Graham, Tiff Lin, Kelly White, Ben Carr -->
@@ -286,13 +301,16 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind Co-organizer (with Marion Blute) and co-liaison (with Daphné Esquivel Sada) with the Canadian Sociological Association for the [Sociology of Science, Technology, and Knowledge Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/sstk/)  
 
-\ind Session Organizing: Sociology of Science and Knowledge (CSA Meetings, 2016, University of Calgary) , Political Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Technology (CSA meetings, 2014, Brock University), Sociology of Culture (with Allyson Stokes, CSA meetings, 2014, Brock University)
+\ind Session Organizing: Panel on "Practical Advice on Communicating Sociological Research Effectively" (featuring: Rima Wilkes, Michael Haan, Karen Robson, Fuyuki Kurasawa, Sarah Wilkens-Laflamme, and Karen Foster, Ryerson University 2017), Sociology of Science and Knowledge (CSA Meetings, 2017, Ryerson), Sociology of Science and Knowledge (CSA Meetings, 2016, University of Calgary), Political Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Technology (CSA meetings, 2014, Brock University), Sociology of Culture (with Allyson Stokes, CSA meetings, 2014, Brock University)
 
-\ind Peer Reviewing: *American Journal of Sociology*, *Sociological Theory*, *Social Studies of Science*, *Canadian Journal of Sociology*, *Methodological Innovations*, *Acta Sociologica*
+\ind Peer Reviewing (Journal Articles): *American Journal of Sociology*, *Sociological Theory*, *Social Studies of Science*, *Canadian Journal of Sociology*, *Methodological Innovations*, *Acta Sociologica*
+
+\ind Peer Reviewing (Grants): Evaluator for 2017 SSHRC Insight Development Grants Competition, Sociology & Demography
 
 ## University of Waterloo
 
 \ind 2016 Informal committee designing a Master's in Data Science program at the University of Waterloo, joint initiative of the Faculty of Arts and Faculty of Environment.   
+\ind 2016-Present Member of Communications Outcomes Committee in the Faculty of Environment   
 \ind 2016 Internal External Examiner for PhD Dissertation in the Department of Applied Mathematics, University of Waterloo. John Lang, "Mathematical Modelling of Social Factors in Decision Making Processes at the Individual
 and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel M. Abrams.      
 \ind 2016 Internal External Examiner for PhD Dissertation in the Department of Philosophy, University of Waterloo. Benjamin Nelson, "The Depictions of Unwritten Law." Committee Members: Brian Orend, Heather Douglas, and Matt Doucet.    
