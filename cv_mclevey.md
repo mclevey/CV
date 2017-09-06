@@ -147,13 +147,15 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind \href{http://networkslab.org/gitnet/}{\emph{gitnet}}: A Python package for mining source code repository and mailing list data and generating network datasets. Developed by Joel Becker, Jillian Anderson, Steve McColl, and John McLevey. First released in 2016. Under active development. Website and documentation: [http://networkslab.org/gitnet/](http://networkslab.org/gitnet/)
 
-# Op-Eds and Public Talks
+# Op-Eds, Public Talks, Non-Reviewed Writing
 
 \ind "[Tory war on evidence claims another casualty](http://bit.ly/1ohSn1N)" with Liam Swiss. *Toronto Star* Op-Ed published on September 24 2014, section A15.  
 
 \ind Comments at *Talk Science* event, organized by students and local community members involved with *Evidence for Democracy*. Waterloo, ON. September 28, 2015.   
 
 \ind Comments at *XMD* Graduate Students Symposium, Big Data & Society. organized by Dr. Beth Coleman, University of Waterloo. Critical Media Lab, Kitchener Waterloo, April 9, 2017.   
+
+\ind Allyson Stokes and John McLevey. 2017. "The Cultural Sociology Research Cluster in the Canadian Sociological Association and the CSA 2017 Annual Meeting." Newsletter of the Culture Section of the American Sociological Association. 
 
 # Conference Presentations
 
