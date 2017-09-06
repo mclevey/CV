@@ -60,15 +60,15 @@ Social Networks; Science and Public Policy; Education; Environmental Sociology; 
 
 <!-- ## Revise & Resubmit -->
  
-## Under Review
+## Revise & Resubmit / Under Review
 
-\ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Under review at the *Journal of Quantitative Criminology*.  
+\ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Revise and Resubmit at the *Journal of Quantitative Criminology*.  
+
+\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Knowledge diffusion and disciplinary boundaries: A statistical network analysis of the relationships between philosophy of science and the sciences." Under review at *Social Networks*.
 
 ## Manuscripts Close to Submission
 
-\ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."    
-
-\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Knowledge diffusion and status boundaries: A network analysis of the relationships between philosophy of science and the sciences."   
+\ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."     
 
 <!-- \ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*   -->
 
@@ -115,7 +115,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind 2015-2016 John McLevey (PI), LITE Seed Grant, Center for Teaching Excellence, University of Waterloo, "A Data-Driven and Interactive Approach to Enhancing Student Learning about Disciplinary and Interdisciplinary Knowledge Production," $4,765.20.
 
 
-# Scholarships and Awards
+# Awards and Selected Scholarships
+
+\ind 2017. Outstanding Performance Award. University of Waterloo.  
 
 \ind 2010–2013. \href{http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/fellowships/doctoral-doctorat-eng.aspx}{Joseph-Armand Bombardier Canada Graduate Scholarship}, Category A, SSHRC Doctoral Scholarship, $105,000.  
 
@@ -125,15 +127,15 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2009–2010. Ontario Graduate Fellowship, $12,000. Sociology Department Top Up, $3,000.  
 
-\ind 2012. Yates Scholarship, McMaster University, $500.  
+<!-- \ind 2012. Yates Scholarship, McMaster University, $500.   -->
 
-\ind 2012. McMaster Graduate Student Association Travel Grant, $500.  
+<!-- \ind 2012. McMaster Graduate Student Association Travel Grant, $500.   -->
 
-\ind 2011. McMaster Graduate Student Association Travel Grant, $500.  
+<!-- \ind 2011. McMaster Graduate Student Association Travel Grant, $500.   -->
 
 \ind 2009. University Gold Medal for Academic Excellence in Sociology, Memorial University.  
 
-\ind 2008. MA Graduate Scholarship, McMaster University, $5,000.  
+<!-- \ind 2008. MA Graduate Scholarship, McMaster University, $5,000.   -->
 
 # Research Contracts
 
@@ -267,21 +269,24 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 ## PhD Dissertations
 
 \noindent Michael Clarke (committee member -- successfully defended in 2016)    
-\noindent Amelia Howard (co-supervisor)  
-\noindent Rod Missaghian (committee member)  
-\noindent Noorin Manji (committee member)   
-\noindent Pierson Browne (committee member)  
-\noindent Yixi Yang (dissertation committee member, supervisor Mark Stoddart at Memorial University)
+\noindent Amelia Howard (supervisor)  
+\noindent Tyler Crick (supervisor)
+\noindent Alexander Graham (co-supervisor with Peter Carrington)   
+\noindent Rod Missaghian (committee member, supervisor Janice Aurini)     
+\noindent Pierson Browne (committee member, supervisor Jen Whitson)     
+\noindent Yixi Yang (committee member, supervisor Mark Stoddart at Memorial University)
+\noindent Julie Cook (co-supervisor with Jennifer Lynes)   
 
 ## MA Theses
 
-\noindent Alexander Graham (supervisor)  
-\noindent Jill (Junyi) Wang (reader, supervisor Derek Robinson)  
-\noindent Nicholas Brandon, MD (committee member, supervisor Shannon Majowicz)  
+\noindent Alexander Graham (supervisor, successfully defended 2017)  
+\noindent Jill (Junyi) Wang (committee member, supervisor Derek Robinson, successfully defended in 2017)  
+\noindent Nicholas Brandon, MD (committee member, supervisor Shannon Majowicz)
+\noindent Chen Chen (reader, supervisor Peter Johnson) <!-- , successfully defended in 2017 -->  
 
 ## Undergraduate Senior Honors Theses
 
-\noindent Jillian Anderson (in progress)    
+\noindent Jillian Anderson (completer 2017)    
 \noindent Julia Yaroshinsky (completed 2016)    
 \noindent Tiffany Lin (completed 2015)    
 \noindent Benjamin Carr (completed 2014)    
