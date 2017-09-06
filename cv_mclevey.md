@@ -268,7 +268,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## PhD Dissertations
 
-\noindent Michael Clarke (committee member -- successfully defended in 2016)    
+* Michael Clarke (committee member -- successfully defended in 2016)    
 * Amelia Howard (supervisor)  
 * Tyler Crick (supervisor)
 * Alexander Graham (co-supervisor with Peter Carrington)   
