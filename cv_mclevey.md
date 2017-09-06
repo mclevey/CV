@@ -272,10 +272,10 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent Amelia Howard (supervisor)     
 \noindent Tyler Crick (supervisor)    
 \noindent Alexander Graham (co-supervisor with Peter Carrington)      
-\noindent Rod Missaghian (committee member, supervisor Janice Aurini)       
-\noindent Pierson Browne (committee member, supervisor Jen Whitson)     
-\noindent Yixi Yang (committee member, supervisor Mark Stoddart at Memorial University)      
 \noindent Julie Cook (co-supervisor with Jennifer Lynes)   
+\noindent Pierson Browne (committee member, supervisor Jen Whitson)     
+\noindent Rod Missaghian (committee member, supervisor Janice Aurini)       
+\noindent Yixi Yang (committee member, supervisor Mark Stoddart at Memorial University)      
 
 ## MA Theses
 
