@@ -161,7 +161,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Conference Presentations
 
-\ind August 2017 John McLevey and Eric Kennedy. "Environmental crises, policy, and scientific change: Insights from a computational model." Accepted for presentation at the annual American Sociological Association meetings, Montréal, QC, Canada.
+\ind August 2017 John McLevey. "Environmental crises, policy, and scientific change: Insights from a computational model." Accepted for presentation at the annual American Sociological Association meetings, Montréal, QC, Canada.
 
 \ind June 2017 John McLevey and Reid McIlroy-Young. "*metaknowledge*: open source software for networks research on science" Accepted for presentation at the annual Sunbelt meeting, International Network for Social Network Analysis (INSNA), Beijing, China. 
 
