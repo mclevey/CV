@@ -254,11 +254,11 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \noindent Social Research Methods (undergraduate lecture)  
 \noindent KI Thesis / Senior Research Project
+\noindent The Art & Science of Learning (undergraduate lecture)\footnote{formerly: Disciplines and Integrative Practices}    
 \noindent Data Visualization (undergraduate seminar)    
 \noindent Sociology of Science (undergraduate seminar)      
 \noindent Open Science and Technology (undergraduate seminar)  
 \noindent Creativity and Innovation (undergraduate lecture)  
-\noindent Meta-cognition and Integrative Thinking (formerly: Disciplines and Integrative Practices) (undergraduate lecture)  
 
 ## Independent Studies Courses
 <!--  with Sasha Graham, Tiff Lin, Kelly White, Ben Carr -->
