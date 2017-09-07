@@ -64,9 +64,10 @@ Social Networks; Science and Public Policy; Education; Environmental Sociology; 
 
 \ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Revise and Resubmit at the *Journal of Quantitative Criminology*.  
 
-\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Knowledge diffusion and disciplinary boundaries: A statistical network analysis of the relationships between philosophy of science and the sciences." Under review at *Social Networks*.
 
 ## Manuscripts Close to Submission
+
+\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Knowledge diffusion and disciplinary boundaries: A statistical network analysis of the relationships between philosophy of science and the sciences." Under review at *Social Networks*.
 
 \ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."     
 
