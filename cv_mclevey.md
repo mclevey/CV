@@ -263,10 +263,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 ## Independent Studies Courses
 <!--  with Sasha Graham, Tiff Lin, Kelly White, Ben Carr -->
 
-\noindent Social Network Analysis  
-\noindent Sociology of Science  
-\noindent The Sociology of Expertise and Science Policy  
-\noindent Organizations  
+\noindent Social Network Analysis; Sociology of Science; The Sociology of Expertise and Science Policy; Organizations  
 
 # Student Supervision
 
