@@ -33,7 +33,8 @@ fontsize: 12
 
 # Research Areas
 
-Social Networks; Science and Public Policy; Education; Environmental Sociology; Computational Social Science and Information Science; Political Sociology; Research Methods    
+Social Networks; Computational Social Science; Political Sociology; Science and Public Policy; Environmental Sociology; Research Methods; Education
+
 
 # Publications
 
