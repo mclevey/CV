@@ -305,6 +305,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2016-2020, Communications Officer, Member of the Executive Council, Canadian Sociological Association. Am also managing social media accounts for the *Canadian Review of Sociology*.   
 
+\ind Co-organizer (with Rochelle Côté) and co-liaison with the Canadian Sociological Association for the [Social Networks Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/socnet/)        
+
 \ind Co-organizer (with Marion Blute) and co-liaison (with Daphné Esquivel Sada) with the Canadian Sociological Association for the [Sociology of Science, Technology, and Knowledge Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/sstk/)  
 
 \ind Session Organizing: Panel on "Practical Advice on Communicating Sociological Research Effectively" (featuring: Rima Wilkes, Michael Haan, Karen Robson, Fuyuki Kurasawa, Sarah Wilkens-Laflamme, and Karen Foster, Ryerson University 2017), Sociology of Science and Knowledge (CSA Meetings, 2017, Ryerson), Sociology of Science and Knowledge (CSA Meetings, 2016, University of Calgary), Political Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Science (CSA Meetings, 2015, Carleton University), Sociology of Technology (CSA meetings, 2014, Brock University), Sociology of Culture (with Allyson Stokes, CSA meetings, 2014, Brock University)
