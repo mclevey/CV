@@ -253,7 +253,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 # Teaching
 
 \noindent Social Research Methods (undergraduate lecture)  
-\noindent KI Thesis / Senior Research Project
+\noindent KI Thesis / Senior Research Project    
 \noindent The Art & Science of Learning (undergraduate lecture)\footnote{Formerly: Disciplines and Integrative Practices}    
 \noindent Data Visualization (undergraduate seminar)    
 \noindent Sociology of Science (undergraduate seminar)      
