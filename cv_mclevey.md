@@ -1,7 +1,7 @@
 ---
 title: John McLevey
 lhead: \href{http://www.johnmclevey.com}{John McLevey, PhD}
-rhead: "Updated July 30^th^, 2016"
+rhead: "Updated September 8^th^, 2017"
 mainfont: Minion Pro
 fontsize: 12
 ...
@@ -33,7 +33,9 @@ fontsize: 12
 
 # Research Areas
 
-Social Networks; Computational Social Science; Political Sociology; Science and Public Policy; Environmental Sociology; Research Methods; Education
+Science Policy, Computational Social Science, Environmental Sociology, Social Networks, Political Sociology, Research Methods, Education
+
+<!-- Social Networks; Computational Social Science; Political Sociology; Science and Public Policy; Environmental Sociology; Research Methods; Education -->
 
 
 # Publications
@@ -68,9 +70,16 @@ Social Networks; Computational Social Science; Political Sociology; Science and 
 
 ## Manuscripts Close to Submission
 
-\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Knowledge diffusion and disciplinary boundaries: A statistical network analysis of the relationships between philosophy of science and the sciences." Under review at *Social Networks*.
+\ind John McLevey, Mark Stoddart, and *Yixi Yang*. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." 
+
+\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Intellectual Status and disciplinary boundaries: A statistical network analysis of the relationships between philosophy of science and the sciences."
 
 \ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."     
+
+# Policy Reports
+
+\ind Janice Aurini, John McLevey, Allyson Stokes, and Rob Gorbet. 2017. "Classroom Robotics and Acquisition of 21st Century Competencies: An Action Research Study of Nine Ontario School Boards." Report for the Council of Ontario Directors of Education (CODE) and the Ministry of Education, Ontario. 
+
 
 <!-- \ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*   -->
 
@@ -161,15 +170,15 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Conference Presentations
 
-\ind August 2017 John McLevey. "Environmental crises, policy, and scientific change: Insights from a computational model." Accepted for presentation at the annual American Sociological Association meetings, Montréal, QC, Canada.
+\ind August 2017 John McLevey. "Environmental crises, policy, and scientific change: Insights from a computational model." Presented at the annual American Sociological Association meetings, Montréal, QC, Canada.
 
-\ind June 2017 John McLevey and Reid McIlroy-Young. "*metaknowledge*: open source software for networks research on science" Accepted for presentation at the annual Sunbelt meeting, International Network for Social Network Analysis (INSNA), Beijing, China. 
+\ind June 2017 John McLevey and Reid McIlroy-Young. "*metaknowledge*: open source software for networks research on science" Presented at the annual Sunbelt meeting, International Network for Social Network Analysis (INSNA), Beijing, China. 
 
 \ind May 2017 John McLevey. Panelist in "Assessing Pierre Bourdieu's Legacy," organized by the joint culture/theory research cluster committee at the Canadian Sociological Association meetings at Ryerson University. Toronto, ON, Canada.
 
-\ind May 2017 John McLevey, Mark Stoddart, and Yixi Yang. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." Accepted for presentation at the Canadian Sociological Association annual meeting. Toronto, ON, Canada. 
+\ind May 2017 John McLevey, Mark Stoddart, and Yixi Yang. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." Presented at the Canadian Sociological Association annual meeting. Toronto, ON, Canada. 
 
-\ind May 2017 John McLevey. "How do face-to-face and virtual networks shape the development of specialist expertise?" Accepted for presentation at SEESHOP 2017, Geneva, Switzerland. 
+\ind May 2017 John McLevey. "How do face-to-face and virtual networks shape the development of specialist expertise?" Presented at SEESHOP 2017, Geneva, Switzerland. 
 
 \ind August 2016 Vanina Leschziner, John McLevey, and Neil McLaughlin. "The American Fame Game: Academic Status and Public Renown in Post-War Social Sciences." Presented at the Annual Meetings of the American Sociological Association, Section on Science, Knowledge, and Technology session, Seattle, WA. 
 
@@ -233,6 +242,13 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Research
 
+\ind Nov 15, 2017 "Gender discrimination in open source software development: findings from a large-scale field study." Guest lecture in Gender Equity course in Knowledge Integration, University of Waterloo. 
+
+\ind Nov 13, 2017. "A Primer on Computational Sociology." Guest lecture in Sociology Theory grad seminar, Sociology \& Legal Studies, University of Waterloo. 
+
+\ind March 2, 2016 "Network Structure and the 'Chain of Trust' in Linux Development: Lessons for Working with Data Scraped from the Web." Guest lecture in Research Methods class in Sociology, Wilfrid Laurier University  
+
+
 \ind May 2017, Panelist on "SSHRC's New Data Management Policies: What Do They Mean for your Knowledge Making Practices?" at the 2017 Canadian Sociological Association meetings, Ryerson University.
 
 \ind Oct 28, 2016, "Open Science and the Uncertain Future of University-Industry Partnerships in Biomedical Research and Development." Environment Seminar Series: Open Data, Open Science. Faculty of Environment, University of Waterloo.
@@ -270,24 +286,28 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 ## PhD Dissertations
 
 \noindent Michael Clarke (committee member -- successfully defended in 2016)    
+\noindent Alexander Graham (co-supervisor with Peter Carrington)      
 \noindent Amelia Howard (supervisor)     
 \noindent Tyler Crick (supervisor)    
-\noindent Alexander Graham (co-supervisor with Peter Carrington)      
 \noindent Julie Cook (co-supervisor with Jennifer Lynes)   
 \noindent Pierson Browne (committee member, supervisor Jen Whitson)     
 \noindent Rod Missaghian (committee member, supervisor Janice Aurini)       
-\noindent Yixi Yang (committee member, supervisor Mark Stoddart at Memorial University)      
+\noindent Yixi Yang (committee member, supervisor Mark Stoddart at Memorial University)            
+
+
 
 ## MA Theses
 
 \noindent Alexander Graham (supervisor, successfully defended 2017)  
 \noindent Jill (Junyi) Wang (committee member, supervisor Derek Robinson, successfully defended in 2017)  
 \noindent Nicholas Brandon, MD (committee member, supervisor Shannon Majowicz)     
-\noindent Chen Chen (reader, supervisor Peter Johnson) <!-- , successfully defended in 2017 -->  
+\noindent Chen Chen (reader, supervisor Peter Johnson)                                
+\noindent Sarah Tang (committee member, supervisor Simron Singh)            
 
 ## Undergraduate Senior Honors Theses
 
-\noindent Jillian Anderson (completer 2017)    
+\noindent Rachel Wood (in progress 2017-2018)    
+\noindent Jillian Anderson (completed 2017)    
 \noindent Julia Yaroshinsky (completed 2016)    
 \noindent Tiffany Lin (completed 2015)    
 \noindent Benjamin Carr (completed 2014)    
@@ -374,6 +394,8 @@ and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel
 \ind Mike Gorman, Director and Professor of Science, Technology & Society Program, Professor of Systems Engineering, School of Engineering and Applied Science, University of Virginia, <meg3c@virginia.edu>     
 
 \ind Marion Blute, Professor Emeritus, Department of Sociology, University of Toronto, <marion.blute@utoronto.ca>    
+
+\ind Howard Ramos, Professor; Associate Dean Research, Faculty of Arts and Social Sciences, Department of Sociology & Anthropology, Dalhousie University, <howard.ramos@dal.ca>   
 
 \ind Neil McLaughlin, Professor, Sociology, McMaster University, Hamilton ON, Canada, <nmclaugh@mcmaster.ca>  
 
