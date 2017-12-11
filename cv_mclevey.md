@@ -292,10 +292,11 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind March 1, 2016 "Enhancing Student Learning by Bringing Data into the Classroom." GREEN TEA speaker series, University of Waterloo. 
 
+<!-- talks for high school students attached to ERA -->
 
 # Teaching
 
-## Courses Designed, Developed, and Offered
+## Courses Designed, Developed, and Offered since 2013
 
 \noindent Social Research Methods (undergraduate lecture)  
 \noindent "Big Data" and Social Science Research (undergraduate seminar)   
