@@ -301,7 +301,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent Research Methods (undergraduate lecture)  
 \noindent "Big Data" and Social Science Research (undergraduate seminar)   
 \noindent KI Thesis / Senior Research Project    
-\noindent The Art & Science of Learning (undergraduate lecture)\footnote{Formerly: Disciplines and Integrative Practices}    
+\noindent The Art & Science of Learning (undergraduate lecture)<!-- \footnote{Formerly: Disciplines and Integrative Practices} -->    
 \noindent Data Visualization (undergraduate seminar)    
 \noindent Sociology of Science and Technology (undergraduate seminar)      
 \noindent Open Science and Technology (undergraduate seminar)  
