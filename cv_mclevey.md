@@ -417,7 +417,7 @@ and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel
 \ind 2009–2012 Peer Mentor in Sociology Peer Mentoring Program  
 \ind 2008–2009 Union Steward, Sociology (CUPE 3906)  
 
-# Additional Research Methods Training
+# Additional Research Methods / Technical Training
 
 \ind Technical / methods workshops attended at Sunbelt 2016, Newport Beach, USA: (1) Understanding Diffusion with netdiffuseR, (2) Moving beyond Descriptives: Basic Network Statistics with statnet, (3) Exponential Family Random Graph Modeling (ERGMs) Using statnet, (4) Introduction to Egocentric Network Data Analysis with ERGMs and TERGMs Using statnet     
 
