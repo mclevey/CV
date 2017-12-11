@@ -16,7 +16,7 @@ fontsize: 12
 
 # Appointments
 
-\ind 2013-Present. Assistant Professor (tenure track), University of Waterloo, Department of Knowledge Integration | Department of Sociology and Legal Studies | School of Environment, Resources, and Sustainability. [Approved Doctoral Dissertation Supervisor (ADDS) Status](https://uwaterloo.ca/graduate-studies/about-graduate-studies/organization-graduate-studies#6)  
+\ind 2013-Present. Assistant Professor (tenure track), University of Waterloo, Department of Knowledge Integration \n Department of Sociology and Legal Studies | School of Environment, Resources, and Sustainability. [Approved Doctoral Dissertation Supervisor (ADDS) Status](https://uwaterloo.ca/graduate-studies/about-graduate-studies/organization-graduate-studies#6)  
 
 # Affiliations
 
@@ -160,6 +160,10 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind \href{http://networkslab.org/metaknowledge/}{\emph{metaknowledge}}: A Python package for quantitative and social networks research in the sociology of science and information science. Developed by Reid McIlroy-Young and John McLevey. First released in 2015. Under active development. Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
 
 \ind \href{http://networkslab.org/gitnet/}{\emph{gitnet}}: A Python package for mining source code repository and mailing list data and generating network datasets. Developed by Joel Becker, Jillian Anderson, Steve McColl, and John McLevey. First released in 2016. Under active development. Website and documentation: [http://networkslab.org/gitnet/](http://networkslab.org/gitnet/)
+
+\ind \href{http://networkslab.org/tidyextractors/}{\emph{tidyextractors}}: A Python package for extracting quantitative datasets from source code repositories, email mbox files, and social media APIs (currently Twitter). Developed by NetLab RA Joel Becker with NetLab support. Website and documentation: [http://networkslab.org/tidyextractors/](http://networkslab.org/tidyextractors/)
+
+\ind \href{http://networkslab.org/tidyextractors/}{\emph{tidyextractors}}: 
 
 # Op-Eds, Public Talks, Non-Reviewed Writing
 
