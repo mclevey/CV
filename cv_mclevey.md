@@ -80,9 +80,11 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 \ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review at *Science, Technology, and Human Values*.    
 
-## Manuscripts Close to Submission
+## Preparing for Submission
 
 \ind John McLevey, Mark Stoddart, and *Yixi Yang*. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." 
+
+\ind John McLevey, *Pierson Browne*, *Alexander Graham*, and *Tyler Crick*. "Measuring institutional change in the science-policy interface: A comparison of Canada, the US, the UK, and Australia."
 
 # Book Proposal in Progress
 
