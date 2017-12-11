@@ -22,15 +22,16 @@ fontsize: 12
 
 # Affiliations
 
+\ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/) 
+
+\ind 2014-Present. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
+
 \ind 2014-Present. Cross-appointed to the [School of Environment, Resources, and Sustainability](https://uwaterloo.ca/environment-resources-and-sustainability/)   
 
 \ind 2016-Present. Cross-appointed to the [Department of Geography and Environmental Management](https://uwaterloo.ca/geography-environmental-management/)   
 
 \ind 2014-Present. Affiliate Researcher, [Waterloo Institute for Complexity and Innovation](http://wici.ca/new/)
 
-\ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/) 
-
-\ind 2014-Present. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
 
 # Education
 \ind 2013. PhD, Sociology, McMaster University   
