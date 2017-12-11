@@ -167,7 +167,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 <!-- \ind 2008. MA Graduate Scholarship, McMaster University, $5,000.   -->
 
-# Research Contracts
+# Policy Research Contracts
 
 \ind 2016-2017. Janice Aurini (Co-PI), John McLevey (Co-PI), Rob Gorbet (Co-I). "Assessing the Impact of Classroom-Integrated Robotics on the Cultivation of 21^st^ Century Competencies." Contract with Council of Ontario Directors of Education (CODE). 
 
