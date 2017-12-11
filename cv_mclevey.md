@@ -381,6 +381,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 *Methodological Innovations*   
 *Acta Sociologica*   
 
+\newpage
 \ind Peer Reviewing (Grants):    
 2018. Observer for the 2018 SSHRC Postdoctoral Awards Competition   
 2017. Evaluator for 2017 SSHRC Insight Development Grants Competition<!-- , Sociology & Demography -->   
