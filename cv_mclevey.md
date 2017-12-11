@@ -86,6 +86,8 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 \ind John McLevey, *Pierson Browne*, *Alexander Graham*, and *Tyler Crick*. "Measuring institutional change in the science-policy interface: A comparison of Canada, the US, the UK, and Australia."
 
+\ind John McLevey, *Pierson Browne*, and *Alexander Graham*. "Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science."
+
 \ind John McLevey, Mark Stoddart, and *Yixi Yang*. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." 
 
 # Book Proposal in Progress
