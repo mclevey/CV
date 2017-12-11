@@ -331,7 +331,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 ## MA Theses
 
 \noindent Alexander Graham (supervisor, successfully defended 2017)  
-\noindent Jill (Junyi) Wang (committee member, supervisor Derek Robinson, successfully defended in 2017)  
+\noindent Junyi Wang (committee member, supervisor Derek Robinson, successfully defended in 2017)  
 \noindent Chen Chen (reader, supervisor Peter Johnson, successfully defended 2016)                                
 \noindent Stuart Anderson (reader, supervisor Götz Hoeppe, successfully defended 2017)   
 \noindent Nicholas Brandon, MD (committee member, supervisor Shannon Majowicz)     
