@@ -364,7 +364,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind Co-organizer (with Marion Blute) and co-liaison <!-- (with Daphné Esquivel Sada)  -->with the Canadian Sociological Association for the [Sociology of Science, Technology, and Knowledge Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/sstk/)  
 
 \ind Conference Session Organizing:   
-2017. *Practical Advice on Communicating Sociological Research* panel,^[Featuring: Rima Wilkes, Michael Haan, Karen Robson, Fuyuki Kurasawa, Sarah Wilkens-Laflamme, and Karen Foster as panelists] Ryerson University   
+2017. *Practical Advice on Communicating Sociological Research* panel,<!-- ^[Panelists: Rima Wilkes, Michael Haan, Karen Robson, Fuyuki Kurasawa, Sarah Wilkens-Laflamme, and Karen Foster as panelists] --> Ryerson University   
 2017. *Sociology of Science and Knowledge*, CSA Meetings, Ryerson University   
 2016. *Sociology of Science and Knowledge*, CSA Meetings, University of Calgary  
 2015. *Political Sociology of Science*, CSA Meetings, Carleton University  
