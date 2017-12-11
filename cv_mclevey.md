@@ -298,7 +298,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Courses Designed, Developed, and Offered since 2013
 
-\noindent Social Research Methods (undergraduate lecture)  
+\noindent Research Methods (undergraduate lecture)  
 \noindent "Big Data" and Social Science Research (undergraduate seminar)   
 \noindent KI Thesis / Senior Research Project    
 \noindent The Art & Science of Learning (undergraduate lecture)\footnote{Formerly: Disciplines and Integrative Practices}    
