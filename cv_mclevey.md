@@ -64,7 +64,7 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 \ind John McLevey, Allyson Stokes, and *Amelia Howard*.  Forthcoming. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
 
-\ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 
+\ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 53(2):176–202.
 
 \ind John McLevey. 2015. "Understanding Policy Research in Liminal Spaces: Think Tank Responses to Diverging Principles of Legitimacy." *Social Studies of Science*. 45(2):270-293.  
 
