@@ -93,7 +93,7 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 # Book Proposal in Progress
 
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. *The Oil-Tourism Interface: Nature-based Tourism and Offshore Oil Industry in the North Atlantic*. Book proposal in progress for submission to Palgrave MacMillan. Proposal submission planned for late winter or early spring 2018.
+\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Navigating Social-Environmental Wellbeing: Nature-Based Tourism and Offshore Oil in the North Atlantic*. Book proposal in progress for submission to Palgrave MacMillan. Proposal submission planned for winter 2018.
 
 # Policy Reports
 
