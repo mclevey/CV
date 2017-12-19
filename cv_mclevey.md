@@ -91,9 +91,9 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 \ind John McLevey, Mark Stoddart, and *Yixi Yang*. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." 
 
-# Book Proposal in Progress
+<!--# Book Proposal in Progress
 
-<!-- \ind Mark Stoddart, Alice Mattoni, and John McLevey. *Navigating Social-Environmental Wellbeing: Nature-Based Tourism and Offshore Oil in the North Atlantic*. Book proposal in progress for submission to Palgrave MacMillan. Proposal submission planned for January 2018. -->
+ \ind Mark Stoddart, Alice Mattoni, and John McLevey. *Navigating Social-Environmental Wellbeing: Nature-Based Tourism and Offshore Oil in the North Atlantic*. Book proposal in progress for submission to Palgrave MacMillan. Proposal submission planned for January 2018. -->
 
 # Policy Reports
 
