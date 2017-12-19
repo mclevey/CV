@@ -74,7 +74,7 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
  
 ## Revise & Resubmit (Revisions Submitted)
 
-\ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Revise and Resubmit at the *Journal of Quantitative Criminology*.  
+\ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Minor revisions requested for publication in *Journal of Quantitative Criminology*.  
 
 ##  Under Review
 
