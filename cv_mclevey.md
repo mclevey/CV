@@ -76,7 +76,11 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 \ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Minor revisions requested for publication in *Journal of Quantitative Criminology*.  
 
-##  Under Review
+## Book Proposals Under Review
+
+\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Navigating Social-Environmental Wellbeing: Nature-Based Tourism and Offshore Oil in the North Atlantic*. Book proposal in progress for submission to Palgrave MacMillan. Proposal submission planned for January 2018. 
+
+## Journal Articles Under Review
 
 \ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Intellectual Status and disciplinary boundaries: A statistical network analysis of the relationships between philosophy of science and the sciences." Under review at *Scientometrics*.
 
@@ -90,10 +94,6 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 
 \ind John McLevey, Mark Stoddart, and *Yixi Yang*. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." 
-
-# Book Proposal in Progress
-
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Navigating Social-Environmental Wellbeing: Nature-Based Tourism and Offshore Oil in the North Atlantic*. Book proposal in progress for submission to Palgrave MacMillan. Proposal submission planned for January 2018. 
 
 # Policy Reports
 
