@@ -52,10 +52,10 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 # Peer Reviewed Publications
 
 <!-- Student co-author names are \underline{underlined}.    -->
+\footnotesize{\ind Italics = student at time of publication}\bigskip 
 
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
-\footnotesize{\ind Italics = student at time of publication}\bigskip 
 \normalsize
 
 \ind John McLevey and *Ryan Deschamps*. 2018. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
