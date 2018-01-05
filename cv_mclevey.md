@@ -57,12 +57,12 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 \footnotesize{\ind Italics = student at time of publication}\bigskip 
 \normalsize
+
+\ind John McLevey and *Ryan Deschamps*. 2018. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
+
+\ind John McLevey, Allyson Stokes, and *Amelia Howard*.  2018. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
  
 \ind John McLevey and *Reid McIlroy-Young*. 2017. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Network Analysis, and Science of Science." *The Journal of Informetrics*. 11: 176-197. 
-
-\ind John McLevey and *Ryan Deschamps*. Forthcoming. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
-
-\ind John McLevey, Allyson Stokes, and *Amelia Howard*.  Forthcoming. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
 
 \ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 53(2):176–202.
 
