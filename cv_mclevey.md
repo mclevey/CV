@@ -78,7 +78,7 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 ## Book Proposals Under Review
 
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Navigating Social-Environmental Wellbeing: Nature-Based Tourism and Offshore Oil in the North Atlantic*. Book proposal in progress for submission to Palgrave MacMillan. Proposal submission planned for January 2018. 
+\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Navigating Social-Environmental Wellbeing: Nature-Based Tourism and Offshore Oil in the North Atlantic*. Book proposal submitted to Palgrave MacMillan in January 2018. 
 
 ## Journal Articles Under Review
 
