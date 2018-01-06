@@ -388,7 +388,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## University of Waterloo
 
-\ind 2017 Panelist on the SSHRC Insight Development Grants Panel, organized by Ruth Knechtel from the UW Office of Research.    
+\ind 2018 Panelist on the SSHRC Insight Development Grants Panel, organized by Ruth Knechtel from the UW Office of Research.    
 \ind 2017-2018 Committee member for university-level "Research excellence and crossing disciplinary lines" committee, which will develop a white paper to inform the development of the next University of Waterloo strategic plan.   
 \ind 2016 Informal committee designing a Master's in Data Science at the University of Waterloo, joint initiative of the Faculty of Arts and Faculty of Environment.   
 \ind 2016-Present Member of Communications Outcomes Committee in the Faculty of Environment.   
