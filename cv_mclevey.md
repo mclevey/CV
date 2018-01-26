@@ -401,7 +401,7 @@ and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel
 \ind 2016-Present Faculty Advisor, [University of Waterloo iGEM](http://2015.igem.org/Team:Waterloo) (International Genetically Engineered Machine) Team, Policy & Practices Subgroup, Mathematical Modeling Subgroup (occasionally). 2016 Gold Medal Winners.   
 \ind 2014-Present Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)  
 \ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council      
-\ind 2014-Present Department of Knowledge Integration representative on the Environment Faculty Council    
+\ind 2014-2017 Department of Knowledge Integration representative on the Environment Faculty Council    
 \ind 2014-2015 Member of the English Language Competency Committee in the Faculty of Environment     
 \ind 2014 Faculty of Environment Teaching and Learning Committee  
 \ind 2014 Gave a talk on creativity and innovation to Grade 11 students at Waterloo Unlimited. Title: "Where do good ideas come from? A social network perspective."  
