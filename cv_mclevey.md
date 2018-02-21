@@ -35,9 +35,9 @@ fontsize: 12
 
 
 # Education
-\ind 2013. PhD, Sociology, McMaster University   
-\ind 2009. MA, Sociology, McMaster University   
-\ind 2008. BA Honors, Sociology, Political Science, Memorial University   
+\ind 2013. PhD, Sociology, McMaster University. Hamilton, ON, Canada.    
+\ind 2009. MA, Sociology, McMaster University. Hamilton, ON, Canada.    
+\ind 2008. BA Honors, Sociology, Political Science, Memorial University. St. John's, NL, Canada.    
 
 # Research Areas
 
@@ -82,7 +82,7 @@ Sociology of Science and Technology, Social Networks and Computational Social Sc
 
 ## Journal Articles Under Review
 
-\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Intellectual Status and disciplinary boundaries: A statistical network analysis of the relationships between philosophy of science and the sciences." Under review at *Scientometrics*.
+\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Indifferent interdisciplinary: intellectual status and disciplinary boundaries between philosophy of science and the sciences." Under review at *Scientometrics*.
 
 \ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review at *Science, Technology, and Human Values*.    
 
