@@ -84,16 +84,18 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 \ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Indifferent interdisciplinary: intellectual status and disciplinary boundaries between philosophy of science and the sciences." Under review at *Scientometrics*.
 
-\ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." Under review at *Science, Technology, and Human Values*.    
 
 ## Preparing for Submission
 
 \ind John McLevey, *Pierson Browne*, and *Alexander Graham*. "Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science."
 
-\ind John McLevey, *Pierson Browne*, *Alexander Graham*, and *Tyler Crick*. "Measuring institutional change in the science-policy interface: A comparison of Canada, the US, the UK, and Australia."
+\ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." <!-- Under review at *Science, Technology, and Human Values*.  -->
 
+\ind *Alexander Graham* and John McLevey. "Estimating the Effects of Intellectual Diversity on Impact and Productivity."
 
 \ind John McLevey, Mark Stoddart, and *Yixi Yang*. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." 
+
+\ind John McLevey, *Pierson Browne*, *Alexander Graham*, and *Tyler Crick*. "Measuring institutional change in the science-policy interface: A comparison of Canada, the US, the UK, and Australia."
 
 # Policy Reports
 
