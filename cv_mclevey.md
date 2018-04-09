@@ -1,7 +1,7 @@
 ---
 title: John McLevey
 lhead: \href{http://www.johnmclevey.com}{John McLevey, PhD}
-rhead: "Updated December 11^th^, 2017"
+rhead: "Updated April 9^th^, 2018"
 mainfont: Minion Pro
 fontsize: 12
 ...
@@ -53,6 +53,10 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 <!-- Student co-author names are \underline{underlined}.    -->
 
+## Books / Research Monographs
+
+\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existance Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.
+
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
 \footnotesize{\ind Italics = student at time of publication}\bigskip
@@ -78,27 +82,23 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 \ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Minor revisions requested for publication in *Journal of Quantitative Criminology*.  
 
-## Books / Research Monographs
-
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existance Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.
-
 <!-- ## Book Proposals Under Review -->
 
-<!-- \ind A Practical Introduction to Computational Social Science. -->
+<!-- \ind John McLevey. A Practical Introduction to Computational Social Science. Under review at SAGE. -->
 
 <!-- ## Journal Articles Under Review -->
 
-## Preparing for Submission
+## Articles In Progress
 
 \ind John McLevey, *Pierson Browne*, and *Alexander Graham*. "Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science."
 
-\ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux." <!-- Under review at *Science, Technology, and Human Values*.  -->
+\ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."
 
-\ind *Alexander Graham* and John McLevey. "Estimating the Effects of Intellectual Diversity on Impact and Productivity."
+\ind \emph{Alexander Graham} and John McLevey. "Collective Intelligence and Diversity Bonuses in Scientific Fields."
 
 \ind John McLevey, Mark Stoddart, and *Yixi Yang*. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador."
 
-\ind John McLevey, *Pierson Browne*, *Alexander Graham*, and *Tyler Crick*. "Measuring institutional change in the science-policy interface: A comparison of Canada, the US, the UK, and Australia."
+\ind John McLevey and *Alexander Graham*. "Smart Collaboration & Boundary Spanning for High Impact Science."
 
 # Policy Reports
 
@@ -118,7 +118,7 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 \ind Total Research Grants since 2013: **$860,740**  \bigskip
 
-\ind 2018-2019. Mark Stoddart (PI), John McLevey, (Co-Applicant), John Sandlos (Co-Applicant), Vanessa Schweizer (Co-Applicant), Catherine Mei Ling Wong (Co-Applicant). Climate Change and Energy Futures Workshop: Challenges and Opportunities for Global and Interdisciplinary Research. [SSHRC Connection Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-eng.aspx), $24,373 (plus $14,339 in matching funds from Memorial University and University of Waterloo).    
+\ind 2018-2019. Mark Stoddart (PI), **John McLevey**, (Co-Applicant), John Sandlos (Co-Applicant), Vanessa Schweizer (Co-Applicant), Catherine Mei Ling Wong (Co-Applicant). Climate Change and Energy Futures Workshop: Challenges and Opportunities for Global and Interdisciplinary Research. [SSHRC Connection Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-eng.aspx), $24,373 (plus $14,339 in matching funds from Memorial University and University of Waterloo).    
 
 \ind 2016-2022. David Tindall (PI), **John McLevey (Co-I)**, Mark Stoddart (Co-I). Collaborators: Mario Diani, Jennifer Earl, Dana R Fisher, Philip Leifeld, Andrew Jorgenson, Philippe Le Billon, Don Grant, Moses Boudourides. [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx) Application. "Making sense of climate action: Understanding social mobilization to curb anthropogenic climate change through advances in social network analysis," $282,672      
 
@@ -199,6 +199,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 
 # Conference Presentations
+
+\ind April 2018. John McLevey and Alexander Graham. "Smart Collaboration & Boundary Spanning for High Impact Climate Science." 3rd Spring Campus, University Alliance for Sustainability. Freie Universität Berlin. Berlin, Germany.
 
 \ind August 2017 John McLevey. "Environmental crises, policy, and scientific change: Insights from a computational model." Presented at the annual American Sociological Association meetings, Montréal, QC, Canada.
 
@@ -385,7 +387,6 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 *Methodological Innovations*   
 *Acta Sociologica*   
 
-\newpage
 \ind Peer Reviewing (Grants):    
 2017. Observer for the 2018 SSHRC Postdoctoral Awards Competition   
 2017. Evaluator for 2017 SSHRC Insight Development Grants Competition<!-- , Sociology & Demography -->   
