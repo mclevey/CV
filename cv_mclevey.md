@@ -26,7 +26,7 @@ fontsize: 12
 
 \ind 2014-Present. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
 
-\ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/) 
+\ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/)
 
 \ind 2014-Present. Cross-appointed to the [School of Environment, Resources, and Sustainability](https://uwaterloo.ca/environment-resources-and-sustainability/)   
 
@@ -55,35 +55,38 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
-\footnotesize{\ind Italics = student at time of publication}\bigskip 
+\footnotesize{\ind Italics = student at time of publication}\bigskip
 \normalsize
 
-\ind John McLevey and *Ryan Deschamps*. 2018. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE. 
+\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. 2018. "Indifferent interdisciplinary: intellectual status and disciplinary boundaries between philosophy of science and the sciences." *Scientometrics*. Issue number not yet assigned.
+
+\ind John McLevey and *Ryan Deschamps*. 2018. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE.
 
 \ind John McLevey, Allyson Stokes, and *Amelia Howard*.  2018. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
- 
-\ind John McLevey and *Reid McIlroy-Young*. 2017. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Network Analysis, and Science of Science." *The Journal of Informetrics*. 11: 176-197. 
+
+\ind John McLevey and *Reid McIlroy-Young*. 2017. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Network Analysis, and Science of Science." *The Journal of Informetrics*. 11: 176-197.
 
 \ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 53(2):176–202.
 
 \ind John McLevey. 2015. "Understanding Policy Research in Liminal Spaces: Think Tank Responses to Diverging Principles of Legitimacy." *Social Studies of Science*. 45(2):270-293.  
 
 \ind John McLevey. 2014. "Think Tanks, Funding, and the Politics of Policy Knowledge in Canada." *Canadian Review of Sociology / Revue canadienne de sociologie*. 51(1):54-75.  
-   
+
 <!-- ## Revise & Resubmit -->
- 
+
 ## Revise & Resubmit (Revisions Submitted)
 
 \ind Owen Gallupe, John McLevey, and Sarah Brown. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Minor revisions requested for publication in *Journal of Quantitative Criminology*.  
 
-## Book Proposals Under Review
+## Books / Research Monographs
 
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Navigating Social-Environmental Wellbeing: Nature-Based Tourism and Offshore Oil in the North Atlantic*. Book proposal submitted to Palgrave MacMillan in January 2018. 
+\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existance Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.
 
-## Journal Articles Under Review
+<!-- ## Book Proposals Under Review -->
 
-\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. "Indifferent interdisciplinary: intellectual status and disciplinary boundaries between philosophy of science and the sciences." Under review at *Scientometrics*.
+<!-- \ind A Practical Introduction to Computational Social Science. -->
 
+<!-- ## Journal Articles Under Review -->
 
 ## Preparing for Submission
 
@@ -93,13 +96,13 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 \ind *Alexander Graham* and John McLevey. "Estimating the Effects of Intellectual Diversity on Impact and Productivity."
 
-\ind John McLevey, Mark Stoddart, and *Yixi Yang*. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." 
+\ind John McLevey, Mark Stoddart, and *Yixi Yang*. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador."
 
 \ind John McLevey, *Pierson Browne*, *Alexander Graham*, and *Tyler Crick*. "Measuring institutional change in the science-policy interface: A comparison of Canada, the US, the UK, and Australia."
 
 # Policy Reports
 
-\ind Janice Aurini, John McLevey, Allyson Stokes, and Rob Gorbet. 2017. "Classroom Robotics and Acquisition of 21st Century Competencies: An Action Research Study of Nine Ontario School Boards." Report for the Council of Ontario Directors of Education (CODE) and the Ministry of Education, Ontario. 
+\ind Janice Aurini, John McLevey, Allyson Stokes, and Rob Gorbet. 2017. "Classroom Robotics and Acquisition of 21st Century Competencies: An Action Research Study of Nine Ontario School Boards." Report for the Council of Ontario Directors of Education (CODE) and the Ministry of Education, Ontario.
 
 
 <!-- \ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*   -->
@@ -108,21 +111,18 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 \ind Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets" *In progress.*  
 
-\ind Vanina Leschziner, John McLevey, and Neil McLaughlin. (equal authors). "The American Fame Game: Academic Status and Public Renown in the Social Sciences." Under Review. 
+-->
 
-\ind John McLevey and Thomas Medvetz. "Think Tank ‘Policy Research' as Neoliberal Practice: Toward a Historical-Relational Theory."  -->
-
-<!-- \ind John McLevey and Alexander Graham. "How Changes in Federal Funding and Institutional Partnerships Shape Scientific Research Agendas and Collaboration Networks: The Case of Canadian Research on the Environment, 1991-2012." *Data analysis stage*. -->
-
-<!-- \ind Allyson Stokes, John McLevey, and Neil McLaughlin. "Legitimation and Canonization Over Time." *In progress*.   -->
 
 # Research Grants
 
-\ind Total Research Grants since 2013: **$846,401**  \bigskip
+\ind Total Research Grants since 2013: **$860,740**  \bigskip
 
-\ind 2016-2020 **John McLevey (PI)**, Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $150,000.   
+\ind 2018-2019. Mark Stoddart (PI), John McLevey, (Co-Applicant), John Sandlos (Co-Applicant), Vanessa Schweizer (Co-Applicant), Catherine Mei Ling Wong (Co-Applicant). Climate Change and Energy Futures Workshop: Challenges and Opportunities for Global and Interdisciplinary Research. [SSHRC Connection Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-eng.aspx), $24,373 (plus $14,339 in matching funds from Memorial University and University of Waterloo).    
 
 \ind 2016-2022. David Tindall (PI), **John McLevey (Co-I)**, Mark Stoddart (Co-I). Collaborators: Mario Diani, Jennifer Earl, Dana R Fisher, Philip Leifeld, Andrew Jorgenson, Philippe Le Billon, Don Grant, Moses Boudourides. [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx) Application. "Making sense of climate action: Understanding social mobilization to curb anthropogenic climate change through advances in social network analysis," $282,672      
+
+\ind 2016-2020 **John McLevey (PI)**, Ontario [Early Researcher Award](https://www.ontario.ca/document/ontario-research-fund-early-researcher-awards-program-guidelines), Ministry of Research and Innovation, "Information and Idea Diffusion in an Open Source Collaboration Network," $150,000.   
 
 \ind 2016-2018 **John McLevey (PI)**, Owen Gallupe (Collaborator) and Martin Cooke (Collaborator), [Social Science and Humanities Research Council of Canada (**SSHRC**)](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
 bventions_de_developpement_savoir-eng.aspx), Insight Development Grant, “Remaking the Boundaries of Open and Proprietary Science: A Longitudinal Study of Biomedical Research and Development Networks in Canada” $67,790.
@@ -137,7 +137,7 @@ bventions_de_developpement_savoir-eng.aspx), Insight Grant, "The Oil-Tourism Int
 
 \ind 2014-2016 **John McLevey (PI)**, [Social Science and Humanities Research Council of Canada (**SSHRC**), Insight Development Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-su
 bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Networks," $74,814.     
-  
+
 \ind 2013 University of Waterloo, Faculty Research Startup Grant, $15,000.
 
 <!-- ## Grant Applications Under Review -->
@@ -171,9 +171,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Policy Research Contracts
 
-\ind 2016-2017. Janice Aurini (Co-PI), John McLevey (Co-PI), Rob Gorbet (Co-I). "Assessing the Impact of Classroom-Integrated Robotics on the Cultivation of 21^st^ Century Competencies." Contract with Council of Ontario Directors of Education (CODE) for the Ontario Ministry of Education. 
+\ind 2016-2017. Janice Aurini (Co-PI), John McLevey (Co-PI), Rob Gorbet (Co-I). "Assessing the Impact of Classroom-Integrated Robotics on the Cultivation of 21^st^ Century Competencies." Contract with Council of Ontario Directors of Education (CODE) for the Ontario Ministry of Education.
 
-# Open Source Research Software 
+# Open Source Research Software
 
 \ind \href{http://networkslab.org/metaknowledge/}{\emph{metaknowledge}}: A Python package for quantitative and social networks research in the sociology of science and information science. Developed by Reid McIlroy-Young and John McLevey. First released in 2015. Under active development. Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).  
 
@@ -187,7 +187,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 # Op-Eds, Public Talks, Non-Reviewed Writing
 
 
-\ind Allyson Stokes and John McLevey. 2017. "The Cultural Sociology Research Cluster in the Canadian Sociological Association and the CSA 2017 Annual Meeting." Newsletter of the Culture Section of the American Sociological Association. 
+\ind Allyson Stokes and John McLevey. 2017. "The Cultural Sociology Research Cluster in the Canadian Sociological Association and the CSA 2017 Annual Meeting." Newsletter of the Culture Section of the American Sociological Association.
 
 \ind Occasional technical blog posts on the [NetLab blog](http://networkslab.org/)    
 
@@ -202,21 +202,21 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind August 2017 John McLevey. "Environmental crises, policy, and scientific change: Insights from a computational model." Presented at the annual American Sociological Association meetings, Montréal, QC, Canada.
 
-\ind June 2017 John McLevey and Reid McIlroy-Young. "*metaknowledge*: open source software for networks research on science" Presented at the annual Sunbelt meeting, International Network for Social Network Analysis (INSNA), Beijing, China. 
+\ind June 2017 John McLevey and Reid McIlroy-Young. "*metaknowledge*: open source software for networks research on science" Presented at the annual Sunbelt meeting, International Network for Social Network Analysis (INSNA), Beijing, China.
 
 \ind May 2017 John McLevey. Panelist in "Assessing Pierre Bourdieu's Legacy," organized by the joint culture/theory research cluster committee at the Canadian Sociological Association meetings at Ryerson University. Toronto, ON, Canada.
 
-\ind May 2017 John McLevey, Mark Stoddart, and Yixi Yang. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." Presented at the Canadian Sociological Association annual meeting. Toronto, ON, Canada. 
+\ind May 2017 John McLevey, Mark Stoddart, and Yixi Yang. "The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, and Newfoundland and Labrador." Presented at the Canadian Sociological Association annual meeting. Toronto, ON, Canada.
 
-\ind May 2017 John McLevey. "How do face-to-face and virtual networks shape the development of specialist expertise?" Presented at SEESHOP 2017, Geneva, Switzerland. 
+\ind May 2017 John McLevey. "How do face-to-face and virtual networks shape the development of specialist expertise?" Presented at SEESHOP 2017, Geneva, Switzerland.
 
-\ind August 2016 Vanina Leschziner, John McLevey, and Neil McLaughlin. "The American Fame Game: Academic Status and Public Renown in Post-War Social Sciences." Presented at the Annual Meetings of the American Sociological Association, Section on Science, Knowledge, and Technology session, Seattle, WA. 
+\ind August 2016 Vanina Leschziner, John McLevey, and Neil McLaughlin. "The American Fame Game: Academic Status and Public Renown in Post-War Social Sciences." Presented at the Annual Meetings of the American Sociological Association, Section on Science, Knowledge, and Technology session, Seattle, WA.
 
-\ind May 2016 "Expertise and Experience in Dynamic Social Networks: Developing A Co-evolution Model for SEE." Presented at [SEESHOP 9](http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html) (Studies of Expertise and Experience), Cardiff Wales, UK. 
+\ind May 2016 "Expertise and Experience in Dynamic Social Networks: Developing A Co-evolution Model for SEE." Presented at [SEESHOP 9](http://www.cf.ac.uk/socsi/contactsandpeople/harrycollins/expertise-project/seeshophome.html) (Studies of Expertise and Experience), Cardiff Wales, UK.
 
 \ind April 2016 Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets." Presented at the [Fields Institute](https://www.ineteconomics.org/community/events/complexity-for-new-economic-thinking) "YSI Complexity and Economics Workshop." Toronto, ON, Canada.
 
-\ind April 2016 John McLevey, Katie Plaisance, Reid McIlroy-Young, and Alexander Graham. "Is there a citation penalty for scientifically relevant philosophy of science?" Presented by John McLevey and Alexander Graham at Sunbelt XXXVI (Annual meetings of the International Network for Social Network Analysis), Newport Beach, CA. 
+\ind April 2016 John McLevey, Katie Plaisance, Reid McIlroy-Young, and Alexander Graham. "Is there a citation penalty for scientifically relevant philosophy of science?" Presented by John McLevey and Alexander Graham at Sunbelt XXXVI (Annual meetings of the International Network for Social Network Analysis), Newport Beach, CA.
 
 \ind November 2015 Owen Gallupe, Sarah Brown, and John McLevey. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." Presented at the Annual Meetings of the American Society of Criminology, Washington, D.C.  
 
@@ -272,9 +272,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Invited Research Talks
 
-\ind Nov 15, 2017 "Gender discrimination in open source software development: findings from a large-scale field study." Guest lecture in Gender Equity course in Knowledge Integration, University of Waterloo. 
+\ind Nov 15, 2017 "Gender discrimination in open source software development: findings from a large-scale field study." Guest lecture in Gender Equity course in Knowledge Integration, University of Waterloo.
 
-\ind Nov 13, 2017. "A Primer on Computational Sociology." Guest lecture in Sociology Theory grad seminar, Sociology \& Legal Studies, University of Waterloo. 
+\ind Nov 13, 2017. "A Primer on Computational Sociology." Guest lecture in Sociology Theory grad seminar, Sociology \& Legal Studies, University of Waterloo.
 
 \ind March 2, 2016 "Network Structure and the 'Chain of Trust' in Linux Development: Lessons for Working with Data Scraped from the Web." Guest lecture in Research Methods class in Sociology, Wilfrid Laurier University  
 
@@ -290,9 +290,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Invited Teaching Talks
 
-\ind March 1, 2016 John McLevey and Patrick Famaran (UG student), "Using Technology to Facilitate Collaboration," Centre for Teaching Excellence Educational Technology Week. 
+\ind March 1, 2016 John McLevey and Patrick Famaran (UG student), "Using Technology to Facilitate Collaboration," Centre for Teaching Excellence Educational Technology Week.
 
-\ind March 1, 2016 "Enhancing Student Learning by Bringing Data into the Classroom." GREEN TEA speaker series, University of Waterloo. 
+\ind March 1, 2016 "Enhancing Student Learning by Bringing Data into the Classroom." GREEN TEA speaker series, University of Waterloo.
 
 <!-- talks for high school students attached to ERA -->
 
@@ -314,6 +314,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 <!--  with Sasha Graham, Tiff Lin, Kelly White, Ben Carr, Tyler Crick -->
 
 \noindent Sociology of Science; The Sociology of Expertise and Science Policy; Social Network Analysis; Computational Sociology; Sociology of Organizations  
+
+<!-- SOLT - including reviewing applications -->
 
 # Student Supervision
 
@@ -349,8 +351,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent Benjamin Carr (completed 2014)    
 \noindent Chelsea Mills (completed 2014)    
 \noindent Christina Minji Chung (completed 2014)      
-<!-- 
-## Research Assistants 
+<!--
+## Research Assistants
 
 \noindent Reid McIlroy-Young, Evaleen Hellinga
  -->
