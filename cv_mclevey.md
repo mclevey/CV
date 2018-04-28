@@ -55,7 +55,7 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 ## Books / Research Monographs
 
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existance Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.
+\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.
 
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
