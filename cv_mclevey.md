@@ -345,8 +345,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Undergraduate Senior Honors Theses
 
-\noindent Rachel Wood (in progress 2017-2018)      
-\noindent Jessilyn Wolfe (in progress 2017-2018)    
+\noindent Rachel Wood (completed 2018)      
+\noindent Jessilyn Wolfe (completed 2018)    
 \noindent Jillian Anderson (completed 2017)    
 \noindent Julia Yaroshinsky (completed 2016)    
 \noindent Tiffany Lin (completed 2015)    
@@ -379,7 +379,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 2014. *Sociology of Culture*, with Allyson Stokes, CSA meetings, Brock University   
 
 
-\ind Peer Reviewing (Journal Articles):    
+\ind Peer Reviewing (Journal Articles):   
+*Science and Public Policy*     
 *American Journal of Sociology*    
 *Sociological Theory*   
 *Social Studies of Science*   
