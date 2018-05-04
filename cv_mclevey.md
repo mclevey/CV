@@ -113,7 +113,6 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 -->
 
-
 # Research Grants
 
 \ind Total Research Grants since 2013: **$860,740**  \bigskip
@@ -186,6 +185,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Op-Eds, Public Talks, Non-Reviewed Writing
 
+\ind Review of David Johnson (2017) *A Fractured Profession: Commercialization and Conflict in Academic Science*. Baltimore: Johns Hopkins University Press. Review published in *American Journal of Sociology*.
 
 \ind Allyson Stokes and John McLevey. 2017. "The Cultural Sociology Research Cluster in the Canadian Sociological Association and the CSA 2017 Annual Meeting." Newsletter of the Culture Section of the American Sociological Association.
 
@@ -323,7 +323,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## PhD Dissertations
 
-\noindent Michael Clarke (committee member -- successfully defended in 2016)    
+\noindent Michael Clarke (committee member -- defended in 2016)    
 \noindent Alexander Graham (co-supervisor with Peter Carrington)      
 \noindent Amelia Howard (supervisor)     
 \noindent Tyler Crick (supervisor)    
@@ -336,11 +336,11 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## MA Theses
 
-\noindent Alexander Graham (supervisor, successfully defended 2017)  
-\noindent Junyi Wang (committee member, supervisor Derek Robinson, successfully defended in 2017)  
-\noindent Chen Chen (reader, supervisor Peter Johnson, successfully defended 2016)                                
-\noindent Stuart Anderson (reader, supervisor Götz Hoeppe, successfully defended 2017)   
-\noindent Nicholas Brandon, MD (committee member, supervisor Shannon Majowicz)     
+\noindent Nicholas Brandon, MD (committee member, supervisor Shannon Majowicz, defended 2018)     
+\noindent Alexander Graham (supervisor, defended 2017)  
+\noindent Junyi Wang (committee member, supervisor Derek Robinson, defended in 2017)  
+\noindent Stuart Anderson (reader, supervisor Götz Hoeppe, defended 2017)   
+\noindent Chen Chen (reader, supervisor Peter Johnson, defended 2016)                                
 \noindent Sarah Tang (committee member, supervisor Simron Singh)            
 
 ## Undergraduate Senior Honors Theses
