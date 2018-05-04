@@ -62,7 +62,7 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 \footnotesize{\ind Italics = student at time of publication}\bigskip
 \normalsize
 
-\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. 2018. "Indifferent interdisciplinary: intellectual status and disciplinary boundaries between philosophy of science and the sciences." *Scientometrics*. Issue number not yet assigned.
+\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. 2018. "Interdisciplinarity and Insularity in the Diffusion of Knowledge: An Analysis of Disciplinary Boundaries Between Philosophy of Science and the Sciences." *Scientometrics*. Issue number not yet assigned.
 
 \ind John McLevey and *Ryan Deschamps*. 2018. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE.
 
