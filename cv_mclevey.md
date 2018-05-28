@@ -359,6 +359,10 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent Reid McIlroy-Young, Evaleen Hellinga
  -->
 
+# Other Teaching and Graduate Student Mentoring
+
+\ind 2018-Present. Co-Instructor (with Eric Kennedy) for [Science Outside the Lab (SOtL) North](http://sotlnorth.ca). A week long intensive course in science policy held annually in Ottawa and Montréal. Each course cohort is ~ 14 graduate students from science and engineering disciplines across Canada. 
+
 # Service
 
 ## Service to the Profession
