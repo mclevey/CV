@@ -334,14 +334,15 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 
 
-## MA Theses
+## Master's Theses
 
 \noindent Nicholas Brandon, MD (committee member, supervisor Shannon Majowicz, defended 2018)     
 \noindent Alexander Graham (supervisor, defended 2017)  
 \noindent Junyi Wang (committee member, supervisor Derek Robinson, defended in 2017)  
 \noindent Stuart Anderson (reader, supervisor Götz Hoeppe, defended 2017)   
 \noindent Chen Chen (reader, supervisor Peter Johnson, defended 2016)                                
-\noindent Sarah Tang (committee member, supervisor Simron Singh)            
+\noindent Sarah Tang (committee member, supervisor Simron Singh)       
+\noindent Emerson LaCroix (committee member, supervisor Janice Aurini)              
 
 ## Undergraduate Senior Honors Theses
 
@@ -361,7 +362,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Other Teaching and Graduate Student Mentoring
 
-\ind 2018-Present. Co-Instructor (with Eric Kennedy) for [Science Outside the Lab (SOtL) North](http://sotlnorth.ca). A week long intensive course in science policy held annually in Ottawa and Montréal. Each course cohort is ~ 14 graduate students from science and engineering disciplines across Canada. 
+\ind 2018-Present. Co-Instructor (with Eric Kennedy) for [Science Outside the Lab (SOtL) North](http://sotlnorth.ca). A week long intensive course in science policy held annually in Ottawa and Montréal. Each course cohort is ~ 14 graduate students from science and engineering disciplines across Canada.
 
 # Service
 
