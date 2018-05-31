@@ -62,7 +62,7 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 \footnotesize{\ind Italics = student at time of publication}\bigskip
 \normalsize
 
-\ind Owen Gallupe, John McLevey, and Sarah Brown. Forthcoming. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *Journal of Quantitative Criminology*.  
+\ind Owen Gallupe, John McLevey, and Sarah Brown. Forthcoming. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *Journal of Quantitative Criminology*.     
 
 \ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. 2018. "Interdisciplinarity and Insularity in the Diffusion of Knowledge: An Analysis of Disciplinary Boundaries Between Philosophy of Science and the Sciences." *Scientometrics*. Issue number not yet assigned.
 
