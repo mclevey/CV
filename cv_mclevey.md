@@ -24,7 +24,7 @@ fontsize: 12
 
 \ind 2014-Present. Affiliate Researcher, [Waterloo Institute for Complexity and Innovation](http://wici.ca/new/)
 
-\ind 2014-Present. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
+\ind 2014-2017. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
 
 \ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/)
 
