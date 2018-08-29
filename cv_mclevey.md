@@ -1,4 +1,4 @@
----
+i---
 title: John McLevey
 lhead: \href{http://www.johnmclevey.com}{John McLevey, PhD}
 rhead: "Updated April 9^th^, 2018"
@@ -55,7 +55,10 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 ## Books / Research Monographs
 
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.
+\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.    
+
+\ind John McLevey. *Doing Computational Social Science* Under contract with Sage, UK Office.
+
 
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
@@ -82,17 +85,9 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 <!-- ## Revise & Resubmit (Revisions Submitted) -->
 
-<!-- ## Book Proposals Under Review -->
-
-<!-- \ind John McLevey. A Practical Introduction to Computational Social Science. Under review at SAGE. -->
-
 <!-- ## Journal Articles Under Review -->
 
 ## Articles In Progress
-
-\ind John McLevey, *Pierson Browne*, and *Alexander Graham*. "Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science."
-
-\ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."
 
 \ind \emph{Alexander Graham} and John McLevey. "Collective Intelligence and Diversity Bonuses in Scientific Fields."
 
@@ -100,18 +95,16 @@ Social Networks and Computational Social Science, Sociology of Science, Environm
 
 \ind John McLevey and *Alexander Graham*. "Smart Collaboration & Boundary Spanning for High Impact Science."
 
+\ind John McLevey, *Pierson Browne*, and *Alexander Graham*. "Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science."
+
+\ind John McLevey, *Alexander Graham*, and *Pierson Browne*. "Network Structure and the 'Chain of Trust' in Free/Libre Open Source Software Development: The Case of Linux."
+
+<!-- \ind Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets" *In progress.*   -->
+
+
 # Policy Reports
 
 \ind Janice Aurini, John McLevey, Allyson Stokes, and Rob Gorbet. 2017. "Classroom Robotics and Acquisition of 21st Century Competencies: An Action Research Study of Nine Ontario School Boards." Report for the Council of Ontario Directors of Education (CODE) and the Ministry of Education, Ontario.
-
-
-<!-- \ind John McLevey. "Interdisciplinarity and Intellectual Backbones in the Social Sciences: A Multi-National Comparison." *In Progress*   -->
-
-<!-- ## In Progress
-
-\ind Kirsten Wright, Owen Gallupe, and John McLevey. "DrugAgent: Measuring the Effect of Restrictive Deterrence on the Resilience of Agent Based Drug Markets" *In progress.*  
-
--->
 
 # Research Grants
 
@@ -387,6 +380,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind Peer Reviewing (Journal Articles):   
 *Science and Public Policy*     
 *American Journal of Sociology*    
+*Scientometrics*       
 *Sociological Theory*   
 *Social Studies of Science*   
 *Canadian Journal of Sociology*   
@@ -396,6 +390,12 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind Peer Reviewing (Grants):    
 2017. Observer for the 2018 SSHRC Postdoctoral Awards Competition   
 2017. Evaluator for 2017 SSHRC Insight Development Grants Competition<!-- , Sociology & Demography -->   
+
+\ind Peer Reviewing (Books):      
+2018. Sage, UK. Quantitative research methods series.        
+
+\ind Peer Reviewing (Other):  
+2018. Sage Campus. (Online research methods classes)   
 
 ## University of Waterloo
 
