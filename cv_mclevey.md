@@ -41,7 +41,7 @@ fontsize: 12
 
 # Research Areas
 
-Social Networks and Computational Social Science, Sociology of Science, Environmental Sociology, Political Sociology and Social Movements, Research Methods, Sociology of Education
+Computational Social Science, Social Networks, Sociology of Science, Environmental Sociology, Political Sociology and Social Movements, Research Methods, Sociology of Education
 
 
 <!-- Science Policy, Computational Social Science, Environmental Sociology, Social Networks, Political Sociology, Research Methods, Education -->
