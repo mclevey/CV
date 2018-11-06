@@ -32,7 +32,7 @@ fontsize: 12
 
 \ind 2016-Present. Cross-appointed to the [Department of Geography and Environmental Management](https://uwaterloo.ca/geography-environmental-management/)   
 
-
+\ind Spring 2019. Visiting Scholar, Department of Political and Social Sciences. [Scuola Normale Superiore](https://en.sns.it). Florence, Italy.  
 
 # Education
 \ind 2013. PhD, Sociology, McMaster University. Hamilton, ON, Canada.    
@@ -55,10 +55,9 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 ## Books / Research Monographs
 
+\ind John McLevey. *Doing Computational Social Science* Under contract with Sage, UK Office. Research methods and data science series.
+
 \ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.    
-
-\ind John McLevey. *Doing Computational Social Science* Under contract with Sage, UK Office.
-
 
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
@@ -192,6 +191,10 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 
 # Conference Presentations
+
+\ind June 2018. John McLevey, Alexander Graham, and Pierson Browne. "Remaking the boundaries of open and proprietary science: A multiple networks analysis of patenting and publishing in biomedical science." Sunbelt XXXVIII (Annual meetings of the International Network for Social Network Analysis), Utrecht, Netherlands.
+
+\ind June 2018. Alexander V. Graham Pierson Browne Jeffery M. Barrett, and John McLevey. "RankDir: A New ERGM Term for Improving Goodness of Fit in Exponential Random Graph Models of Directed Acyclic Graphs." Sunbelt XXXVIII (Annual meetings of the International Network for Social Network Analysis), Utrecht, Netherlands.
 
 \ind April 2018. John McLevey and Alexander Graham. "Smart Collaboration & Boundary Spanning for High Impact Climate Science." 3rd Spring Campus, University Alliance for Sustainability. Freie Universität Berlin. Berlin, Germany.
 
@@ -339,6 +342,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Undergraduate Senior Honors Theses
 
+\noindent Jason Kurian (in progress)    
 \noindent Rachel Wood (completed 2018)      
 \noindent Jessilyn Wolfe (completed 2018)    
 \noindent Jillian Anderson (completed 2017)    
@@ -399,6 +403,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## University of Waterloo
 
+\ind 2018 Search and selection committee member for a Canada Research Chair in Environment and Sustainability, Faculty of Environment.   
 \ind 2018 Panelist on the SSHRC Insight Development Grants Panel, organized by Ruth Knechtel from the UW Office of Research.    
 \ind 2017-2018 Committee member for university-level "Research excellence and crossing disciplinary lines" committee, which will develop a white paper to inform the development of the next University of Waterloo strategic plan.   
 \ind 2016 Informal committee designing a Master's in Data Science at the University of Waterloo, joint initiative of the Faculty of Arts and Faculty of Environment.   
