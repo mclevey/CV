@@ -34,6 +34,7 @@ fontsize: 12
 
 \ind 2014-2017. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
 
+\ind 2018-Present. Forum on Science, Policy, and Society. Co-Organizer and Instructor for [Science Outside the Lab, North](http://www.sotlnorth.ca).    
 
 # Education
 \ind 2013. PhD, Sociology, McMaster University. Hamilton, ON, Canada.    
