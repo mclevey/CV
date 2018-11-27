@@ -107,6 +107,12 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 \ind Janice Aurini, John McLevey, Allyson Stokes, and Rob Gorbet. 2017. "Classroom Robotics and Acquisition of 21st Century Competencies: An Action Research Study of Nine Ontario School Boards." Report for the Council of Ontario Directors of Education (CODE) and the Ministry of Education, Ontario.
 
+# Special Issues of Peer-Reviewed Journals
+
+\ind David Tindall, John McLevey, and Nina Kolleck (editors). *Social Networks and Climate Change*. Special issue / section of *Social Networks*. Call for papers currently open.
+
+\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). *Climate Change and Energy Futures* Special issue of *Society and Natural Resources*. 
+
 # Research Grants
 
 \ind Total Research Grants since 2013: **$860,740**  \bigskip
