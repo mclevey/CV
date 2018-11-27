@@ -111,7 +111,7 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 \ind David Tindall, John McLevey, and Nina Kolleck (editors). *Social Networks and Climate Change*. Special issue / section of *Social Networks*. Call for papers currently open.
 
-\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). *Climate Change and Energy Futures* Special issue of *Society and Natural Resources*. 
+\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*. 
 
 # Research Grants
 
