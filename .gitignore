@@ -1,16 +1,1 @@
-one_time/
-*.txt
-*.mdown
-*.aux
-*.lof
-*.log
-*.lot
-*.fls
-*.out
-*.toc
-*.dvi
-*.fdb_latexmk
-*.synctex
-*.synctex.gz
-*.synctex.gz(busy)
-*.pdfsync
+one_off/
