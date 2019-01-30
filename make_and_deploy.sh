@@ -2,7 +2,7 @@
 
 echo -e "\033[0;32mRunning Make and committing changes.\033[0m"
 
-make 
+make
 
 git add *
 
