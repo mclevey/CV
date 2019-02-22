@@ -330,6 +330,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent Pierson Browne (committee member, supervisor Jen Whitson)     
 \noindent Rod Missaghian (committee member, supervisor Janice Aurini)       
 \noindent Yixi Yang (committee member, supervisor Mark Stoddart at Memorial University)             
+\noindent François Lachapelle (committee member, supervisor David Tindall at University of British Columbia)     
 \noindent Peter Duggins  (committee member, supervisor Chris Eliasmith, Systems Design Engineering)
 \noindent Moutasem Zakkar (committee member, supervisors Craig Janes and Plinio Morita, School of Public Health and Health Systems)
 \noindent Michael Clarke (committee member -- defended in 2016)    
