@@ -54,6 +54,8 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 \ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.    
 
+\ind Harry Collins with Robert Evans, Jonathon Goodall, Michael Gorman, Martin Innes, Will Mason-Wilkes, John McLevey and Alun Preece (**authors after Collins are listed alphabetically**). *Face-to-Face: Why You Need to Talk to People to Understand the World* (working title). Book manuscript under review.    
+
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
 \footnotesize{\ind Italics = student at time of publication}\bigskip
@@ -85,17 +87,17 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 \ind John McLevey, \emph{Alexander Graham}, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Diversity and Similarity in Social Networks: New Measures for Empirical Research.”
 
-\ind \emph{Alexander Graham}, John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Collective Intelligence and Diversity Bonuses in Science.”
+\ind \emph{Alexander Graham}, John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Cognitive Diversity and the Production of High-Impact Science.”
 
-\ind John McLevey, \emph{{Pierson Browne}, and \emph{{Alexander Graham}. “Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science.”
+\ind John McLevey, \emph{Pierson Browne}, and \emph{Alexander Graham}. “Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science.”
 
-\ind John McLevey, \emph{{Alexander Graham}, and \emph{{Pierson Browne}. “Network Structure and the ‘Chain of Trust’ in Free/Libre Open Source Software Development: The Case of Linux.”
+<!-- \ind John McLevey, \emph{Alexander Graham}, and \emph{Pierson Browne}. “Network Structure and the ‘Chain of Trust’ in Free/Libre Open Source Software Development: The Case of Linux.” -->
 
-\ind John McLevey, Mark Stoddart, and \emph{{Yixi Yang}. “The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, Iceland, Denmark, Greenland, and Newfoundland and Labrador.”
+\ind John McLevey, Mark Stoddart, and \emph{Yixi Yang}. “The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, Iceland, Denmark, Greenland, and Newfoundland and Labrador.”
 
-\ind Kathryn Plaisance, John McLevey, and \emph{{Janet Michaud}. “Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science with Respect to Doing Broadly Engaged Work.”
+\ind Kathryn Plaisance, John McLevey, and \emph{Janet Michaud}. “Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science with Respect to Doing Broadly Engaged Work.”
 
-\ind Kathryn Plaisance, John McLevey, and \emph{{Janet Michaud}. “The Impact of Philosophy of Science in Scientific Domains: A Qualitative Study of Philosophers’ Experiences and Perceptions Regarding the Broader Impact of their Work.”
+\ind Kathryn Plaisance, John McLevey, and \emph{Janet Michaud}. “The Impact of Philosophy of Science in Scientific Domains: A Qualitative Study of Philosophers’ Experiences and Perceptions Regarding the Broader Impact of their Work.”
 
 \ind Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. “How do Educational Innovations Diffuse and Persist?”
 
@@ -107,7 +109,7 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 \ind David Tindall, John McLevey, and Nina Kolleck (editors). *Social Networks and Climate Change*. Special issue / section of *Social Networks*. Call for papers currently open.
 
-\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*. 
+\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*.
 
 # Research Grants
 
@@ -195,6 +197,12 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 
 # Conference Presentations
+
+\ind April 2019. John McLevey. "Measuring Belief Homophily and Cognitive Similarity in Social and Political Networks to Advance the Advocacy Coalition Framework (and Other Policy Theories)." Climate Change and Social Networks Workshop. Freie Universität Berlin, Berlin Germany. 
+
+\ind 2019. Stoddart, Mark C.J., Alice Mattoni, and John McLevey. “Industrial Development and Eco-Tourisms: Is Co-existence Possible between Oil Exploration and Nature Conservation.” Department of Geography Blue Box Seminar Series. Memorial University, St. John’s, Newfoundland and Labrador.
+
+\ind 2018. Stoddart, Mark C.J., Alice Mattoni, and John McLevey. “Climate Change and Contact Points between Offshore Oil and Nature-based Tourism in Northern Coastal Societies.” 2018 Arctic Circle Assembly, Reykjavik, Iceland.
 
 \ind June 2018. John McLevey, Alexander Graham, and Pierson Browne. "Remaking the boundaries of open and proprietary science: A multiple networks analysis of patenting and publishing in biomedical science." Sunbelt XXXVIII (Annual meetings of the International Network for Social Network Analysis), Utrecht, Netherlands.
 
