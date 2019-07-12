@@ -70,6 +70,8 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 \footnotesize{\ind Italics = student at time of publication}\bigskip
 \normalsize
 
+\ind Kathryn S. Plaisance, *Alexander V. Graham*, John McLevey, and *Janet Michaud*. Forthcoming. "Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science." *Synthese*. 
+
 \ind Owen Gallupe, John McLevey, and Sarah Brown. 2018. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *Journal of Quantitative Criminology*. 1-23.
 
 \ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. 2018. "Interdisciplinarity and Insularity in the Diffusion of Knowledge: An Analysis of Disciplinary Boundaries Between Philosophy of Science and the Sciences." *Scientometrics*. 117(1):331-349.
