@@ -63,7 +63,7 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 \ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.
 
-\ind Harry Collins with Robert Evans, Jonathon Goodall, Michael Gorman, Martin Innes, Will Mason-Wilkes, John McLevey and Alun Preece (**Collins as lead author with others listed alphabetically**). *Face-to-Face: Why We Need Personal Communication in Small Groups* (working title). Book manuscript under review.
+\ind Harry Collins with Robert Evans, Michael Gorman, Martin Innes, Will Mason-Wilkes, John McLevey and Alun Preece (**Collins as lead author with others listed alphabetically**). *Face-to-Face: Why We Need Personal Communication in Small Groups* (working title). Book manuscript under review.
 
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
