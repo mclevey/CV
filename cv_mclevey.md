@@ -6,29 +6,29 @@ mainfont: Minion Pro
 fontsize: 12
 ...
 
-\noindent Knowledge Integration, Sociology & Legal Studies    
-\noindent University of Waterloo, Waterloo, ON, Canada      
-\noindent \href{http://www.johnmclevey.com}{johnmclevey.com} | [networkslab.org](http://networkslab.org)     
-\noindent john.mclevey@uwaterloo.ca    
-\noindent (519) 888-4567 ext. 31938 | (647) 921-2044    
+\noindent Knowledge Integration, Sociology & Legal Studies
+\noindent University of Waterloo, Waterloo, ON, Canada
+\noindent \href{http://www.johnmclevey.com}{johnmclevey.com} | [networkslab.org](http://networkslab.org)
+\noindent john.mclevey@uwaterloo.ca
+\noindent (519) 888-4567 ext. 31938 | (647) 921-2044
 \bigskip
-\noindent Citizenship: Canadian   
+\noindent Citizenship: Canadian
 
 # Appointments
 
-\ind 2019-Present. Associate Professor (with tenure), University of Waterloo    
-[Department of Knowledge Integration](https://uwaterloo.ca/knowledge-integration/), [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)    
+\ind 2019-Present. Associate Professor (with tenure), University of Waterloo
+[Department of Knowledge Integration](https://uwaterloo.ca/knowledge-integration/), [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)
 [Approved Doctoral Dissertation Supervisor (ADDS) Status](https://uwaterloo.ca/graduate-studies/about-graduate-studies/organization-graduate-studies#6)
 
-\ind 2013-2019. Assistant Professor, University of Waterloo     
-[Department of Knowledge Integration](https://uwaterloo.ca/knowledge-integration/), [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)     
+\ind 2013-2019. Assistant Professor, University of Waterloo
+[Department of Knowledge Integration](https://uwaterloo.ca/knowledge-integration/), [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)
 [Approved Doctoral Dissertation Supervisor (ADDS) Status](https://uwaterloo.ca/graduate-studies/about-graduate-studies/organization-graduate-studies#6)
 
 # Affiliations
 
 \ind Spring 2019. Visiting Scholar, Department of Political and Social Sciences. [Scuola Normale Superiore](https://en.sns.it). Florence, Italy.
 
-\ind 2019-Present. Member of the Leadership Team. "Knowledge Development and Exchange Hub: Child and Youth Mental Health Promotion," Project Co-Leads Drs. Barb Riley and Janice Popp. Funded by the Public Health Agency of Canada. 
+\ind 2019-Present. Member of the Leadership Team. "Knowledge Development and Exchange Hub: Child and Youth Mental Health Promotion," Project Co-Leads Drs. Barb Riley and Janice Popp. Funded by the Public Health Agency of Canada.
 
 \ind 2018-Present. Forum on Science, Policy, and Society. Co-Organizer and Instructor for [Science Outside the Lab, North](http://www.sotlnorth.ca).
 
@@ -42,13 +42,13 @@ fontsize: 12
 
 \ind 2014-2017. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)
 
-\ind 2013-Present. Cross-appointed to the [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)    
+\ind 2013-Present. Cross-appointed to the [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)
 
 
 # Education
-\ind 2013. PhD, Sociology, McMaster University. Hamilton, ON, Canada.   
-\ind 2009. MA, Sociology, McMaster University. Hamilton, ON, Canada.   
-\ind 2008. BA Honors, Sociology, Political Science, Memorial University. St. John's, NL, Canada.   
+\ind 2013. PhD, Sociology, McMaster University. Hamilton, ON, Canada.
+\ind 2009. MA, Sociology, McMaster University. Hamilton, ON, Canada.
+\ind 2008. BA Honors, Sociology, Political Science, Memorial University. St. John's, NL, Canada.
 
 # Research Areas
 
@@ -70,7 +70,7 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 \footnotesize{\ind Italics = student at time of publication}\bigskip
 \normalsize
 
-\ind Kathryn S. Plaisance, *Alexander V. Graham*, John McLevey, and *Janet Michaud*. Forthcoming. "Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science." *Synthese*. 
+\ind Kathryn S. Plaisance, *Alexander V. Graham*, John McLevey, and *Janet Michaud*. Forthcoming. "Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science." *Synthese*.
 
 \ind Owen Gallupe, John McLevey, and Sarah Brown. 2018. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *Journal of Quantitative Criminology*. 1-23.
 
@@ -126,7 +126,7 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 \ind Total Research Grants since 2013: **$877,740**  \bigskip
 
-\ind 2019. Janice Aurini, Allyson Stokes, **John McLevey**, Jessica Riztk, and Rob Gorbet. "Ed-Tech Connect: An Intersectoral Workshop on Education, Technology, and 21^st^ Century Labour." [SSHRC Connection Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-eng.aspx), $16,400 (plus matching funds).    
+\ind 2019. Janice Aurini, Allyson Stokes, **John McLevey**, Jessica Riztk, and Rob Gorbet. "Ed-Tech Connect: An Intersectoral Workshop on Education, Technology, and 21^st^ Century Labour." [SSHRC Connection Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-eng.aspx), $16,400 (plus matching funds).
 
 \ind 2018-2019. Mark Stoddart (PI), **John McLevey**, (Co-Applicant), John Sandlos (Co-Applicant), Vanessa Schweizer (Co-Applicant), Catherine Mei Ling Wong (Co-Applicant). Climate Change and Energy Futures Workshop: Challenges and Opportunities for Global and Interdisciplinary Research. [SSHRC Connection Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-eng.aspx), $24,373 (plus $14,339 in matching funds from Memorial University and University of Waterloo).
 
@@ -216,22 +216,22 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 
 # Conference Presentations
- 
-\ind July 2019. John McLevey. "What do open online communities of specialists need tacit knowledge for anyway?" SEESHOP 2019. Helsinki, Finland.   
 
-\ind June 2019. John McLevey, *Alexander Graham*, *Tyler Crick*, and *Pierson Browne* (reverse alphabetical). "Measuring Social and Cognitve Distance in Collaboration Networks Constructed From Observational Data." Advances in Socio-Semantic Network Analysis session, Sunbelt. Montréal QC, Canada.    
+\ind July 2019. John McLevey. "What do open online communities of specialists need tacit knowledge for anyway?" SEESHOP 2019. Helsinki, Finland.
 
-\ind June 2019. Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. "How Do Educational Innovations Diffuse and Persist?" Networked Innovation 1 session, Sunbelt. Montréal QC, Canada.   
+\ind June 2019. John McLevey, *Alexander Graham*, *Tyler Crick*, and *Pierson Browne* (reverse alphabetical). "Measuring Social and Cognitve Distance in Collaboration Networks Constructed From Observational Data." Advances in Socio-Semantic Network Analysis session, Sunbelt. Montréal QC, Canada.
 
-\ind June 2019. *Pierson Browne*, *Tyler Crick*, *Alexander Graham*, and John McLevey (alphabetical) "Cognitive Diversity and the Production of High Impact Science." Networked Innovation 2 session, Sunbelt. Montréal QC, Canada.   
+\ind June 2019. Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. "How Do Educational Innovations Diffuse and Persist?" Networked Innovation 1 session, Sunbelt. Montréal QC, Canada.
 
-\ind June 2019. Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. "How Do Educational Innovations Diffuse and Persist?" Sociology of Education session, Canadian Sociological Association Meetings, University of British Columbia, Vancouver BC, Canada.    
+\ind June 2019. *Pierson Browne*, *Tyler Crick*, *Alexander Graham*, and John McLevey (alphabetical) "Cognitive Diversity and the Production of High Impact Science." Networked Innovation 2 session, Sunbelt. Montréal QC, Canada.
 
-\ind April 2019. John McLevey. "Measuring Belief Homophily and Cognitive Similarity in Social and Political Networks to Advance the Advocacy Coalition Framework (and Other Policy Theories)." Climate Change and Social Networks Workshop. Freie Universität Berlin, Berlin Germany.      
+\ind June 2019. Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. "How Do Educational Innovations Diffuse and Persist?" Sociology of Education session, Canadian Sociological Association Meetings, University of British Columbia, Vancouver BC, Canada.
 
-\ind 2019. Stoddart, Mark C.J., Alice Mattoni, and John McLevey. “Industrial Development and Eco-Tourisms: Is Co-existence Possible between Oil Exploration and Nature Conservation.” Department of Geography Blue Box Seminar Series. Memorial University, St. John’s, Newfoundland and Labrador.       
+\ind April 2019. John McLevey. "Measuring Belief Homophily and Cognitive Similarity in Social and Political Networks to Advance the Advocacy Coalition Framework (and Other Policy Theories)." Climate Change and Social Networks Workshop. Freie Universität Berlin, Berlin Germany.
 
-\ind 2018. Stoddart, Mark C.J., Alice Mattoni, and John McLevey. “Climate Change and Contact Points between Offshore Oil and Nature-based Tourism in Northern Coastal Societies.” 2018 Arctic Circle Assembly, Reykjavik, Iceland.     
+\ind 2019. Stoddart, Mark C.J., Alice Mattoni, and John McLevey. “Industrial Development and Eco-Tourisms: Is Co-existence Possible between Oil Exploration and Nature Conservation.” Department of Geography Blue Box Seminar Series. Memorial University, St. John’s, Newfoundland and Labrador.
+
+\ind 2018. Stoddart, Mark C.J., Alice Mattoni, and John McLevey. “Climate Change and Contact Points between Offshore Oil and Nature-based Tourism in Northern Coastal Societies.” 2018 Arctic Circle Assembly, Reykjavik, Iceland.
 
 \ind June 2018. John McLevey, Alexander Graham, and Pierson Browne. "Remaking the boundaries of open and proprietary science: A multiple networks analysis of patenting and publishing in biomedical science." Sunbelt XXXVIII (Annual meetings of the International Network for Social Network Analysis), Utrecht, Netherlands.
 
@@ -339,25 +339,25 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Courses Designed, Developed, and Offered since 2013
 
-\noindent Research Methods (undergraduate lecture)        
-\noindent "Big Data" and Social Science Research (undergraduate seminar)      
-\noindent KI Thesis / Senior Research Project        
-\noindent The Art & Science of Learning (undergraduate lecture)       
-\noindent Data Visualization (undergraduate seminar)        
-\noindent Sociology of Science and Technology (undergraduate seminar)        
-\noindent Open Science and Technology (undergraduate seminar)        
-\noindent Creativity and Innovation (undergraduate lecture)        
+\noindent Research Methods (undergraduate lecture)
+\noindent "Big Data" and Social Science Research (undergraduate seminar)
+\noindent KI Thesis / Senior Research Project
+\noindent The Art & Science of Learning (undergraduate lecture)
+\noindent Data Visualization (undergraduate seminar)
+\noindent Sociology of Science and Technology (undergraduate seminar)
+\noindent Open Science and Technology (undergraduate seminar)
+\noindent Creativity and Innovation (undergraduate lecture)
 
 
 ## Independent Studies Courses
 <!--  with Sasha Graham, Tiff Lin, Kelly White, Ben Carr, Tyler Crick -->
 
-\noindent Social Network Analysis (3x)      
-\noindent Reproducibility and Replication in the Sciences     
-\noindent Systematic Reviews and Methods for Evidence Synthesis    
-\noindent Sociology of Science     
-\noindent Computational Sociology      
-\noindent The Sociology of Expertise and Science Policy      
+\noindent Social Network Analysis (3x)
+\noindent Reproducibility and Replication in the Sciences
+\noindent Systematic Reviews and Methods for Evidence Synthesis
+\noindent Sociology of Science
+\noindent Computational Sociology
+\noindent The Sociology of Expertise and Science Policy
 \noindent Sociology of Organizations
 
 
@@ -373,7 +373,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ### As Committee Member (7 Students)
 
-**Julie Cook** (committee member, supervisor Jennifer Lynes), **Rod Missaghian** (committee member, supervisor Janice Aurini), **Yixi Yang** (committee member, supervisor Mark Stoddart at Memorial University), **Adam Howe** (committee member, supervisor David Tindall at University of British Columbia), **François Lachapelle** (committee member, supervisor David Tindall at University of British Columbia), **Peter Duggins** (committee member, supervisor Chris Eliasmith, Systems Design Engineering), **Moutasem Zakkar** (committee member, supervisors Craig Janes and Plinio Morita, School of Public Health and Health Systems)
+**Brittany Etmanski** (committee member, supervisor Owen Gallupe), **Julie Cook** (committee member, supervisor Jennifer Lynes), **Rod Missaghian** (committee member, supervisor Janice Aurini), **Yixi Yang** (committee member, supervisor Mark Stoddart at Memorial University), **Adam Howe** (committee member, supervisor David Tindall at University of British Columbia), **François Lachapelle** (committee member, supervisor David Tindall at University of British Columbia), **Peter Duggins** (committee member, supervisor Chris Eliasmith, Systems Design Engineering), **Moutasem Zakkar** (committee member, supervisors Craig Janes and Plinio Morita, School of Public Health and Health Systems)
 
 ## PhD Dissertations, Successfully Defended
 
@@ -399,17 +399,17 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Research Methods Workshops (Designed and Instructed)
 
-\ind 2020. Research Methods Workshop (5 days), GESIS Spring Seminar, Leibniz Institute for the Social Sciences, Cologne Germany. "Working with Digital Behavioural Data." Co-designed and instructed with Jillian Anderson. 
+\ind 2020. Research Methods Workshop (5 days), GESIS Spring Seminar, Leibniz Institute for the Social Sciences, Cologne Germany. "Working with Digital Behavioural Data." Co-designed and instructed with Jillian Anderson.
 
 \ind 2019. Research Methods Workshop (1 day), Transilvania Summer School in Research Methods. "Using Network Analysis to (Partially) Automate Literature Reviews"
 
-\ind 2019. Research Methods Workshop (2 days) instructed at University of British Columbia, Department of Sociology. "\href{https://sociology.ubc.ca/events/event/introduction-to-big-data-and-automated-text-analysis-for-social-scientists/}{Introduction to Big Data and Automated Text Analysis for Social Scientists}" 
+\ind 2019. Research Methods Workshop (2 days) instructed at University of British Columbia, Department of Sociology. "\href{https://sociology.ubc.ca/events/event/introduction-to-big-data-and-automated-text-analysis-for-social-scientists/}{Introduction to Big Data and Automated Text Analysis for Social Scientists}"
 
-\ind 2019. Research Methods Workshop (2 days) instructed at University of Waterloo. "\href{https://uwaterloo.ca/networks-lab/events/}{(Partially) Automating Literature Reviews for Knowledge Synthesis and Discovery.}" 
+\ind 2019. Research Methods Workshop (2 days) instructed at University of Waterloo. "\href{https://uwaterloo.ca/networks-lab/events/}{(Partially) Automating Literature Reviews for Knowledge Synthesis and Discovery.}"
 
-\ind 2019. Research Methods Workshop (2 days) instructed at University of Waterloo. "\href{https://uwaterloo.ca/networks-lab/events/}{How to Analyze Networks with R}" 
+\ind 2019. Research Methods Workshop (2 days) instructed at University of Waterloo. "\href{https://uwaterloo.ca/networks-lab/events/}{How to Analyze Networks with R}"
 
-\ind 2019. Research Methods Workshop (1 day) instructed at University of Waterloo. "\href{https://uwaterloo.ca/networks-lab/events/}{Automated Content Analysis for Social Scientists}" 
+\ind 2019. Research Methods Workshop (1 day) instructed at University of Waterloo. "\href{https://uwaterloo.ca/networks-lab/events/}{Automated Content Analysis for Social Scientists}"
 
 # Service
 
@@ -421,27 +421,27 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2014-present. Organizer and liaison with the Canadian Sociological Association for the [Sociology of Science, Technology, and Knowledge Research Cluster](http://www.csa-scs.ca/files/webapps/csapress/sstk/)
 
-\ind Conference Session Organizing:    
-**2019** Sessions for *Social Networks* Research Cluster, CSA       
-**2019** Sessions for *Sociology of Science, Technology, and Knowledge* Research Cluster, CSA       
-**2019** *Social Networks and Sociology* panel (with Dr. Rochelle Côté), CSA           
-**2017** *Practical Advice on Communicating Sociological Research* panel,<!-- ^[Panelists: Rima Wilkes, Michael Haan, Karen Robson, Fuyuki Kurasawa, Sarah Wilkens-Laflamme, and Karen Foster as panelists] --> CSA       
-**2017** *Sociology of Science and Knowledge*, CSA        
-**2016** *Sociology of Science and Knowledge*, CSA     
-**2015** *Political Sociology of Science*, CSA       
-**2015** *Sociology of Science*, CSA         
-**2014** *Sociology of Technology*, CSA      
-**2014** *Sociology of Culture* (with Dr. Allyson Stokes), CSA         
+\ind Conference Session Organizing:
+**2019** Sessions for *Social Networks* Research Cluster, CSA
+**2019** Sessions for *Sociology of Science, Technology, and Knowledge* Research Cluster, CSA
+**2019** *Social Networks and Sociology* panel (with Dr. Rochelle Côté), CSA
+**2017** *Practical Advice on Communicating Sociological Research* panel,<!-- ^[Panelists: Rima Wilkes, Michael Haan, Karen Robson, Fuyuki Kurasawa, Sarah Wilkens-Laflamme, and Karen Foster as panelists] --> CSA
+**2017** *Sociology of Science and Knowledge*, CSA
+**2016** *Sociology of Science and Knowledge*, CSA
+**2015** *Political Sociology of Science*, CSA
+**2015** *Sociology of Science*, CSA
+**2014** *Sociology of Technology*, CSA
+**2014** *Sociology of Culture* (with Dr. Allyson Stokes), CSA
 
-\ind Peer Reviewing (Journal Articles):     
-*Science and Public Policy*  
-*American Journal of Sociology*  
-*Scientometrics*  
-*Sociological Theory*  
-*Social Studies of Science*  
-*Canadian Journal of Sociology*  
-*Methodological Innovations*  
-*Acta Sociologica*  
+\ind Peer Reviewing (Journal Articles):
+*Science and Public Policy*
+*American Journal of Sociology*
+*Scientometrics*
+*Sociological Theory*
+*Social Studies of Science*
+*Canadian Journal of Sociology*
+*Methodological Innovations*
+*Acta Sociologica*
 
 \ind Peer Reviewing (Grants):
 2017. Observer for the 2018 SSHRC Postdoctoral Awards Competition
@@ -454,36 +454,36 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 2018. Sage Campus. (Online research methods classes)
 
 ## University of Waterloo
-    
-\ind 2018 Search and selection committee member for two Canada Research Chairs in Environment and Sustainability, Faculty of Environment.     
-\ind 2018 Panelist on the SSHRC Insight Development Grants Panel, organized by Ruth Knechtel from the University of Waterloo Office of Research.     
-\ind 2017-2018 Committee member for university-level "Research excellence and crossing disciplinary lines" committee, which developed a white paper to inform the development of the next University of Waterloo strategic plan. Part of my contribution included a network analysis of inter- and intra-faculty collaboration networks on campus.    
-\ind 2016 Informal committee designing a Master's in Data Science at the University of Waterloo, joint initiative of the Faculty of Arts and Faculty of Environment.     
-\ind 2016-Present Member of Communications Outcomes Committee in the Faculty of Environment.     
-\ind 2016 Internal External Examiner for PhD Dissertation in the Department of Applied Mathematics, University of Waterloo. John Lang, "Mathematical Modelling of Social Factors in Decision Making Processes at the Individual and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel M. Abrams.   
-\ind 2016 Internal External Examiner for PhD Dissertation in the Department of Philosophy, University of Waterloo. Benjamin Nelson, "The Depictions of Unwritten Law." Committee Members: Brian Orend, Heather Douglas, and Matt Doucet.     
-\ind 2016-Present Member of the University of Waterloo Task Force on Bibliometrics.     
-\ind 2016-2017 Committee Member on the Faculty of Environment Committee on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign to make gender equality a top institutional priority.     
-\ind 2016 Co-organized (with Ian Milligan) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research.     
-\ind 2016-Present Faculty Advisor, [University of Waterloo iGEM](http://2015.igem.org/Team:Waterloo) (International Genetically Engineered Machine) Team, Policy & Practices Subgroup, Mathematical Modeling Subgroup (occasionally). 2016 Gold Medal Winners.     
-\ind 2014-Present Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)     
-\ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council     
-\ind 2014-2017 Department of Knowledge Integration representative on the Environment Faculty Council     
-\ind 2014-2015 Member of the English Language Competency Committee in the Faculty of Environment     
-\ind 2014 Faculty of Environment Teaching and Learning Committee     
-\ind 2014 Gave a talk on creativity and innovation to Grade 11 students at Waterloo Unlimited. Title: "Where do good ideas come from? A social network perspective."     
-\ind 2014 Internal External Examiner for PhD Dissertation in the Department of Psychology, University of Waterloo. Nathaniel Barr, "Reasoned connections: Complex creativity and dual-process theories of cognition." Dissertation Advisor: Jonathon Fugelsang.     
+
+\ind 2018 Search and selection committee member for two Canada Research Chairs in Environment and Sustainability, Faculty of Environment.
+\ind 2018 Panelist on the SSHRC Insight Development Grants Panel, organized by Ruth Knechtel from the University of Waterloo Office of Research.
+\ind 2017-2018 Committee member for university-level "Research excellence and crossing disciplinary lines" committee, which developed a white paper to inform the development of the next University of Waterloo strategic plan. Part of my contribution included a network analysis of inter- and intra-faculty collaboration networks on campus.
+\ind 2016 Informal committee designing a Master's in Data Science at the University of Waterloo, joint initiative of the Faculty of Arts and Faculty of Environment.
+\ind 2016-Present Member of Communications Outcomes Committee in the Faculty of Environment.
+\ind 2016 Internal External Examiner for PhD Dissertation in the Department of Applied Mathematics, University of Waterloo. John Lang, "Mathematical Modelling of Social Factors in Decision Making Processes at the Individual and Population Levels." Dissertation Supervisors: Drs. Hans De Sterck and Daniel M. Abrams.
+\ind 2016 Internal External Examiner for PhD Dissertation in the Department of Philosophy, University of Waterloo. Benjamin Nelson, "The Depictions of Unwritten Law." Committee Members: Brian Orend, Heather Douglas, and Matt Doucet.
+\ind 2016-Present Member of the University of Waterloo Task Force on Bibliometrics.
+\ind 2016-2017 Committee Member on the Faculty of Environment Committee on the University of Waterloo [HeForShe](http://www.heforshe.org/impact/) Campaign to make gender equality a top institutional priority.
+\ind 2016 Co-organized (with Ian Milligan) a [Software Carpentry](http://software-carpentry.org/) workshop at the University of Waterloo focusing on shell scripting, git, and Python for social scientific and historical research.
+\ind 2016-Present Faculty Advisor, [University of Waterloo iGEM](http://2015.igem.org/Team:Waterloo) (International Genetically Engineered Machine) Team, Policy & Practices Subgroup, Mathematical Modeling Subgroup (occasionally). 2016 Gold Medal Winners.
+\ind 2014-Present Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)
+\ind 2014-2015 Faculty of Environment representative on the Arts Faculty Council
+\ind 2014-2017 Department of Knowledge Integration representative on the Environment Faculty Council
+\ind 2014-2015 Member of the English Language Competency Committee in the Faculty of Environment
+\ind 2014 Faculty of Environment Teaching and Learning Committee
+\ind 2014 Gave a talk on creativity and innovation to Grade 11 students at Waterloo Unlimited. Title: "Where do good ideas come from? A social network perspective."
+\ind 2014 Internal External Examiner for PhD Dissertation in the Department of Psychology, University of Waterloo. Nathaniel Barr, "Reasoned connections: Complex creativity and dual-process theories of cognition." Dissertation Advisor: Jonathon Fugelsang.
 
 ## McMaster University
 
-\ind 2011–2012 Selection Committee member for two tenure-track hires in Sociology     
-\ind 2010–2012 Chair of Graduate Student Caucus     
-\ind 2011–2012 PhD (ABD) Representative on the Graduate Committee     
-\ind 2009–2010 PhD Representative on the Graduate Committee     
-\ind 2009–2010 Co-Organizer, Culture and Politics workshop     
-\ind 2009–2012 Co-Organizer of Jane Synge Memorial Conferences     
-\ind 2009–2012 Peer Mentor in Sociology Peer Mentoring Program     
-\ind 2008–2009 Union Steward, Sociology (CUPE 3906)     
+\ind 2011–2012 Selection Committee member for two tenure-track hires in Sociology
+\ind 2010–2012 Chair of Graduate Student Caucus
+\ind 2011–2012 PhD (ABD) Representative on the Graduate Committee
+\ind 2009–2010 PhD Representative on the Graduate Committee
+\ind 2009–2010 Co-Organizer, Culture and Politics workshop
+\ind 2009–2012 Co-Organizer of Jane Synge Memorial Conferences
+\ind 2009–2012 Peer Mentor in Sociology Peer Mentoring Program
+\ind 2008–2009 Union Steward, Sociology (CUPE 3906)
 
 # Additional Research Methods / Technical Training
 
