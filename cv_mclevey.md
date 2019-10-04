@@ -92,25 +92,22 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 <!-- ## Revise & Resubmit (Revisions Submitted) -->
 
-<!-- ## Journal Articles Under Review -->
+## Journal Articles Under Review
+
+\ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny,
+Dana R. Fisher, Jennifer Earl, and Mario Diani. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." Under revision for Mario Small, Bernice Pescosolido and Brea Perry (Eds.) *New Frontiers in Egocentric Networks* .Cambridge University Press.
 
 ## Articles In Progress
-
-\ind John McLevey, \emph{Alexander Graham}, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Measuring Cultural-Cognitive Similarity in Social Networks.”
 
 \ind \emph{Alexander Graham}, John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Cognitive Diversity and the Production of High-Impact Science.”
 
 \ind Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. “How do Educational Innovations Diffuse and Persist?”
 
-<!-- \ind John McLevey, \emph{Pierson Browne}, and \emph{Alexander Graham}. “Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science.” -->
-
-<!-- \ind John McLevey, \emph{Alexander Graham}, and \emph{Pierson Browne}. “Network Structure and the ‘Chain of Trust’ in Free/Libre Open Source Software Development: The Case of Linux.” -->
-
 \ind John McLevey, Mark Stoddart, and \emph{Yixi Yang}. “The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, Iceland, Denmark, Greenland, and Newfoundland and Labrador.”
 
-<!-- \ind Kathryn Plaisance, John McLevey, and \emph{Janet Michaud}. “Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science with Respect to Doing Broadly Engaged Work.” -->
-
 \ind Kathryn Plaisance, John McLevey, and \emph{Janet Michaud}. “The Impact of Philosophy of Science in Scientific Domains: A Qualitative Study of Philosophers’ Experiences and Perceptions Regarding the Broader Impact of their Work.”
+
+<!-- \ind John McLevey, \emph{Pierson Browne}, and \emph{Alexander Graham}. “Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science.” -->
 
 # Policy Reports
 
