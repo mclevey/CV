@@ -92,12 +92,13 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 <!-- ## Revise & Resubmit (Revisions Submitted) -->
 
-## Journal Articles Under Review
-
-\ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny,
-Dana R. Fisher, Jennifer Earl, and Mario Diani. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." Under revision for Mario Small, Bernice Pescosolido and Brea Perry (Eds.) *New Frontiers in Egocentric Networks* .Cambridge University Press.
+<!-- ## Journal Articles Under Review
+ -->
 
 ## Articles In Progress
+
+\ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny,
+Dana R. Fisher, Jennifer Earl, and Mario Diani. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." Under revision for Mario Small, Bernice Pescosolido and Brea Perry (Eds.) *New Frontiers in Egocentric Networks*. Cambridge University Press.
 
 \ind \emph{Alexander Graham}, John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Cognitive Diversity and the Production of High-Impact Science.”
 
