@@ -369,7 +369,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 **Alexander Graham** (supervisor), **Tyler Crick** (supervisor), **Amelia Howard** (supervisor), **Pierson Browne** (interim supervisor for 2019, committee member, supervisor Jen Whitson)
 
-### As Committee Member (7 Students)
+### As Committee Member (8 Students)
 
 **Brittany Etmanski** (committee member, supervisor Owen Gallupe), **Julie Cook** (committee member, supervisor Jennifer Lynes), **Rod Missaghian** (committee member, supervisor Janice Aurini), **Yixi Yang** (committee member, supervisor Mark Stoddart at Memorial University), **Adam Howe** (committee member, supervisor David Tindall at University of British Columbia), **François Lachapelle** (committee member, supervisor David Tindall at University of British Columbia), **Peter Duggins** (committee member, supervisor Chris Eliasmith, Systems Design Engineering), **Moutasem Zakkar** (committee member, supervisors Craig Janes and Plinio Morita, School of Public Health and Health Systems)
 
@@ -379,7 +379,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 **Michael Clarke** (committee member -- defended in 2016), **Noorin Manji** (committee member -- defended in 2018)
 
-## Master's Theses, Successfully Defended (5 Students)
+## Master's Theses, Successfully Defended (7 Students)
 
 **Emerson LaCroix** (committee member, supervisor Janice Aurini), **Sarah Tang** (committee member, supervisor Simron Singh), **Alexander Graham** (supervisor, defended 2017), **Nicholas Brandon, MD** (committee member, supervisor Shannon Majowicz, defended 2018), **Junyi Wang** (committee member, supervisor Derek Robinson, defended in 2017), **Stuart Anderson** (reader, supervisor Götz Hoeppe, defended 2017), **Chen Chen** (reader, supervisor Peter Johnson, defended 2016)
 
