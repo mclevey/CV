@@ -379,13 +379,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 **Michael Clarke** (committee member -- defended in 2016), **Noorin Manji** (committee member -- defended in 2018)
 
-## Master's Theses, In Progress (2 Students)
-
-**Emerson LaCroix** (committee member, supervisor Janice Aurini), **Sarah Tang** (committee member, supervisor Simron Singh)
-
 ## Master's Theses, Successfully Defended (5 Students)
 
-**Alexander Graham** (supervisor, defended 2017), **Nicholas Brandon, MD** (committee member, supervisor Shannon Majowicz, defended 2018), **Junyi Wang** (committee member, supervisor Derek Robinson, defended in 2017), **Stuart Anderson** (reader, supervisor Götz Hoeppe, defended 2017), **Chen Chen** (reader, supervisor Peter Johnson, defended 2016)
+**Emerson LaCroix** (committee member, supervisor Janice Aurini), **Sarah Tang** (committee member, supervisor Simron Singh), **Alexander Graham** (supervisor, defended 2017), **Nicholas Brandon, MD** (committee member, supervisor Shannon Majowicz, defended 2018), **Junyi Wang** (committee member, supervisor Derek Robinson, defended in 2017), **Stuart Anderson** (reader, supervisor Götz Hoeppe, defended 2017), **Chen Chen** (reader, supervisor Peter Johnson, defended 2016)
 
 ## Undergraduate Senior Honors Theses (9 Students)
 
