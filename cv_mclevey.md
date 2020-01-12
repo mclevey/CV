@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. John McLevey"
 lhead: \href{http://www.johnmclevey.com}{John McLevey, PhD}
 rhead: "Updated April 16^th^, 2019"
@@ -44,16 +45,15 @@ fontsize: 12
 
 \ind 2013-Present. Cross-appointed to the [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)
 
-
 # Education
+
 \ind 2013. PhD, Sociology, McMaster University. Hamilton, ON, Canada.
 \ind 2009. MA, Sociology, McMaster University. Hamilton, ON, Canada.
 \ind 2008. BA Honors, Sociology, Political Science, Memorial University. St. John's, NL, Canada.
 
 # Research Areas
 
-Computational Social Science, Social Networks, Sociology of Science, Environmental Governance and Social Movements, Cognitive Social Science, Research Methods
-
+Computational Social Science (especially Network Analysis, Natural Language Processing, Computational Content Analysis, social informatics), Disinformation and Democracy, Science and Democracy, Political Sociology and Social Movements, Sociology of Science, Environmental Sociology
 
 # Peer Reviewed Publications
 
@@ -63,7 +63,7 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 \ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.
 
-\ind Harry Collins with Robert Evans, Michael Gorman, Martin Innes, Will Mason-Wilkes, John McLevey and Alun Preece (**Collins as lead author with others listed alphabetically**). *Face-to-Face: Why Personal Communication Cannot be Replaced* (working title). Book manuscript under review.
+\ind Harry Collins, Robert Evans, Martin Innes, Will Mason-Wilkes, Eric Kennedy, and John McLevey (**Collins as lead author with others listed alphabetically**). *Face-to-Face: Communication and the Liquidity of Knowledge* (working title). Book manuscript under review.
 
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
@@ -97,8 +97,7 @@ Computational Social Science, Social Networks, Sociology of Science, Environment
 
 ## Articles In Progress
 
-\ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny,
-Dana R. Fisher, Jennifer Earl, and Mario Diani. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." Under revision for Mario Small, Bernice Pescosolido and Brea Perry (Eds.) *New Frontiers in Egocentric Networks*. Cambridge University Press.
+\ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." Under revision for Mario Small, Bernice Pescosolido and Brea Perry (Eds.) *New Frontiers in Egocentric Networks*. Cambridge University Press.
 
 \ind \emph{Alexander Graham}, John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Cognitive Diversity and the Production of High-Impact Science.”
 
@@ -107,8 +106,6 @@ Dana R. Fisher, Jennifer Earl, and Mario Diani. "The Challenges and Opportunitie
 \ind John McLevey, Mark Stoddart, and \emph{Yixi Yang}. “The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, Iceland, Denmark, Greenland, and Newfoundland and Labrador.”
 
 \ind Kathryn Plaisance, John McLevey, and \emph{Janet Michaud}. “The Impact of Philosophy of Science in Scientific Domains: A Qualitative Study of Philosophers’ Experiences and Perceptions Regarding the Broader Impact of their Work.”
-
-<!-- \ind John McLevey, \emph{Pierson Browne}, and \emph{Alexander Graham}. “Remaking the Boundaries of Open and Proprietary Science: A Linked Data Analysis of Multi-Institutional Collaboration in International Biomedical Science.” -->
 
 # Policy Reports
 
@@ -154,7 +151,6 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2015-2016 John McLevey (PI), LITE Seed Grant, Center for Teaching Excellence, University of Waterloo, "A Data-Driven and Interactive Approach to Enhancing Student Learning about Disciplinary and Interdisciplinary Knowledge Production," $4,765.20.
 
-
 # Awards and Selected Scholarships
 
 \ind 2017. Outstanding Performance Award. University of Waterloo.
@@ -197,7 +193,6 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind \href{http://networkslab.org/gitnet/}{\texttt{gitnet}}: A Python package for mining source code repository and mailing list data and generating network datasets. Developed by Joel Becker, Jillian Anderson, Steve McColl, and John McLevey. First released in 2016. \emph{gitnet} is still publicly available and functional, but development efforts and maintenance have shifted to \emph{tidyextractors} and other Python packages. Website and documentation: [http://networkslab.org/gitnet/](http://networkslab.org/gitnet/)
 
-
 # Op-Eds, Public Talks, Non-Reviewed Writing
 
 \ind John McLevey. 2019. Review of David Johnson (2017) *A Fractured Profession: Commercialization and Conflict in Academic Science*. Baltimore: Johns Hopkins University Press. Review published in *American Journal of Sociology*. 125(1).
@@ -212,8 +207,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind "[Tory war on evidence claims another casualty](http://bit.ly/1ohSn1N)" with Liam Swiss. *Toronto Star* Op-Ed published on September 24 2014, section A15.
 
-
 # Conference Presentations
+
+\ind October 2019. John McLevey. "Disinformation, Democracy, and Influence in Online Political Discussion Networks." Disinformation Symposium, hosted by the Cardiff University Crime & Security Research Institute. Hensol Castle, Vale of Glamorgan, Wales UK.
 
 \ind July 2019. John McLevey. "What do open online communities of specialists need tacit knowledge for anyway?" SEESHOP 2019. Helsinki, Finland.
 
@@ -309,17 +305,17 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Invited Research Talks
 
+\ind December 2019. John McLevey. "Democracies in Crisis? Online Deception, Disinformation, and Political Polarization." Invited talk in the York University Science and Technology Studies Seminar Series.
+
 \ind Nov 15, 2017 "Gender discrimination in open source software development: findings from a large-scale field study." Guest lecture in Gender Equity course in Knowledge Integration, University of Waterloo.
 
 \ind Nov 13, 2017. "A Primer on Computational Sociology." Guest lecture in Sociology Theory grad seminar, Sociology \& Legal Studies, University of Waterloo.
 
 \ind March 2, 2016 "Network Structure and the 'Chain of Trust' in Linux Development: Lessons for Working with Data Scraped from the Web." Guest lecture in Research Methods class in Sociology, Wilfrid Laurier University
 
-
 \ind May 2017, Panelist on "SSHRC's new data management policies: what do they mean for your knowledge making practices?" at the 2017 Canadian Sociological Association meetings, Ryerson University.
 
 \ind Oct 28, 2016, "Open Science and the Uncertain Future of University-Industry Partnerships in Biomedical Research and Development." Environment Seminar Series: Open Data, Open Science. Faculty of Environment, University of Waterloo.
-
 
 \ind Dec 2, 2014 "Collaborating On-Line: An Analysis of Communication Networks for Linux Kernel Developers." [Waterloo Institute for Complexity and Innovation](http://wici.ca/) Speaker Series, University of Waterloo.
 
@@ -346,8 +342,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent Open Science and Technology (undergraduate seminar)
 \noindent Creativity and Innovation (undergraduate lecture)
 
-
 ## Independent Studies Courses
+
 <!--  with Sasha Graham, Tiff Lin, Kelly White, Ben Carr, Tyler Crick -->
 
 \noindent Social Network Analysis (3x)
@@ -357,7 +353,6 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent Computational Sociology
 \noindent The Sociology of Expertise and Science Policy
 \noindent Sociology of Organizations
-
 
 <!-- SOLT - including reviewing applications -->
 
@@ -438,13 +433,18 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 *Acta Sociologica*
 
 \ind Peer Reviewing (Grants):
+
+2019. Peer Reviewer for the 2019 SSHRC Insight Grant Awards Competition, Multi-disciplinary panel    
 2017. Observer for the 2018 SSHRC Postdoctoral Awards Competition
-2017. Evaluator for 2017 SSHRC Insight Development Grants Competition<!-- , Sociology & Demography -->
+2018. Evaluator for 2017 SSHRC Insight Development Grants Competition<!-- , Sociology & Demography -->
 
 \ind Peer Reviewing (Books):
+
 2018. Sage, UK. Quantitative research methods series.
 
 \ind Peer Reviewing (Other):
+
+2020. Sage Campus. (Online research design classes)     
 2018. Sage Campus. (Online research methods classes)
 
 ## University of Waterloo
