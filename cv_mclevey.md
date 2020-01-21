@@ -54,7 +54,7 @@ fontsize: 12
 
 # Research Areas
 
-Computational Social Science (especially Network Analysis, Natural Language Processing and Computational Content Analysis); Disinformation, Misinformation, and Democracy; Science and Democracy; Social Movements, Environmental Sociology; Culture and Cognition
+Computational Social Science (especially Network Analysis, Natural Language Processing and Computational Content Analysis); Disinformation, Misinformation, and Democracy; Science and Democracy; Social Movements, Environmental Sociology; Culture, Cognition, and Communication   
 
 # Peer Reviewed Publications
 
