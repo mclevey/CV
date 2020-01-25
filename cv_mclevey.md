@@ -54,7 +54,9 @@ fontsize: 12
 
 # Research Areas
 
-\ind Computational Social Science, Network Analysis, and Natural Language Processing       
+\ind Computational Social Science
+\ind     Network Analysis   
+\ind     Natural Language Processing       
 \ind Disinformation, Misinformation, and Democracy   
 \ind Science and Democracy    
 \ind Cognitive Social Science    
