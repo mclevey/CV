@@ -54,13 +54,13 @@ fontsize: 12
 
 # Research Areas
 
-\ind Computational Social Science
-\ind     Network Analysis   
-\ind     Natural Language Processing       
-\ind Disinformation, Misinformation, and Democracy   
-\ind Science and Democracy    
-\ind Cognitive Social Science    
-\ind Environmental Sociology           
+* Computational Social Science
+    * Network Analysis   
+    * Natural Language Processing       
+* Disinformation, Misinformation, and Democracy   
+* Science and Democracy    
+* Cognitive Social Science    
+* Environmental Sociology           
 
 # Peer Reviewed Publications
 
