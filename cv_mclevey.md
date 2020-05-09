@@ -97,15 +97,15 @@ Computational Social Science (especially Network Analysis and Natural Language P
 <!-- ## Journal Articles Under Review
  -->
 
-## Articles In Progress
+<!-- ## Articles In Progress -->
 
-\ind \emph{Alexander Graham}, John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Cognitive Diversity and the Production of High-Impact Science.”
+<!-- \ind \emph{Alexander Graham}, John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Cognitive Diversity and the Production of High-Impact Science.” -->
 
-\ind Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. “How do Educational Innovations Diffuse and Persist?”
+<!-- \ind Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. “How do Educational Innovations Diffuse and Persist?” -->
 
-\ind John McLevey, Mark Stoddart, and \emph{Yixi Yang}. “The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, Iceland, Denmark, Greenland, and Newfoundland and Labrador.”
+<!-- \ind John McLevey, Mark Stoddart, and \emph{Yixi Yang}. “The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, Iceland, Denmark, Greenland, and Newfoundland and Labrador.” -->
 
-\ind Kathryn Plaisance, John McLevey, and \emph{Janet Michaud}. “The Impact of Philosophy of Science in Scientific Domains: A Qualitative Study of Philosophers’ Experiences and Perceptions Regarding the Broader Impact of their Work.”
+<!-- \ind Kathryn Plaisance, John McLevey, and \emph{Janet Michaud}. “The Impact of Philosophy of Science in Scientific Domains: A Qualitative Study of Philosophers’ Experiences and Perceptions Regarding the Broader Impact of their Work.” -->
 
 # Policy Reports
 
