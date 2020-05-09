@@ -70,6 +70,8 @@ Computational Social Science (especially Network Analysis and Natural Language P
 
 \footnotesize \ind Italics = student at time of publication \bigskip \normalsize
 
+\ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. Forthcoming. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." Under revision for Mario Small, Brea Perry, Bernice Pescosolido, and Edward Smith (Eds.) *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge: Cambridge University Press.
+
 \ind Kathryn S. Plaisance, *Alexander V. Graham*, John McLevey, and *Janet Michaud*. Forthcoming. "Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science." *Synthese*.
 
 \ind Owen Gallupe, John McLevey, and Sarah Brown. 2018. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *Journal of Quantitative Criminology*. 1-23.
@@ -96,8 +98,6 @@ Computational Social Science (especially Network Analysis and Natural Language P
  -->
 
 ## Articles In Progress
-
-\ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." Under revision for Mario Small, Bernice Pescosolido and Brea Perry (Eds.) *New Frontiers in Egocentric Networks*. Cambridge University Press.
 
 \ind \emph{Alexander Graham}, John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Cognitive Diversity and the Production of High-Impact Science.”
 
