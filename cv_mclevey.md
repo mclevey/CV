@@ -70,7 +70,7 @@ Computational Social Science (especially Network Analysis and Natural Language P
 
 \footnotesize \ind Italics = student at time of publication \bigskip \normalsize
 
-\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong. Forthcoming. "Climate Change and Energy Futures: Theoretical Frameworks, Epistemological Issues, and Methodological Perspectives." Introduction to an edited special issue of *Society & Nature Resources.* 
+\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong. Forthcoming. "Climate Change and Energy Futures: Theoretical Frameworks, Epistemological Issues, and Methodological Perspectives." Introduction to an edited special issue of *Society & Natural Resources.* 
 
 \ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. Forthcoming. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." Under revision for Mario Small, Brea Perry, Bernice Pescosolido, and Edward Smith (Eds.) *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge: Cambridge University Press.
 
