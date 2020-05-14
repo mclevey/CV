@@ -60,19 +60,21 @@ Computational Social Science (especially Network Analysis and Natural Language P
 
 ## Books / Research Monographs
 
-\ind John McLevey. Forthcoming 2020. *Doing Computational Social Science*. London, UK: Sage. Research methods and data science series.
+\ind Mark Stoddart, Alice Mattoni, and John McLevey. 2020. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Palgrave MacMillan.
 
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Under contract with Palgrave MacMillan.
+\ind John McLevey. 2021. *Doing Computational Social Science*. London, UK: Sage. Research methods and data science series.
 
-\ind Harry Collins, Robert Evans, Martin Innes, Will Mason-Wilkes, Eric Kennedy, and John McLevey (Collins as lead author with others listed alphabetically). *Face-to-Face: Communication and the Liquidity of Knowledge*. Book manuscript under review.
+\ind HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *Face-to-Face: Communication and the Liquidity of Knowledge*. Book manuscript under review.
 
 ## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
 
 \footnotesize \ind Italics = student at time of publication \bigskip \normalsize
 
+\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong. Forthcoming. "Climate Change and Energy Futures: Theoretical Frameworks, Epistemological Issues, and Methodological Perspectives." Introduction to an edited special issue of *Society & Nature Resources.* 
+
 \ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. Forthcoming. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." Under revision for Mario Small, Brea Perry, Bernice Pescosolido, and Edward Smith (Eds.) *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge: Cambridge University Press.
 
-\ind Kathryn S. Plaisance, *Alexander V. Graham*, John McLevey, and *Janet Michaud*. Forthcoming. "Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science." *Synthese*.
+\ind Kathryn S. Plaisance, *Alexander V. Graham*, John McLevey, and *Janet Michaud*. 2019. "Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science." *Synthese*. 1-31.
 
 \ind Owen Gallupe, John McLevey, and Sarah Brown. 2018. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *Journal of Quantitative Criminology*. 1-23.
 
@@ -90,22 +92,9 @@ Computational Social Science (especially Network Analysis and Natural Language P
 
 \ind John McLevey. 2014. "Think Tanks, Funding, and the Politics of Policy Knowledge in Canada." *Canadian Review of Sociology / Revue canadienne de sociologie*. 51(1):54-75.
 
-<!-- ## Revise & Resubmit -->
+# Not Peer Reviewed
 
-<!-- ## Revise & Resubmit (Revisions Submitted) -->
-
-<!-- ## Journal Articles Under Review
- -->
-
-<!-- ## Articles In Progress -->
-
-<!-- \ind \emph{Alexander Graham}, John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. “Cognitive Diversity and the Production of High-Impact Science.” -->
-
-<!-- \ind Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. “How do Educational Innovations Diffuse and Persist?” -->
-
-<!-- \ind John McLevey, Mark Stoddart, and \emph{Yixi Yang}. “The Oil-Tourism Interface in International Media: A Systematic Comparison of Norway, Scotland, Iceland, Denmark, Greenland, and Newfoundland and Labrador.” -->
-
-<!-- \ind Kathryn Plaisance, John McLevey, and \emph{Janet Michaud}. “The Impact of Philosophy of Science in Scientific Domains: A Qualitative Study of Philosophers’ Experiences and Perceptions Regarding the Broader Impact of their Work.” -->
+\ind John McLevey. 2019. "[Epistemic and Evidential Cultures](https://methods.sagepub.com/base/download/FoundationEntry/epistemic-and-evidential-cultures)." Paul Atkinson, Sara Delamont, Richard Williams and Alex Cernat (eds).  *Sage Research Methods Foundations Online*. 
 
 # Policy Reports
 
@@ -115,11 +104,13 @@ Computational Social Science (especially Network Analysis and Natural Language P
 
 \ind David Tindall, John McLevey, and Nina Kolleck (editors). *Social Networks and Climate Change*. Special issue / section of *Social Networks*. Call for papers currently open.
 
-\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*.
+\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). 2020 *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*.
 
 # Research Grants
 
-\ind Total Research Grants since 2013: **$877,740**  \bigskip
+\ind Total Value of Research Grants since 2013: **$1,116,743** \bigskip
+
+\ind 2020-2025. John McLevey (PI), Anabel Quan-Haase (Co-Applicant), David Tindall (Co-Applicant), Darrin Durant (Collaborator), Deena Abul-Fottouh (Collaborator), Owen Gallupe (Collaborator), Martin Innes (Collaborator). "Disinformation, Democracy, and Online Political Deliberation." [SSHRC Insight Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx), $219,003 + $20,000 research supplement from the Department of Canadian Heritage Initiative for Digital Citizenship.
 
 \ind 2019. Janice Aurini, Allyson Stokes, **John McLevey**, Jessica Riztk, and Rob Gorbet. "Ed-Tech Connect: An Intersectoral Workshop on Education, Technology, and 21^st^ Century Labour." [SSHRC Connection Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-eng.aspx), $16,400 (plus matching funds).
 
