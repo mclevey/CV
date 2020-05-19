@@ -60,7 +60,7 @@ Computational Social Science (especially Network Analysis and Natural Language P
 
 ## Books / Research Monographs
 
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. 2020. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Palgrave MacMillan.
+\ind Mark Stoddart, Alice Mattoni, and John McLevey. 2021. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Palgrave MacMillan.
 
 \ind John McLevey. 2021. *Doing Computational Social Science*. London, UK: Sage. Research methods and data science series.
 
