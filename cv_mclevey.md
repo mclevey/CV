@@ -1,7 +1,7 @@
 ---
 title: "Dr. John McLevey"
 lhead: \href{http://www.johnmclevey.com}{John McLevey, PhD}
-rhead: "Updated April 16^th^, 2019"
+rhead: "Updated September 12^th^, 2020"
 mainfont: Minion Pro
 fontsize: 12
 ...
@@ -10,39 +10,31 @@ fontsize: 12
 \noindent University of Waterloo, Waterloo, ON, Canada  
 \noindent \href{http://www.johnmclevey.com}{johnmclevey.com} | [networkslab.org](http://networkslab.org)  
 \noindent john.mclevey@uwaterloo.ca  
-\noindent (519) 888-4567 ext. 31938 | (647) 921-2044  
+\noindent (647) 921-2044  
 \bigskip
 \noindent Citizenship: Canadian  
 
 # Appointments
 
-\ind 2019-Present. Associate Professor (with tenure), University of Waterloo
-[Department of Knowledge Integration](https://uwaterloo.ca/knowledge-integration/), [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)
-[Approved Doctoral Dissertation Supervisor (ADDS) Status](https://uwaterloo.ca/graduate-studies/about-graduate-studies/organization-graduate-studies#6)
+\ind 2019-Present. Associate Professor (with tenure), University of Waterloo. [Department of Knowledge Integration](https://uwaterloo.ca/knowledge-integration/), [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/). [Approved Doctoral Dissertation Supervisor (ADDS) Status](https://uwaterloo.ca/graduate-studies/about-graduate-studies/organization-graduate-studies#6).
 
-\ind 2013-2019. Assistant Professor, University of Waterloo
-[Department of Knowledge Integration](https://uwaterloo.ca/knowledge-integration/), [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)
-[Approved Doctoral Dissertation Supervisor (ADDS) Status](https://uwaterloo.ca/graduate-studies/about-graduate-studies/organization-graduate-studies#6)
+\ind 2013-2019. Assistant Professor, University of Waterloo. [Department of Knowledge Integration](https://uwaterloo.ca/knowledge-integration/), [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/). [Approved Doctoral Dissertation Supervisor (ADDS) Status](https://uwaterloo.ca/graduate-studies/about-graduate-studies/organization-graduate-studies#6).    
+
 
 # Affiliations
 
 \ind Spring 2019. Visiting Scholar, Department of Political and Social Sciences. [Scuola Normale Superiore](https://en.sns.it). Florence, Italy.
 
-\ind 2019-Present. Member of the Leadership Team. "Knowledge Development and Exchange Hub: Child and Youth Mental Health Promotion," Project Co-Leads Drs. Barb Riley and Janice Popp. Funded by the Public Health Agency of Canada.
-
-\ind 2018-Present. Forum on Science, Policy, and Society. Co-Organizer and Instructor for [Science Outside the Lab, North](http://www.sotlnorth.ca).
-
-\ind 2016-Present. Cross-appointed to the [Department of Geography and Environmental Management](https://uwaterloo.ca/geography-environmental-management/)
-
-\ind 2014-Present. Cross-appointed to the [School of Environment, Resources, and Sustainability](https://uwaterloo.ca/environment-resources-and-sustainability/)
-
 \ind 2014-Present. Affiliate Researcher, [Waterloo Institute for Complexity and Innovation](http://wici.ca/new/)
 
 \ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/)
 
+\ind 2019-Present. Member of the Leadership Team. "Knowledge Development and Exchange Hub: Child and Youth Mental Health Promotion," Project Co-Leads Drs. Barb Riley and Janice Popp. Funded by the Public Health Agency of Canada.
+
+\ind 2018-Present. Forum on Science, Policy, and Society. Co-Organizer and Instructor for [Science Outside the Lab, North](http://www.sotlnorth.ca).
+
 \ind 2014-2017. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)
 
-\ind 2013-Present. Cross-appointed to the [Department of Sociology and Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/)
 
 # Education
 
@@ -50,53 +42,68 @@ fontsize: 12
 
 \ind 2009. MA, Sociology, McMaster University. Hamilton, ON, Canada.  
 
-\ind 2008. BA Honors, Sociology, Political Science, Memorial University. St. John's, NL, Canada.  
+\ind 2008. BA Honours, Sociology, Political Science, Memorial University. St. John's, NL, Canada.  
 
 # Research Areas
 
-Computational Social Science (especially Network Analysis and Natural Language Processing / Computational Linguistics); Disinformation, Misinformation, and Democracy; Science and Democracy; Cognitive Sociology / Culture and Cognition; Environmental Sociology          
+Computational Social Science (especially natural language processing, computational text analysis, and machine learning); Political Sociology; Environmental Sociology; Sociology of Science; Culture and Cognition
 
 # Peer Reviewed Publications
 
+The table below provides a high-level overview of my peer-reviewed publications since 2013. Full citation information is provided below. In all subsections, \emph{student co-authors are indicated in italics}.
+
+| Type                                     | Count since 2013 |
+|:-----------------------------------------|:-----------------|
+| Books / Monographs                       | 3                |
+| Journal Articles and Reviewed Chapters   | 9                |
+| Peer Reviewed Chapters in Edited Volumes | 3                |
+| Edited Special Issues of Journals        | 2                |
+| Policy Reports / Research Reports        | 5                |
+| Works Translated and Republished         | 1                |
+| Manuscripts Currently Under Review       | 3                |
+| Non-Refereed Reviews                     | 2                |
+
 ## Books / Research Monographs
 
-\ind Mark Stoddart, Alice Mattoni, and John McLevey. 2021. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Palgrave MacMillan.
+1. John McLevey. 2021. *Doing Computational Social Science*. London, UK: Sage. Research methods and data science series.
+1. Mark Stoddart, Alice Mattoni, and John McLevey. 2021. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Palgrave MacMillan.
+1. HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *Face-to-Face: Communication and the Liquidity of Knowledge*. Being revised for MIT Press.
 
-\ind John McLevey. 2021. *Doing Computational Social Science*. London, UK: Sage. Research methods and data science series.
+## Peer Reviewed Journal Articles  
 
-\ind HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *Face-to-Face: Communication and the Liquidity of Knowledge*. Book manuscript under review.
+\ind Mark Stoddart, **John McLevey**, Vanessa Schweizer, and Catherine Wong. Forthcoming. "Climate Change and Energy Futures: Theoretical Frameworks, Epistemological Issues, and Methodological Perspectives." Introduction to an edited special issue of *Society & Natural Resources.* 
 
-## Peer Reviewed Journal Articles and Chapters in Peer Reviewed Edited Volumes
+\ind Kathryn S. Plaisance, *Alexander V. Graham*, **John McLevey**, and *Janet Michaud*. 2019. "Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science." *Synthese*. 1-31.
 
-\footnotesize \ind Italics = student at time of publication \bigskip \normalsize
+\ind Owen Gallupe, **John McLevey**, and Sarah Brown. 2018. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *Journal of Quantitative Criminology*. 1-23.
 
-\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong. Forthcoming. "Climate Change and Energy Futures: Theoretical Frameworks, Epistemological Issues, and Methodological Perspectives." Introduction to an edited special issue of *Society & Natural Resources.* 
+\ind \textbf{John McLevey}, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. 2018. "Interdisciplinarity and Insularity in the Diffusion of Knowledge: An Analysis of Disciplinary Boundaries Between Philosophy of Science and the Sciences." *Scientometrics*. 117(1):331-349.
 
-\ind David Tindall, Mark Stoddart, John McLevey, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. Forthcoming. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." In Mario Small, Brea Perry, Bernice Pescosolido, and Edward Smith (Eds.) *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge: Cambridge University Press.
+\ind \textbf{John McLevey} and *Reid McIlroy-Young*. 2017. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Network Analysis, and Science of Science." *The Journal of Informetrics*. 11: 176-197.
 
-\ind Kathryn S. Plaisance, *Alexander V. Graham*, John McLevey, and *Janet Michaud*. 2019. "Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science." *Synthese*. 1-31.
-
-\ind Owen Gallupe, John McLevey, and Sarah Brown. 2018. "Selection or Influence? A Meta-Analysis of the Association between Peer and Personal Offending." *Journal of Quantitative Criminology*. 1-23.
-
-\ind John McLevey, *Alexander Graham*, *Reid McIlroy-Young*, *Pierson Browne*, and Kathryn S. Plaisance. 2018. "Interdisciplinarity and Insularity in the Diffusion of Knowledge: An Analysis of Disciplinary Boundaries Between Philosophy of Science and the Sciences." *Scientometrics*. 117(1):331-349.
-
-\ind John McLevey and *Ryan Deschamps*. 2018. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE.
-
-\ind John McLevey, Allyson Stokes, and *Amelia Howard*.  2018. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press.
-
-\ind John McLevey and *Reid McIlroy-Young*. 2017. "Introducing *metaknowledge*: Software for Computational Research in Information Science, Network Analysis, and Science of Science." *The Journal of Informetrics*. 11: 176-197.
-
-\ind Allyson Stokes and John McLevey (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 53(2):176–202.
+\ind Allyson Stokes and **John McLevey** (equal authors). 2016. "From Porter to Bourdieu: The Evolving Specialty Structure of English Canadian Sociology, 1966- 2014." *Canadian Review of Sociology / Revue canadienne de sociologie*. 53(2):176–202.
 
 \ind John McLevey. 2015. "Understanding Policy Research in Liminal Spaces: Think Tank Responses to Diverging Principles of Legitimacy." *Social Studies of Science*. 45(2):270-293.
 
 \ind John McLevey. 2014. "Think Tanks, Funding, and the Politics of Policy Knowledge in Canada." *Canadian Review of Sociology / Revue canadienne de sociologie*. 51(1):54-75.
 
-# Not Peer Reviewed
+# Peer Reviewed Book Chapters in Edited Volumes
 
-\ind John McLevey. 2019. "[Epistemic and Evidential Cultures](https://methods.sagepub.com/base/download/FoundationEntry/epistemic-and-evidential-cultures)." Paul Atkinson, Sara Delamont, Richard Williams and Alex Cernat (eds).  *Sage Research Methods Foundations Online*. 
+\ind David Tindall, Mark Stoddart, **John McLevey**, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. Forthcoming. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." In Mario Small, Brea Perry, Bernice Pescosolido, and Edward Smith (Eds.) *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge: Cambridge University Press.
 
-# Policy Reports
+\ind \textbf{John McLevey}, Allyson Stokes, and *Amelia Howard*.  2018. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press. **[**This chapter is being translated into French and published in Franck Poupeau and Amín Pérez (eds.) 2021. *Bourdieu and the Americas*. Institut des Hautes Etudes de Amerique Latine Presses.**]**
+
+\ind \textbf{John McLevey} and *Ryan Deschamps*. 2018. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE.
+
+# Policy & Research Reports
+
+\ind \textbf{John McLevey}, \emph{Pierson Browne}, \emph{Tyler Crick}, and Jillian Anderson. 2020. "Applied Computer Vision for Disinformation Research: An Analysis of Twitter's Elections Integrity Data on Russian and Chinese Information Operations."
+
+\ind \textbf{John McLevey}, \emph{Pierson Browne}, and \emph{Tyler Crick}. 2020. "Online Deception & Dynamic Narrative Networks." Research report for the Crime & Security Research Institute, Cardiff University.     
+
+\ind Gorbet, Rob, Janice Aurini, Jessica Risk, Allyson Stokes, **John McLevey**, and Nicole Figueiredo. 2020. “COVID-19 Pandemic and Canadian Schooling.” Prepared for Education Onward Council in consultation with Fair-Chance Learning. 
+
+\ind Aurini, Janice, Rob Gorbet, **John McLevey**, Jessica Rizk, Allyson Stokes (Alphabetical). 2019. “White Paper on Ed-Tech Connect: An Intersectoral Workshop on Education, Technology, and 21st Century Labour.” Funded by SSHRC Connections Grant.
 
 \ind Janice Aurini, John McLevey, Allyson Stokes, and Rob Gorbet. 2017. "Classroom Robotics and Acquisition of 21st Century Competencies: An Action Research Study of Nine Ontario School Boards." Report for the Council of Ontario Directors of Education (CODE) and the Ministry of Education, Ontario.
 
@@ -105,6 +112,20 @@ Computational Social Science (especially Network Analysis and Natural Language P
 \ind David Tindall, John McLevey, and Nina Kolleck (editors). *Social Networks and Climate Change*. Special issue / section of *Social Networks*. Call for papers currently open.
 
 \ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). 2020 *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*.
+
+# Reviews and Other Non-Refereed Publications
+
+\ind John McLevey. 2019. "[Epistemic and Evidential Cultures](https://methods.sagepub.com/base/download/FoundationEntry/epistemic-and-evidential-cultures)." Paul Atkinson, Sara Delamont, Richard Williams and Alex Cernat (eds).  *Sage Research Methods Foundations Online*. 
+
+\ind John McLevey. 2019. Review of David Johnson (2017) *A Fractured Profession: Commercialization and Conflict in Academic Science*. Baltimore: Johns Hopkins University Press. Review published in *American Journal of Sociology*. 125(1).
+
+# Manuscripts Under Review
+
+\ind \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}, and Darrin Durant. "Word Emeddings and the Structural and Cultural} Foundations of Democracy and Autocracy, 1900-2020." Under review at *Canadian Review of Sociology*.
+
+\ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Information Complementarity and Control in Collaboration Networks: Reconsidering Brokerage Dynamics with Evidence from 21 Scientific Fields." Under review at *Social Networks*.
+
+\ind David Tindall, \emph{Yasmin Koop-Monteiro}, \emph{Alexander Graham}, and \textbf{John McLevey}. "Social Network Analysis as Big Data and Computational Social Science." Under review at *Canadian Review of Sociology*.
 
 # Research Grants
 
@@ -136,8 +157,6 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2013 University of Waterloo, Faculty Research Startup Grant, $15,000.
 
-<!-- ## Grant Applications Under Review -->
-
 # Teaching Grants
 
 \ind 2015-2016 John McLevey (PI), LITE Seed Grant, Center for Teaching Excellence, University of Waterloo, "A Data-Driven and Interactive Approach to Enhancing Student Learning about Disciplinary and Interdisciplinary Knowledge Production," $4,765.20.
@@ -154,39 +173,33 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2009–2010. Ontario Graduate Fellowship, $12,000. Sociology Department Top Up, $3,000.
 
-<!-- \ind 2012. Yates Scholarship, McMaster University, $500.   -->
-
-<!-- \ind 2012. McMaster Graduate Student Association Travel Grant, $500.   -->
-
-<!-- \ind 2011. McMaster Graduate Student Association Travel Grant, $500.   -->
-
 \ind 2009. University Gold Medal for Academic Excellence in Sociology, Memorial University.
 
-<!-- \ind 2008. MA Graduate Scholarship, McMaster University, $5,000.   -->
-
 # Policy Research Contracts
+
+\ind 2020. John McLevey. "Applied Computer Vision and Ensemble Machine Learning for Disinformation Research." Crime & Security Research Institute, Cardiff University.
+
+\ind 2020. John McLevey. "Automated Detection of ‘Bursty’ Concepts, Claims, and Narratives in Social Media Data." Crime & Security Research Institute, Cardiff University.
 
 \ind 2016-2017. Janice Aurini (Co-PI), John McLevey (Co-PI), Rob Gorbet (Co-Applicant). "Assessing the Impact of Classroom-Integrated Robotics on the Cultivation of 21^st^ Century Competencies." Contract with Council of Ontario Directors of Education (CODE) for the Ontario Ministry of Education.
 
 # Open Source Research Software
 
+\ind \texttt{bnet}: A Python implementation of probabilistic models for belief network analysis, relational class analysis, and correlational class analysis (all network-based methods for analyzing shared cultural schemas from survey data). Developed by John McLevey. Currently in beta and under active development. 
+
 \ind \href{http://networkslab.org/metaknowledge/}{\texttt{metaknowledge}}: A Python package for quantitative and social networks research in the sociology of science and information science. Developed by Reid McIlroy-Young and John McLevey. First released in 2015. Under active development. Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).
 
-\ind \href{http://www.johnmclevey.com/software/}{\texttt{Nate}}: A Python package for network-based text analysis. Developed by John McLevey. Under active development. Website and documentation: Coming soon...
+\ind \href{http://www.johnmclevey.com/software/}{\texttt{Nate}}: A Python package for network-based text analysis. Developed by John McLevey, Pierson Browne, and Tyler Crick. Under active development. Website and documentation: [http://networkslab.org/nate/](http://networkslab.org/nate/).
 
-\ind \href{http://www.johnmclevey.com/software/}{\texttt{pdpp}}: A Python package for principled data processing, Python. Developed by Pierson Browne, Tyler Crick, Rachel Wood, and John McLevey. First released in 2015. Under active development. Website and documentation: Coming soon...
+\ind \href{http://www.johnmclevey.com/software/}{\texttt{pdpp}}: A Python package for principled data processing, Python. Developed by Pierson Browne, Tyler Crick, Rachel Wood, and John McLevey. First released in 2015. Under active development. Website: [https://github.com/UWNETLAB/pdpp](https://github.com/UWNETLAB/pdpp).
 
-\ind \href{http://www.johnmclevey.com/software/}{\texttt{divsim}}: A Python package computing measures of diversity and similarity in networks discussed in the paper by McLevey, Graham, Browne, and Crick. Developed by Tyler Crick, Alexander Graham, and John McLevey. Under active development. Website and documentation: Coming soon...
-
-\ind \href{http://networkslab.org/tidyextractors/}{\texttt{tidyextractors}}: A Python package for extracting quantitative datasets from source code repositories, email mbox files, and social media APIs (currently Twitter). Developed and maintained by NetLab RA Joel Becker with NetLab support. Website and documentation: [http://networkslab.org/tidyextractors/](http://networkslab.org/tidyextractors/)
+\ind \href{http://networkslab.org/tidyextractors/}{\texttt{tidyextractors}}: A Python package for extracting quantitative datasets from source code repositories, email mbox files, and social media APIs (currently Twitter). Developed and maintained by NetLab RA Joel Becker with NetLab support. Website and documentation: [http://networkslab.org/tidyextractors/](http://networkslab.org/tidyextractors/).
 
 \ind Contributions to Jonathan de Bruin's Python package \href{https://github.com/J535D165/recordlinkage}{\texttt{recordlinkage}}: A Python package for linking records across multiple data sources when there is no unique ID available. NetLab contributions are focused on implementing new comparison and fusion algorithms that are necessary for advancing my grant-funded empirical research on the structure and evolution of cross-sectoral collaboration networks in science and technology. Most NetLab contributions to \emph{recordlinkage} are implemented by Joel Becker (RA) and occasionally Jillian Anderson (RA), and then submitted to Jonathan de Bruin as pull requests.
 
 \ind \href{http://networkslab.org/gitnet/}{\texttt{gitnet}}: A Python package for mining source code repository and mailing list data and generating network datasets. Developed by Joel Becker, Jillian Anderson, Steve McColl, and John McLevey. First released in 2016. \emph{gitnet} is still publicly available and functional, but development efforts and maintenance have shifted to \emph{tidyextractors} and other Python packages. Website and documentation: [http://networkslab.org/gitnet/](http://networkslab.org/gitnet/)
 
 # Op-Eds, Public Talks, Non-Reviewed Writing
-
-\ind John McLevey. 2019. Review of David Johnson (2017) *A Fractured Profession: Commercialization and Conflict in Academic Science*. Baltimore: Johns Hopkins University Press. Review published in *American Journal of Sociology*. 125(1).
 
 \ind Allyson Stokes and John McLevey. 2017. "The Cultural Sociology Research Cluster in the Canadian Sociological Association and the CSA 2017 Annual Meeting." Newsletter of the Culture Section of the American Sociological Association.
 
@@ -204,7 +217,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind July 2019. John McLevey. "What do open online communities of specialists need tacit knowledge for anyway?" SEESHOP 2019. Helsinki, Finland.
 
-\ind June 2019. John McLevey, *Alexander Graham*, *Tyler Crick*, and *Pierson Browne* (reverse alphabetical). "Measuring Social and Cognitve Distance in Collaboration Networks Constructed From Observational Data." Advances in Socio-Semantic Network Analysis session, Sunbelt. Montréal QC, Canada.
+\ind June 2019. John McLevey, *Alexander Graham*, *Tyler Crick*, and *Pierson Browne* (reverse alphabetical). "Measuring Social and Cognitive Distance in Collaboration Networks Constructed From Observational Data." Advances in Socio-Semantic Network Analysis session, Sunbelt. Montréal QC, Canada.
 
 \ind June 2019. Janice Aurini, Allyson Stokes, Jessica Rizk, John McLevey, and Rob Gorbet. "How Do Educational Innovations Diffuse and Persist?" Networked Innovation 1 session, Sunbelt. Montréal QC, Canada.
 
