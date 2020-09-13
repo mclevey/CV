@@ -123,7 +123,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Manuscripts Under Review
 
-\ind \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}, and Darrin Durant. "Word Emeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." Under review at *Canadian Review of Sociology*.
+\ind \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}, and Darrin Durant. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." Under review at *Canadian Review of Sociology*.
 
 \ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Information Complementarity and Control in Collaboration Networks: Reconsidering Brokerage Dynamics with Evidence from 21 Scientific Fields." Under review at *Social Networks*.
 
@@ -161,7 +161,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Teaching Grants
 
-\ind 2015-2016 John McLevey (PI), LITE Seed Grant, Center for Teaching Excellence, University of Waterloo, "A Data-Driven and Interactive Approach to Enhancing Student Learning about Disciplinary and Interdisciplinary Knowledge Production," $4,765.20.
+\ind 2015-2016 John McLevey (PI), LITE Seed Grant, Centre for Teaching Excellence, University of Waterloo, "A Data-Driven and Interactive Approach to Enhancing Student Learning about Disciplinary and Interdisciplinary Knowledge Production," $4,765.20.
 
 # Awards and Selected Scholarships
 
