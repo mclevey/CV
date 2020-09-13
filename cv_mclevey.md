@@ -340,11 +340,11 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 ## Courses Designed, Developed, and Offered since 2013
 
 \noindent Computational Social Science (undergraduate online, graduate online)       
-\noindent Research Methods (undergraduate lecture)    
+\noindent Research Design and Methods (undergraduate lecture)    
 \noindent "Big Data" and Social Science Research (undergraduate seminar)    
+\noindent Data Visualization (undergraduate seminar)    
 \noindent KI Thesis / Senior Research Project    
 \noindent The Art & Science of Learning (undergraduate lecture)    
-\noindent Data Visualization (undergraduate seminar)    
 \noindent Sociology of Science and Technology (undergraduate seminar)    
 \noindent Open Science and Technology (undergraduate seminar)    
 \noindent Creativity and Innovation (undergraduate lecture)    
@@ -372,15 +372,15 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 **Alexander Graham** (supervisor), **Tyler Crick** (supervisor), **Amelia Howard** (supervisor), **Pierson Browne** (interim supervisor for 2019, committee member, supervisor Jen Whitson)
 
-### As Committee Member (8 Students)
+### As Committee Member (6 Students)
 
-**Brittany Etmanski** (committee member, supervisor Owen Gallupe), **Julie Cook** (committee member, supervisor Jennifer Lynes), **Rod Missaghian** (committee member, supervisor Janice Aurini), **Yixi Yang** (committee member, supervisor Mark Stoddart at Memorial University), **Adam Howe** (committee member, supervisor David Tindall at University of British Columbia), **François Lachapelle** (committee member, supervisor David Tindall at University of British Columbia), **Peter Duggins** (committee member, supervisor Chris Eliasmith, Systems Design Engineering), **Moutasem Zakkar** (committee member, supervisors Craig Janes and Plinio Morita, School of Public Health and Health Systems)
+**Julie Cook** (committee member, supervisor Jennifer Lynes), **Rod Missaghian** (committee member, supervisor Janice Aurini), **Yixi Yang** (committee member, supervisor Mark Stoddart at Memorial University), **Adam Howe** (committee member, supervisor David Tindall at University of British Columbia), **François Lachapelle** (committee member, supervisor David Tindall at University of British Columbia), **Peter Duggins** (committee member, supervisor Chris Eliasmith, Systems Design Engineering)
 
 ## PhD Dissertations, Successfully Defended
 
-### As Committee Member (2 Students)
+### As Committee Member (4 Students)
 
-**Michael Clarke** (committee member -- defended in 2016), **Noorin Manji** (committee member -- defended in 2018)
+**Brittany Etmanski** (committee member, supervisor Owen Gallupe), **Moutasem Zakkar** (committee member, supervisors Craig Janes and Plinio Morita, School of Public Health and Health Systems), **Michael Clarke** (committee member -- defended in 2016), **Noorin Manji** (committee member -- defended in 2018)
 
 ## Master's Theses, Successfully Defended (7 Students)
 
@@ -392,7 +392,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 # Other Teaching and Graduate Student Mentoring
 
-\ind 2018-Present. Co-Applicantnstructor (with Eric Kennedy) for [Science Outside the Lab (SOtL) North](http://sotlnorth.ca). A week long intensive course in science policy held annually in Ottawa and Montréal. Each course cohort is ~ 14 graduate students from science and engineering disciplines across Canada.
+\ind 2018-Present. Co-Instructor (with Eric Kennedy) for [Science Outside the Lab (SOtL) North](http://sotlnorth.ca). A week long intensive course in science policy held annually in Ottawa and Montréal. Each course cohort is ~ 14 graduate students from science and engineering disciplines across Canada.
 
 ## Research Methods Workshops (Designed and Instructed)
 
@@ -446,10 +446,13 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ### Peer Reviewing (Journal Articles)
 
+\ind \emph{American Journal of Sociology}   
+
+\ind \emph{Canadian Review of Sociology}    
+
+\ind \emph{Social Networks}   
 
 \ind \emph{Science and Public Policy}    
-
-\ind \emph{American Journal of Sociology}    
 
 \ind \emph{Scientometrics}    
 
@@ -527,7 +530,6 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## McMaster University
 
-
 \ind 2011–2012 Selection Committee member for two tenure-track hires in Sociology    
 
 \ind 2010–2012 Chair of Graduate Student Caucus    
@@ -554,6 +556,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind Hierarchical Linear Models. Inter-University Consortium for Political and Social Research (ICPSR), held at University of Massachusetts, Amherst. June, 2011.
 
+
+<!--
 # Research and Teaching Assistantships
 
 \ind 2010–2013 *Research Assistant* for Neil McLaughlin, Sociology, McMaster University. "Shaping Opinion in the Public Sphere: Public Intellectual Authority in the Journalistic Field." Funded by SSHRC Standard Research Grant.
@@ -561,11 +565,13 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind 2009–2010 *Teaching Assistant* for Classical and Contemporary Sociological Theory. Neil McLaughlin, Sociology, McMaster University.
 
 \ind 2008–2009 *Research Assistant* for Neil McLaughlin, Sociology, McMaster University. "Professors as Public Intellectuals." Funded by SSHRC Standard Research Grant.
+-->
 
 # Professional Memberships
 
 \noindent Canadian Sociological Association, American Sociological Association, International Network for Social Network Analysis, Society for Social Studies of Science, Sociologists for Women in Society
 
+<!--
 # References
 
 \ind Harry Collins, Fellow of the British Academy, Distinguished Research Professor, School of Social Sciences, Cardiff University, <CollinsHM@cf.ac.uk>
@@ -581,3 +587,5 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind Tina Fetner, Associate Professor, Sociology, McMaster University, <tina.fetner@mcmaster.ca>
 
 \ind Scott Davies, Professor, Leadership, Higher and Adult Education, University of Toronto, OISE, <scott.davies@utoronto.ca>
+
+-->
