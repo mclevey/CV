@@ -50,7 +50,7 @@ Computational Social Science; Social Networks; Political Sociology; Environmenta
 
 # Peer Reviewed Publications
 
-The table below provides a high-level overview of my peer-reviewed publications since 2013. Full citation information is provided below. In all subsections, \emph{student co-authors are indicated in italics}.
+The table below provides a high-level overview of my peer-reviewed publications since 2013. Full citation information is provided below. In all subsections, \emph{student co-authors are indicated in italics}. Of the two edited special issues of journals, one (*Social Networks*, on the theme of social networks and climate change) is still in progress.
 
 | Type                                     | Count since 2013 |
 |:-----------------------------------------|:-----------------|
