@@ -56,7 +56,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 |:-----------------------------------------|:-----------------|
 | Books / Monographs                       | 3                |
 | Journal Articles and Reviewed Chapters   | 9                |
-| Peer Reviewed Chapters in Edited Volumes | 3                |
+| Peer Reviewed Chapters in Edited Volumes | 4                |
 | Edited Special Issues of Journals        | 2                |
 | Policy Reports / Research Reports        | 5                |
 | Works Translated and Republished         | 1                |
@@ -88,6 +88,8 @@ The table below provides a high-level overview of my peer-reviewed publications 
 \ind John McLevey. 2014. "Think Tanks, Funding, and the Politics of Policy Knowledge in Canada." *Canadian Review of Sociology / Revue canadienne de sociologie*. 51(1):54-75.
 
 # Peer Reviewed Book Chapters in Edited Volumes
+
+\ind John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. Forthcoming. "Reproducibility, Transparency, and Principled Data Processing." In Uwe Engel and Anabel Quan-Haase (eds.) *Handbook of Computational Social Science*. Routledge.
 
 \ind David Tindall, Mark Stoddart, **John McLevey**, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. Forthcoming. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." In Mario Small, Brea Perry, Bernice Pescosolido, and Edward Smith (Eds.) *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge: Cambridge University Press.
 
