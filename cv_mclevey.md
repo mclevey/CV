@@ -99,7 +99,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Policy & Research Reports
 
-\ind \textbf{John McLevey}, \emph{Pierson Browne}, \emph{Tyler Crick}, and Jillian Anderson. 2020. "Applied Computer Vision for Disinformation Research: An Analysis of Twitter's Elections Integrity Data on Russian and Chinese Information Operations."
+\ind \textbf{John McLevey}, \emph{Pierson Browne}, \emph{Tyler Crick}, and Jillian Anderson. 2020. "Applied Computer Vision for Disinformation Research: An Analysis of Twitter's Elections Integrity Data on Russian and Chinese Information Operations." Research report for the Crime & Security Research Institute, Cardiff University.
 
 \ind \textbf{John McLevey}, \emph{Pierson Browne}, and \emph{Tyler Crick}. 2020. "Online Deception & Dynamic Narrative Networks." Research report for the Crime & Security Research Institute, Cardiff University.     
 
