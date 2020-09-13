@@ -46,7 +46,7 @@ fontsize: 12
 
 # Research Areas
 
-Computational Social Science (especially natural language processing, computational text analysis, and machine learning); Political Sociology; Environmental Sociology; Sociology of Science; Culture and Cognition
+Computational Social Science; Social Networks; Political Sociology; Environmental Sociology; Sociology of Science; Culture and Cognition
 
 # Peer Reviewed Publications
 
