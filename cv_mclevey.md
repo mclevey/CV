@@ -422,7 +422,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ### Conference Session Organizing
 
-\ind 2020. Sessions on disinformation, computational methods, climate change, and social movements at the 2020 Sunbelt meetings in Paris, France  
+\ind 2020. Sessions on disinformation, computational methods, climate change, and social movements at the 2020 Sunbelt meetings in Paris, France (held remotely) 
 
 \ind 2019. Sessions for *Social Networks* Research Cluster, CSA   
 
