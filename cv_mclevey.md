@@ -516,7 +516,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ### Peer Reviewing (Other)
 
-\ind 2020. Chapter for Luke Sloan and Anabel Quan-Haase (eds). *The SAGE Handbook for Social Media Research Methods*, 2^nd edition. London: Sage.   
+\ind 2020. Chapter for Luke Sloan and Anabel Quan-Haase (eds). *The SAGE Handbook for Social Media Research Methods*, 2^nd^ edition. London: Sage.   
 
 \ind 2020. Sage Campus. (Online research design classes)         
 
