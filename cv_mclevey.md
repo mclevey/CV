@@ -129,7 +129,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind David Tindall, \emph{Yasmin Koop-Monteiro}, \emph{Alexander Graham}, and \textbf{John McLevey}. "Social Network Analysis as Big Data and Computational Social Science." Under review at *Canadian Review of Sociology*.
 
-\ind Kathryn S. Plaisance, *Janet Michaud*, and John McLevey. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains." Minor revisions, *Synthese*. 
+\ind Kathryn S. Plaisance, *Janet Michaud*, and **John McLevey**. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains." Minor revisions, *Synthese*. 
 
 # Research Grants
 
