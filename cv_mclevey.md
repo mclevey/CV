@@ -341,6 +341,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Courses Designed, Developed, and Offered since 2013
 
+\noindent Bullshit, Bias, and Bad Arguments (undegraduate online)     
 \noindent Computational Social Science (undergraduate online, graduate online)       
 \noindent Research Design and Methods (undergraduate lecture)    
 \noindent "Big Data" and Social Science Research (undergraduate seminar)    
