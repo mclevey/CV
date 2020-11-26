@@ -67,7 +67,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 1. John McLevey. 2021. *Doing Computational Social Science*. London, UK: Sage. Research methods and data science series.
 1. Mark Stoddart, Alice Mattoni, and John McLevey. 2021. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Palgrave MacMillan.
-1. HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *Face-to-Face: Communication and the Liquidity of Knowledge*. Being revised for MIT Press.
+1. HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *Face-to-Face: Communication and the Making of Knowledge*. Being revised for MIT Press.
 
 ## Peer Reviewed Journal Articles  
 
