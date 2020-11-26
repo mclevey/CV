@@ -60,7 +60,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 | Edited Special Issues of Journals        | 2                |
 | Policy Reports / Research Reports        | 5                |
 | Works Translated and Republished         | 1                |
-| Manuscripts Currently Under Review       | 3                |
+| Manuscripts Currently Under Review       | 4                |
 | Non-Refereed Reviews                     | 2                |
 
 ## Books / Research Monographs
