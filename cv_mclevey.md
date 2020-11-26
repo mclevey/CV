@@ -372,52 +372,52 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ### As Supervisor (4 Students)
 
-\noindent - Alexander Graham     
-\noindent - Tyler Crick      
-\noindent - Amelia Howard      
-\noindent - Pierson Browne       
+\noindent - Pierson Browne (supervisor, in progress)       
+\noindent - Alexander Graham (supervisor, in progress)      
+\noindent - Tyler Crick (supervisor, in progress)       
+\noindent - Amelia Howard (supervisor, in progress)       
 
 ### As Committee Member (6 Students)
 
 \noindent - Julie Cook (committee member, supervisor Jennifer Lynes)    
-\noindent - Yixi Yang (committee member, supervisor Mark Stoddart at Memorial University)     
-\noindent - Adam Howe (committee member, supervisor David Tindall at University of British Columbia)     
-\noindent - Yasmin Koop-Monteiro (committee member, supervisor David Tindall at University of British Columbia)     
-\noindent - François Lachapelle (committee member, supervisor David Tindall at University of British Columbia)     
+\noindent - Yixi Yang (committee member, supervisor Mark Stoddart - Memorial University)     
+\noindent - Adam Howe (committee member, supervisor David Tindall - UBC)     
+\noindent - Yasmin Koop-Monteiro (committee member, supervisor David Tindall - UBC)     
+\noindent - François Lachapelle (committee member, supervisor David Tindall - UBC)     
 \noindent - Peter Duggins (committee member, supervisor Chris Eliasmith, Systems Design Engineering)     
 
 ## PhD Dissertations, Successfully Defended
 
-### As Committee Member (4 Students)
+### As Committee Member (5 Students)
 
-\noindent - Rod Missaghian (committee member, supervisor Janice Aurini)   
-\noindent - Brittany Etmanski (committee member, supervisor Owen Gallupe)   
-\noindent - Moutasem Zakkar (committee member, supervisors Craig Janes and Plinio Morita, School of Public   Health and Health Systems) 
-\noindent - Michael Clarke (committee member, supervisor Kieran Bonner<!--  -- defended in 2016 -->)   
-\noindent - Noorin Manji (committee member, supervisor Lorne Dawson<!--  -- defended in 2018 -->)  
+\noindent - Rod Missaghian (committee member, supervisor Janice Aurini, defended 2020)   
+\noindent - Moutasem Zakkar (committee member, supervisors Craig Janes and Plinio Morita, defended 2020) 
+\noindent - Brittany Etmanski (committee member, supervisor Owen Gallupe, defended 2019)   
+\noindent - Noorin Manji (committee member, supervisor Lorne Dawson, defended 2018)  
+\noindent - Michael Clarke (committee member, supervisor Kieran Bonner, defended 2016)   
 
 ## Master's Theses, Successfully Defended (7 Students)
 
-\noindent - Emerson LaCroix (committee member, supervisor Janice Aurini)   
-\noindent - Sarah Tang (committee member, supervisor Simron Singh)   
+\noindent - Emerson LaCroix (committee member, supervisor Janice Aurini, defended 2018)   
+\noindent - Sarah Tang (committee member, supervisor Simron Singh, defended 2018)   
 \noindent - Alexander Graham (supervisor, defended 2017)   
 \noindent - Nicholas Brandon, MD (committee member, supervisor Shannon Majowicz, defended 2018)   
-\noindent - Junyi Wang (committee member, supervisor Derek Robinson, defended in 2017)   
+\noindent - Junyi Wang (committee member, supervisor Derek Robinson, defended 2017)   
 \noindent - Stuart Anderson (reader, supervisor Götz Hoeppe, defended 2017)   
 \noindent - Chen Chen (reader, supervisor Peter Johnson, defended 2016)  
 
-## Undergraduate Senior Honors Theses (9 Students)
+## Undergraduate Senior Honors Theses (10 Students)
 
-- **Harrison Lobb** (in progress)   
-- **Jason Kurian** (completed 2019)    
-- **Rachel Wood** (completed 2018)     
-- **Jessilyn Wolfe** (completed 2018)    
-- **Jillian Anderson** (completed 2017)     
-- **Julia Yaroshinsky** (completed 2016)     
-- **Tiffany Lin** (completed 2015)     
-- **Benjamin Carr** (completed 2014)     
-- **Chelsea Mills** (completed 2014)         
-- **Christina Minji Chung** (completed 2014)       
+\noindent - Harrison Lobb (in progress)   
+\noindent - Jason Kurian (completed 2019)    
+\noindent - Rachel Wood (completed 2018)     
+\noindent - Jessilyn Wolfe (completed 2018)    
+\noindent - Jillian Anderson (completed 2017)     
+\noindent - Julia Yaroshinsky (completed 2016)     
+\noindent - Tiffany Lin (completed 2015)     
+\noindent - Benjamin Carr (completed 2014)     
+\noindent - Chelsea Mills (completed 2014)         
+\noindent - Christina Minji Chung (completed 2014)       
 
 # Other Teaching and Graduate Student Mentoring
 
