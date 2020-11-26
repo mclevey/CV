@@ -372,39 +372,39 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ### As Supervisor (4 Students)
 
-- **Alexander Graham**   
-- **Tyler Crick**    
-- **Amelia Howard**    
-- **Pierson Browne**     
+\noindent **Alexander Graham**     
+\noindent **Tyler Crick**      
+\noindent **Amelia Howard**      
+\noindent **Pierson Browne**       
 
 ### As Committee Member (6 Students)
 
-- **Julie Cook** (committee member, supervisor Jennifer Lynes)  
-- **Yixi Yang** (committee member, supervisor Mark Stoddart at Memorial University)   
-- **Adam Howe** (committee member, supervisor David Tindall at University of British Columbia)   
-- **Yasmin Koop-Monteiro** (committee member, supervisor David Tindall at University of British Columbia)   
-- **François Lachapelle** (committee member, supervisor David Tindall at University of British Columbia)   
-- **Peter Duggins** (committee member, supervisor Chris Eliasmith, Systems Design Engineering)   
+\noindent **Julie Cook** (committee member, supervisor Jennifer Lynes)    
+\noindent **Yixi Yang** (committee member, supervisor Mark Stoddart at Memorial University)     
+\noindent **Adam Howe** (committee member, supervisor David Tindall at University of British Columbia)     
+\noindent **Yasmin Koop-Monteiro** (committee member, supervisor David Tindall at University of British Columbia)     
+\noindent **François Lachapelle** (committee member, supervisor David Tindall at University of British Columbia)     
+\noindent **Peter Duggins** (committee member, supervisor Chris Eliasmith, Systems Design Engineering)     
 
 ## PhD Dissertations, Successfully Defended
 
 ### As Committee Member (4 Students)
 
-- **Rod Missaghian** (committee member, supervisor Janice Aurini) 
-- **Brittany Etmanski** (committee member, supervisor Owen Gallupe) 
-- **Moutasem Zakkar** (committee member, supervisors Craig Janes and Plinio Morita, School of Public Health and Health Systems) 
-- **Michael Clarke** (committee member, supervisor Kieran Bonner<!--  -- defended in 2016 -->) 
-- **Noorin Manji** (committee member, supervisor Lorne Dawson<!--  -- defended in 2018 -->)
+\noindent **Rod Missaghian** (committee member, supervisor Janice Aurini)   
+\noindent **Brittany Etmanski** (committee member, supervisor Owen Gallupe)   
+\noindent **Moutasem Zakkar** (committee member, supervisors Craig Janes and Plinio Morita, School of Public   Health and Health Systems) 
+\noindent **Michael Clarke** (committee member, supervisor Kieran Bonner<!--  -- defended in 2016 -->)   
+\noindent **Noorin Manji** (committee member, supervisor Lorne Dawson<!--  -- defended in 2018 -->)  
 
 ## Master's Theses, Successfully Defended (7 Students)
 
-- **Emerson LaCroix** (committee member, supervisor Janice Aurini) 
-- **Sarah Tang** (committee member, supervisor Simron Singh) 
-- **Alexander Graham** (supervisor, defended 2017) 
-- **Nicholas Brandon, MD** (committee member, supervisor Shannon Majowicz, defended 2018) 
-- **Junyi Wang** (committee member, supervisor Derek Robinson, defended in 2017) 
-- **Stuart Anderson** (reader, supervisor Götz Hoeppe, defended 2017) 
-- **Chen Chen** (reader, supervisor Peter Johnson, defended 2016)
+\noindent **Emerson LaCroix** (committee member, supervisor Janice Aurini)   
+\noindent **Sarah Tang** (committee member, supervisor Simron Singh)   
+\noindent **Alexander Graham** (supervisor, defended 2017)   
+\noindent **Nicholas Brandon, MD** (committee member, supervisor Shannon Majowicz, defended 2018)   
+\noindent **Junyi Wang** (committee member, supervisor Derek Robinson, defended in 2017)   
+\noindent **Stuart Anderson** (reader, supervisor Götz Hoeppe, defended 2017)   
+\noindent **Chen Chen** (reader, supervisor Peter Johnson, defended 2016)  
 
 ## Undergraduate Senior Honors Theses (9 Students)
 
