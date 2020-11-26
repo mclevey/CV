@@ -125,9 +125,11 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}, and Darrin Durant. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." Under review at *Canadian Review of Sociology*.
 
-\ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Information Complementarity and Control in Collaboration Networks: Reconsidering Brokerage Dynamics with Evidence from 21 Scientific Fields." Under review at *Social Networks*.
+\ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Information Complementarity and Control: Reconsidering Structural Holes Theory with Evidence from 21 Scientific Fields." Under review at *Social Networks*.
 
 \ind David Tindall, \emph{Yasmin Koop-Monteiro}, \emph{Alexander Graham}, and \textbf{John McLevey}. "Social Network Analysis as Big Data and Computational Social Science." Under review at *Canadian Review of Sociology*.
+
+\ind Kathryn S. Plaisance, *Janet Michaud*, and John McLevey. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains." Minor revisions, *Synthese*. 
 
 # Research Grants
 
