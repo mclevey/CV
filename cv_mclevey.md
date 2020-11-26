@@ -313,6 +313,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Invited Research Talks
 
+\ind February 2021. John McLevey. "Reproducibility and Principled Data Processing for Computational Science". Toronto Data Workshop on Reproducibility, Department of Statistical Sciences, University of Toronto.    
+
 \ind December 2019. John McLevey. "Democracies in Crisis? Online Deception, Disinformation, and Political Polarization." Invited talk in the York University Science and Technology Studies Seminar Series.
 
 \ind Nov 15, 2017 "Gender discrimination in open source software development: findings from a large-scale field study." Guest lecture in Gender Equity course in Knowledge Integration, University of Waterloo.
