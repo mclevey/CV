@@ -370,14 +370,14 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## PhD Dissertations in Progress
 
-\noindent \emph{As Supervisor (4 Students)}  \\
+### \emph{As Supervisor (4 Students)}
 
 \noindent - Pierson Browne (supervisor, in progress)       
 \noindent - Alexander Graham (supervisor, in progress)      
 \noindent - Tyler Crick (supervisor, in progress)       
 \noindent - Amelia Howard (supervisor, in progress)       
 
-\noindent \emph{As Committee Member (6 Students)}  \\
+### \emph{As Committee Member (6 Students)}
 
 \noindent - Julie Cook (committee member, supervisor Jennifer Lynes)    
 \noindent - Yixi Yang (committee member, supervisor Mark Stoddart - Memorial University)     
@@ -388,7 +388,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## PhD Dissertations, Successfully Defended
 
-\noindent \emph{As Committee Member (5 Students)}  \\
+### \emph{As Committee Member (5 Students)}
 
 \noindent - Rod Missaghian (committee member, supervisor Janice Aurini, defended 2020)   
 \noindent - Moutasem Zakkar (committee member, supervisors Craig Janes and Plinio Morita, defended 2020) 
