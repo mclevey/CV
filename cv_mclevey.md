@@ -55,12 +55,12 @@ The table below provides a high-level overview of my peer-reviewed publications 
 | Type                                     | Count since 2013 |
 |:-----------------------------------------|:-----------------|
 | Books / Monographs                       | 3                |
-| Journal Articles                         | 9                |
+| Journal Articles                         | 10               |
 | Peer Reviewed Chapters in Edited Volumes | 4                |
 | Edited Special Issues of Journals        | 2                |
 | Policy Reports / Research Reports        | 5                |
 | Works Translated and Republished         | 1                |
-| Manuscripts Currently Under Review       | 4                |
+| Manuscripts Currently Under Review       | 3                |
 | Non-Refereed Reviews                     | 2                |
 
 ## Books / Research Monographs
@@ -70,6 +70,8 @@ The table below provides a high-level overview of my peer-reviewed publications 
 1. HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Revised manuscript (368 pages) under review at MIT Press.
 
 ## Peer Reviewed Journal Articles  
+
+\ind Kathryn S. Plaisance, *Janet Michaud*, and **John McLevey**. Forthcoming. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains."  *Synthese*. 
 
 \ind Mark Stoddart, **John McLevey**, Vanessa Schweizer, and Catherine Wong. Forthcoming. "Climate Change and Energy Futures: Theoretical Frameworks, Epistemological Issues, and Methodological Perspectives." Introduction to an edited special issue of *Society & Natural Resources.* 
 
@@ -128,8 +130,6 @@ The table below provides a high-level overview of my peer-reviewed publications 
 \ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Information Complementarity and Control: Reconsidering Structural Holes Theory with Evidence from 21 Scientific Fields." Under review at *Social Networks*.
 
 \ind David Tindall, \emph{Yasmin Koop-Monteiro}, \emph{Alexander Graham}, and \textbf{John McLevey}. "Social Network Analysis as Big Data and Computational Social Science." Under review at *Canadian Review of Sociology*.
-
-\ind Kathryn S. Plaisance, *Janet Michaud*, and **John McLevey**. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains." Minor revisions, *Synthese*. 
 
 # Research Grants
 
@@ -526,7 +526,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2020 Faculty Association University of Waterloo (FAUW), Member of Council of Representatives, Department of Knowledge Integration.   
 
-\ind 2019 Committee member, Tenure and Promotions Committee, Department of Knowledge Integration.     
+\ind 2019 Committee member, Tenure and Promotions Committee, Department of Knowledge Integration. <!-- Vanessa's file. -->     
 
 \ind 2018 Search and selection committee member for two Canada Research Chairs in Environment and Sustainability, Faculty of Environment.    
 
