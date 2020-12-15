@@ -54,13 +54,13 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 | Type                                     | Count since 2013 |
 |:-----------------------------------------|:-----------------|
-| Books / Monographs                       | 3                |
+| Books / Monographs                       | 2                |
 | Journal Articles                         | 10               |
 | Peer Reviewed Chapters in Edited Volumes | 4                |
 | Edited Special Issues of Journals        | 2                |
 | Policy Reports / Research Reports        | 5                |
 | Works Translated and Republished         | 1                |
-| Manuscripts Currently Under Review       | 3                |
+| Manuscripts Currently Under Review       | 4                |
 | Non-Refereed Reviews                     | 2                |
 
 ## Books / Research Monographs
