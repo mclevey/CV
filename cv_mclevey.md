@@ -134,9 +134,11 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Research Grants
 
-\ind Total Value of Research Grants since 2013: **$1,116,743** \bigskip
+\ind Total Value of Research Grants since 2013: **$1,271,149** \bigskip
 
 \ind 2020-2025. John McLevey (PI), Anabel Quan-Haase (Co-Applicant), David Tindall (Co-Applicant), Collaborators: Darrin Durant, Deena Abul-Fottouh, Owen Gallupe, Martin Innes. "Disinformation, Democracy, and Online Political Deliberation." [SSHRC Insight Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx), $219,003 + $20,000 research supplement from the Department of Canadian Heritage Initiative for Digital Citizenship.
+
+\ind 2020-2025. Kathryn S. Plaisance (PI), Kevin Elliott (Collaborator), Michael O'Rourke (Collaborator), Lisbeth Berbary (Collaborator), John McLevey (Collaborator). "Engaging Science with Philosophy: Best Practices for Fostering Effective Collaboration." [SSHRC Insight Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-eng.aspx), $154,406.
 
 \ind 2019. Janice Aurini, Allyson Stokes, **John McLevey**, Jessica Riztk, and Rob Gorbet. "Ed-Tech Connect: An Intersectoral Workshop on Education, Technology, and 21^st^ Century Labour." [SSHRC Connection Grant](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-eng.aspx), $16,400 (plus matching funds).
 
