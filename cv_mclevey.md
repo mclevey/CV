@@ -46,11 +46,7 @@ fontsize: 12
 
 # Research Areas
 
-Computational Social Science; Social Networks; Political Sociology; Affect, Emotions, and Cultural Cognition; Environmental Sociology; Sociology of Science
-
-\
-
-\noindent Within computational social science, my primary areas of expertise and interest are in probabilistic modelling and Bayesian data analysis; causal inference with graphical models; natural language processing; latent variable models, and scientific computing practices that prioritize transparency and reproducibility.
+Computational Social Science^[Within computational social science, my primary areas of expertise and interest are in probabilistic modelling and Bayesian data analysis; causal inference with graphical models; natural language processing; latent variable models, and scientific computing practices that prioritize transparency and reproducibility.]; Social Networks; Political Sociology; Cultural Cognition and Affect; Environmental Sociology; Sociology of Science
 
 # Peer Reviewed Publications
 
