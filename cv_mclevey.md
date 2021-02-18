@@ -29,9 +29,9 @@ fontsize: 12
 
 \ind 2014-Present. Fellow, [Balsillie School of International Affairs](http://www.balsillieschool.ca/)
 
-\ind 2019-Present. Member of the Leadership Team. "Knowledge Development and Exchange Hub: Child and Youth Mental Health Promotion," Project Co-Leads Drs. Barb Riley and Janice Popp. Funded by the Public Health Agency of Canada.
-
 \ind 2018-Present. Forum on Science, Policy, and Society. Co-Organizer and Instructor for [Science Outside the Lab, North](http://www.sotlnorth.ca).
+
+\ind 2019-2020. Member of the Leadership Team. "Knowledge Development and Exchange Hub: Child and Youth Mental Health Promotion," Project Co-Leads Drs. Barb Riley and Janice Popp. Funded by the Public Health Agency of Canada.
 
 \ind 2014-2017. Board Member, [University of Waterloo Survey Research Centre](http://math.uwaterloo.ca/survey-research-centre/node/1)
 
@@ -46,7 +46,9 @@ fontsize: 12
 
 # Research Areas
 
-Computational Social Science (especially Machine Learning and Natural Language Processing); Social Networks; Political Sociology; Affect, Emotions, and Cultural Cognition; Environmental Sociology; Sociology of Science
+Computational Social Science; Social Networks; Political Sociology; Affect, Emotions, and Cultural Cognition; Environmental Sociology; Sociology of Science
+
+Within computational social science, my primary areas of expertise are in probabilistic modelling and Bayesian data analysis; causal inference with graphical models; natural language processing; latent variable modelling; and scientific computing workflows that prioritize transparency and reproducibility.
 
 # Peer Reviewed Publications
 
@@ -55,12 +57,14 @@ The table below provides a high-level overview of my peer-reviewed publications 
 | Type                                     | Count since 2013 |
 |:-----------------------------------------|:-----------------|
 | Books / Monographs                       | 2                |
-| Journal Articles                         | 10               |
+| Journal Articles                         | 12               |
 | Peer Reviewed Chapters in Edited Volumes | 4                |
 | Edited Special Issues of Journals        | 2                |
 | Policy Reports / Research Reports        | 5                |
 | Works Translated and Republished         | 1                |
-| Manuscripts Currently Under Review       | 4                |
+| Journal Articles Under Review            | 1                |
+| Book Manuscripts Under Review            | 1                |
+| Edited Volumes in Progress               | 1                |
 | Non-Refereed Reviews                     | 2                |
 
 ## Books / Research Monographs
@@ -70,9 +74,13 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 ## Peer Reviewed Journal Articles  
 
-\ind Kathryn S. Plaisance, *Janet Michaud*, and **John McLevey**. Forthcoming. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains."  *Synthese*. 
+\ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. Forthcoming 2021. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." *Canadian Review of Sociology*.
 
-\ind Mark Stoddart, **John McLevey**, Vanessa Schweizer, and Catherine Wong. Forthcoming. "Climate Change and Energy Futures: Theoretical Frameworks, Epistemological Issues, and Methodological Perspectives." Introduction to an edited special issue of *Society & Natural Resources.* 
+\ind David Tindall, *Yasmin Koop-Monteiro*, *Alexander Graham*, and *John McLevey*. Forthcoming 2021. "Social Network Analysis as Big Data and Computational Social Science." *Canadian Review of Sociology*.
+
+\ind Kathryn S. Plaisance, *Janet Michaud*, and **John McLevey**. Forthcoming 2021. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains."  *Synthese*. 
+
+\ind Mark Stoddart, **John McLevey**, Vanessa Schweizer, and Catherine Wong. 2020. "Climate Change and Energy Futures: Theoretical Frameworks, Epistemological Issues, and Methodological Perspectives." Introduction to an edited special issue of *Society & Natural Resources.* 
 
 \ind Kathryn S. Plaisance, *Alexander V. Graham*, **John McLevey**, and *Janet Michaud*. 2019. "Show Me the Numbers: A Quantitative Portrait of the Attitudes, Experiences, and Values of Philosophers of Science." *Synthese*. 1-31.
 
@@ -124,13 +132,13 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Manuscripts Under Review
 
-\ind HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Book manuscript in progress.
+\ind HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Complete book manuscript under review at Cardiff University Press.
 
-\ind \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}, and Darrin Durant. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." Under review at *Canadian Review of Sociology*.
+\ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Information Complementarity and Control: Reconsidering Structural Holes Theory with Evidence from 21 Scientific Fields." Revise and Resubmit from *Social Networks*.
 
-\ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Information Complementarity and Control: Reconsidering Structural Holes Theory with Evidence from 21 Scientific Fields." Under review at *Social Networks*.
+# Edited Volumes in Progress
 
-\ind David Tindall, \emph{Yasmin Koop-Monteiro}, \emph{Alexander Graham}, and \textbf{John McLevey}. "Social Network Analysis as Big Data and Computational Social Science." Under review at *Canadian Review of Sociology*.
+\ind John McLevey, John Scott, and Peter Carrington (eds). *The Sage Handbook of Social Network Analysis, Volume 2*. London: Sage. (Finalizing contract with Sage early 2021).
 
 # Research Grants
 
@@ -191,6 +199,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind 2016-2017. Janice Aurini (Co-PI), John McLevey (Co-PI), Rob Gorbet (Co-Applicant). "Assessing the Impact of Classroom-Integrated Robotics on the Cultivation of 21^st^ Century Competencies." Contract with Council of Ontario Directors of Education (CODE) for the Ontario Ministry of Education.
 
 # Open Source Research Software
+
+\ind \texttt{dcss}: A Python package accompanying John McLevey (2021) *Doing Computational Social Science*. Includes curated datasets and a large collection of utility functions for data processing and working with statistical and machine learning models. Currently in beta and under active development. 
 
 \ind \texttt{bnet}: A Python implementation of probabilistic models for belief network analysis, relational class analysis, and correlational class analysis (all network-based methods for analyzing shared cultural schemas from survey data). Developed by John McLevey. Currently in beta and under active development. 
 
@@ -610,7 +620,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \noindent Canadian Sociological Association, American Sociological Association, International Network for Social Network Analysis, Society for Social Studies of Science, Sociologists for Women in Society
 
-<!--
+<!-- 
 # References
 
 \ind Harry Collins, Fellow of the British Academy, Distinguished Research Professor, School of Social Sciences, Cardiff University, <CollinsHM@cf.ac.uk>
@@ -626,5 +636,4 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \ind Tina Fetner, Associate Professor, Sociology, McMaster University, <tina.fetner@mcmaster.ca>
 
 \ind Scott Davies, Professor, Leadership, Higher and Adult Education, University of Toronto, OISE, <scott.davies@utoronto.ca>
-
--->
+ -->
