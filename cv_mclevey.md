@@ -48,6 +48,7 @@ fontsize: 12
 
 Computational Social Science; Social Networks; Political Sociology; Affect, Emotions, and Cultural Cognition; Environmental Sociology; Sociology of Science
 
+\newline 
 \noindent Within computational social science, my primary areas of expertise and interest are in probabilistic modelling and Bayesian data analysis; causal inference with graphical models; natural language processing; latent variable models, and scientific computing practices that prioritize transparency and reproducibility.
 
 # Peer Reviewed Publications
