@@ -124,6 +124,8 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Reviews and Other Non-Refereed Publications
 
+\ind John McLevey. 2021. "Probabilistic Topic Models" in Janice Aurini, Melanie Heath, and Stephanie Howells. 2021. *The How To of Qualitative Research*. London, UK: Sage.
+
 \ind John McLevey. 2019. "[Epistemic and Evidential Cultures](https://methods.sagepub.com/base/download/FoundationEntry/epistemic-and-evidential-cultures)." Paul Atkinson, Sara Delamont, Richard Williams and Alex Cernat (eds).  *Sage Research Methods Foundations Online*. 
 
 \ind John McLevey. 2019. Review of David Johnson (2017) *A Fractured Profession: Commercialization and Conflict in Academic Science*. Baltimore: Johns Hopkins University Press. Review published in *American Journal of Sociology*. 125(1).
@@ -136,7 +138,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Edited Volumes in Progress
 
-\ind John McLevey, John Scott, and Peter Carrington (eds). *The Sage Handbook of Social Network Analysis, Volume 2*. London: Sage. (Finalizing contract with Sage early 2021).
+\ind John McLevey, John Scott, and Peter Carrington (eds). *The Sage Handbook of Social Network Analysis, Volume 2*. London: Sage.
 
 # Research Grants
 
