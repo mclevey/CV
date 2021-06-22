@@ -55,12 +55,12 @@ The table below provides a high-level overview of my peer-reviewed publications 
 | Type                                     | Count since 2013 |
 |:-----------------------------------------|:-----------------|
 | Books / Monographs                       | 2                |
-| Journal Articles                         | 12               |
-| Peer Reviewed Chapters in Edited Volumes | 4                |
+| Journal Articles                         | 13               |
+| Peer Reviewed Chapters in Edited Volumes | 5                |
 | Edited Special Issues of Journals        | 2                |
 | Policy Reports / Research Reports        | 5                |
 | Works Translated and Republished         | 1                |
-| Journal Articles Under Review            | 1                |
+| Journal Articles Under Review            | 3                |
 | Book Manuscripts Under Review            | 1                |
 | Edited Volumes in Progress               | 1                |
 | Non-Refereed Reviews                     | 2                |
@@ -71,6 +71,8 @@ The table below provides a high-level overview of my peer-reviewed publications 
 1. Mark Stoddart, Alice Mattoni, and John McLevey. 2020. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Palgrave MacMillan.
 
 ## Peer Reviewed Journal Articles  
+
+\ind Igor Grossman, Oliver Twardus, Michael E. W. Varnum, Eranda Jayawickreme, and \textbf{John McLevey}. Forthcoming 2021. "Expert Predictions of Societal Change: Insights from the World after COVID Project." *American Psychologist*.
 
 \ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. Forthcoming 2021. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." *Canadian Review of Sociology*.
 
@@ -95,6 +97,8 @@ The table below provides a high-level overview of my peer-reviewed publications 
 \ind John McLevey. 2014. "Think Tanks, Funding, and the Politics of Policy Knowledge in Canada." *Canadian Review of Sociology / Revue canadienne de sociologie*. 51(1):54-75.
 
 # Peer Reviewed Book Chapters in Edited Volumes
+
+\ind \textbf{John McLevey} and \emph{Tyler Crick}. Forthcoming. "Machine Learning and Neural Network Language Modelling for Sentiment Analysis." In Luke Sloan and Anabel Quan-Haase (eds.) *The Sage Handbook of Social Media Research*. Routledge.
 
 \ind John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. Forthcoming. "Reproducibility, Transparency, and Principled Data Processing." In Uwe Engel and Anabel Quan-Haase (eds.) *Handbook of Computational Social Science*. Routledge.
 
@@ -135,6 +139,10 @@ The table below provides a high-level overview of my peer-reviewed publications 
 \ind HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Complete book manuscript under review at Cardiff University Press.
 
 \ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Information Complementarity and Control: Reconsidering Structural Holes Theory with Evidence from 21 Scientific Fields." Revise and Resubmit from *Social Networks*.
+
+\ind Allyson Stokes, Janice Aurini, Jessica Riztk, Rob Gorbet, and **John McLevey**. "Using Robotics to Support the Acquisition of 21st Century Competencies: Promising (and Practical) Directions." *Under Review*.    
+
+\ind Jessica Rizk, Janice Aurini, Allyson Stokes, Rob Gorbet, and **John McLevey**. "Leading through the COVID-19 Pandemic: Research with Canadian Education Leaders." *Under Review*.
 
 # Edited Volumes in Progress
 
@@ -391,7 +399,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent - Pierson Browne (supervisor, in progress)       
 \noindent - Alexander Graham (supervisor, in progress)      
 \noindent - Tyler Crick (supervisor, in progress)       
-\noindent - Amelia Howard (supervisor, in progress)       
+\noindent - Amelia Howard (supervisor, in progress)     
+\noindent - Karmvir Padda (supervisor, incoming Fall 2021)     
 
 ### \emph{As Committee Member (6 Students)}
 
