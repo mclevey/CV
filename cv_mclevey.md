@@ -76,7 +76,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. Forthcoming 2021. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." *Canadian Review of Sociology*.
 
-\ind David Tindall, *Yasmin Koop-Monteiro*, *Alexander Graham*, and *John McLevey*. Forthcoming 2021. "Social Network Analysis as Big Data and Computational Social Science." *Canadian Review of Sociology*.
+\ind David Tindall, *Yasmin Koop-Monteiro*, *Alexander Graham*, and **John McLevey**. Forthcoming 2021. "Social Network Analysis as Big Data and Computational Social Science." *Canadian Review of Sociology*.
 
 \ind Kathryn S. Plaisance, *Janet Michaud*, and **John McLevey**. Forthcoming 2021. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains."  *Synthese*. 
 
