@@ -98,7 +98,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Peer Reviewed Book Chapters in Edited Volumes
 
-\ind \textbf{John McLevey} and \emph{Tyler Crick}. Forthcoming. "Machine Learning and Neural Network Language Modelling for Sentiment Analysis." In Luke Sloan and Anabel Quan-Haase (eds.) *The Sage Handbook of Social Media Research*. Routledge.
+\ind \textbf{John McLevey} and \emph{Tyler Crick}. Forthcoming. "Machine Learning and Neural Network Language Modelling for Sentiment Analysis." In Luke Sloan and Anabel Quan-Haase (eds.) *The Sage Handbook of Social Media Research*. Sage.
 
 \ind John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. Forthcoming. "Reproducibility, Transparency, and Principled Data Processing." In Uwe Engel and Anabel Quan-Haase (eds.) *Handbook of Computational Social Science*. Routledge.
 
