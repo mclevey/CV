@@ -95,13 +95,13 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Peer Reviewed Book Chapters in Edited Volumes
 
-\ind \textbf{John McLevey} and \emph{Tyler Crick}. Forthcoming. "Machine Learning and Neural Network Language Modelling for Sentiment Analysis." In Luke Sloan and Anabel Quan-Haase (eds.) *The Sage Handbook of Social Media Research*. Sage.
+\ind \textbf{John McLevey} and \emph{Tyler Crick}. Forthcoming 2021. "Machine Learning and Neural Network Language Modelling for Sentiment Analysis." In Luke Sloan and Anabel Quan-Haase (eds.) *The Sage Handbook of Social Media Research*. Sage.
 
-\ind John McLevey, \emph{Pierson Browne}, and \emph{Tyler Crick}. Forthcoming. "Reproducibility, Transparency, and Principled Data Processing." In Uwe Engel and Anabel Quan-Haase (eds.) *Handbook of Computational Social Science*. Routledge.
+\ind \textbf{John McLevey}, \emph{Pierson Browne}, and \emph{Tyler Crick}. Forthcoming 2021. "Reproducibility, Transparency, and Principled Data Processing." In Uwe Engel and Anabel Quan-Haase (eds.) *Handbook of Computational Social Science*. Routledge.
 
-\ind David Tindall, Mark Stoddart, **John McLevey**, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. Forthcoming. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." In Mario Small, Brea Perry, Bernice Pescosolido, and Edward Smith (Eds.) *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge: Cambridge University Press.
+\ind David Tindall, Mark Stoddart, **John McLevey**, Lorien Jasny, Dana R. Fisher, Jennifer Earl, and Mario Diani. Forthcoming 2021. "The Challenges and Opportunities of Ego-Network Analysis of Social Movements and Collective Action." In Mario Small, Brea Perry, Bernice Pescosolido, and Edward Smith (Eds.) *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge: Cambridge University Press.
 
-\ind \textbf{John McLevey}, Allyson Stokes, and *Amelia Howard*.  2018. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press. **[**This chapter is being translated into French and published in Franck Poupeau and Amín Pérez (eds.) 2021. *Bourdieu and the Americas*. Institut des Hautes Etudes de Amerique Latine Presses.**]**
+\ind \textbf{John McLevey}, Allyson Stokes, and *Amelia Howard*. 2018. "Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology." Thomas Medvetz and Jeff Sallaz (eds) *The Oxford Handbook of Pierre Bourdieu*. Oxford: Oxford University Press. **[**This chapter is being translated into French and published in Franck Poupeau and Amín Pérez (eds.) 2021. *Bourdieu and the Americas*. Institut des Hautes Etudes de Amerique Latine Presses.**]**
 
 \ind \textbf{John McLevey} and *Ryan Deschamps*. 2018. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE.
 
