@@ -404,8 +404,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent - Pierson Browne (supervisor, in progress)       
 \noindent - Alexander Graham (supervisor, in progress)      
 \noindent - Tyler Crick (supervisor, in progress)       
-\noindent - Amelia Howard (supervisor, in progress)     
 \noindent - Karmvir Padda (supervisor, incoming Fall 2021)     
+\noindent - Amelia Howard (supervisor, in progress)     
 
 ### \emph{As Committee Member (6 Students)}
 
