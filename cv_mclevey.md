@@ -119,9 +119,9 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Special Issues of Peer-Reviewed Journals
 
-\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). 2020 *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*.
+\ind David Tindall, John McLevey, and Nina Kolleck (editors). *Social Networks and Climate Change*. Special issue / section of *Social Networks*. Special issue currently in progress. 
 
-\ind David Tindall, John McLevey, and Nina Kolleck (editors). *Social Networks and Climate Change*. Special issue / section of *Social Networks*. Papers currently in review stage.
+\ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). 2020 *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*.
 
 # Reviews and Other Non-Refereed Publications
 
