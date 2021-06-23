@@ -407,14 +407,15 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent - Karmvir Padda (supervisor, incoming Fall 2021)     
 \noindent - Amelia Howard (supervisor, in progress)     
 
-### \emph{As Committee Member (6 Students)}
+### \emph{As Committee Member (7 Students)}
 
+\noindent - Emerson LaCroix (committee member, supervisor Janice Aurini)     
 \noindent - Julie Cook (committee member, supervisor Jennifer Lynes)    
 \noindent - Yixi Yang (committee member, supervisor Mark Stoddart - Memorial University)     
 \noindent - Adam Howe (committee member, supervisor David Tindall - UBC)     
 \noindent - Yasmin Koop-Monteiro (committee member, supervisor David Tindall - UBC)     
 \noindent - François Lachapelle (committee member, supervisor David Tindall - UBC)     
-\noindent - Peter Duggins (committee member, supervisor Chris Eliasmith, Systems Design Engineering)     
+\noindent - Peter Duggins (committee member, supervisor Chris Eliasmith, Systems Design Engineering)   
 
 ## PhD Dissertations, Successfully Defended
 
@@ -438,7 +439,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Undergraduate Senior Honors Theses (10 Students)
 
-\noindent - Harrison Lobb (in progress)   
+\noindent - Harrison Lobb (completed 2021)   
 \noindent - Jason Kurian (completed 2019)    
 \noindent - Rachel Wood (completed 2018)     
 \noindent - Jessilyn Wolfe (completed 2018)    
