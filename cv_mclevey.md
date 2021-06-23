@@ -1,7 +1,7 @@
 ---
 title: "Dr. John McLevey"
 lhead: \href{http://www.johnmclevey.com}{John McLevey, PhD}
-rhead: "Updated September 12^th^, 2020"
+rhead: \today
 mainfont: Minion Pro
 fontsize: 12
 ...
