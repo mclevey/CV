@@ -64,7 +64,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 | Edited Volumes in Progress                                    | 1                |
 | Policy Reports / Research Reports                             | 5                |
 | Works Translated and Republished                              | 1                |
-| Non-Refereed Reviews                                          | 2                |
+| Non-Refereed Publications (e.g., Reviews)                     | 3                |
 
 ## Books / Research Monographs
 
