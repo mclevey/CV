@@ -52,19 +52,19 @@ Computational Social Science^[Within computational social science, my primary ar
 
 The table below provides a high-level overview of my peer-reviewed publications since 2013. Full citation information is provided below. In all subsections, \emph{student co-authors are indicated in italics}. Of the two edited special issues of journals, one (*Social Networks*, on the theme of social networks and climate change) is still in progress.
 
-| Type                                                         | Count since 2013 |
-|:-------------------------------------------------------------|:-----------------|
-| Books / Monographs                                           | 2                |
-| Journal Articles                                             | 11               |
-| Peer Reviewed Chapters in Edited Volumes                     | 5                |
-| Edited Special Issues of Journals                            | 2                |
-| Policy Reports / Research Reports                            | 5                |
-| Works Translated and Republished                             | 1                |
+| Type                                                          | Count since 2013 |
+|:--------------------------------------------------------------|:-----------------|
+| Peer Reviewed Books / Monographs                              | 2                |
+| Journal Articles                                              | 11               |
+| Peer Reviewed Chapters in Edited Volumes                      | 5                |
+| Edited Special Issues of Journals                             | 2                |
+| Policy Reports / Research Reports                             | 5                |
+| Works Translated and Republished                              | 1                |
 | Journal Articles Under Review (Currently *Revise & Resubmit*) | 3                |
-| Journal Articles Under Review (Under Initial Review)         | 3                |
-| Book Manuscripts Under Review                                | 1                |
-| Edited Volumes in Progress                                   | 1                |
-| Non-Refereed Reviews                                         | 2                |
+| Journal Articles Under Review (Under Initial Review)          | 3                |
+| Book Manuscripts Under Review                                 | 1                |
+| Edited Volumes in Progress                                    | 1                |
+| Non-Refereed Reviews                                          | 2                |
 
 ## Books / Research Monographs
 
