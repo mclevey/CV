@@ -46,24 +46,25 @@ fontsize: 12
 
 # Research Areas
 
-Computational Social Science^[Within computational social science, my primary areas of expertise and interest are in probabilistic modelling and Bayesian data analysis; causal inference with graphical models; natural language processing; latent variable models; and scientific computing practices that prioritize transparency, auditability, and reproducibility.]; Social Networks; Political Sociology; Environmental Sociology; Sociology of Science; Cultural Cognition and Affect
+Computational Social Science^[Within computational social science, my primary areas of expertise and interest are in probabilistic modelling, Bayesian data analysis, and latent variables; causal inference with graphical models; natural language processing; and scientific computing practices that prioritize transparency, auditability, and reproducibility.]; Social Networks; Political Sociology; Environmental Sociology; Sociology of Science; Cultural Cognition and Affect
 
 # Peer Reviewed Publications
 
 The table below provides a high-level overview of my peer-reviewed publications since 2013. Full citation information is provided below. In all subsections, \emph{student co-authors are indicated in italics}. Of the two edited special issues of journals, one (*Social Networks*, on the theme of social networks and climate change) is still in progress.
 
-| Type                                     | Count since 2013 |
-|:-----------------------------------------|:-----------------|
-| Books / Monographs                       | 2                |
-| Journal Articles                         | 13               |
-| Peer Reviewed Chapters in Edited Volumes | 5                |
-| Edited Special Issues of Journals        | 2                |
-| Policy Reports / Research Reports        | 5                |
-| Works Translated and Republished         | 1                |
-| Journal Articles Under Review            | 3                |
-| Book Manuscripts Under Review            | 1                |
-| Edited Volumes in Progress               | 1                |
-| Non-Refereed Reviews                     | 2                |
+| Type                                           | Count since 2013 |
+|:-----------------------------------------------|:-----------------|
+| Books / Monographs                             | 2                |
+| Journal Articles                               | 11               |
+| Peer Reviewed Chapters in Edited Volumes       | 5                |
+| Edited Special Issues of Journals              | 2                |
+| Policy Reports / Research Reports              | 5                |
+| Works Translated and Republished               | 1                |
+| Journal Article Under Review (R&R Status)      | 3                |
+| Journal Articles Under Review (Initial Review) | 3                |
+| Book Manuscripts Under Review                  | 1                |
+| Edited Volumes in Progress                     | 1                |
+| Non-Refereed Reviews                           | 2                |
 
 ## Books / Research Monographs
 
@@ -74,11 +75,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind Igor Grossman, Oliver Twardus, Michael E. W. Varnum, Eranda Jayawickreme, and \textbf{John McLevey}. Forthcoming 2021. "Expert Predictions of Societal Change: Insights from the World after COVID Project." *American Psychologist*.
 
-\ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. Forthcoming 2021. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." *Canadian Review of Sociology*.
-
-\ind David Tindall, *Yasmin Koop-Monteiro*, *Alexander Graham*, and **John McLevey**. Forthcoming 2021. "Social Network Analysis as Big Data and Computational Social Science." *Canadian Review of Sociology*.
-
-\ind Kathryn S. Plaisance, *Janet Michaud*, and **John McLevey**. Forthcoming 2021. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains."  *Synthese*. 
+\ind Kathryn S. Plaisance, *Janet Michaud*, and **John McLevey**. Forthcoming 2021. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains." *Synthese*. 
 
 \ind Mark Stoddart, **John McLevey**, Vanessa Schweizer, and Catherine Wong. 2020. "Climate Change and Energy Futures: Theoretical Frameworks, Epistemological Issues, and Methodological Perspectives." Introduction to an edited special issue of *Society & Natural Resources.* 
 
@@ -136,9 +133,17 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 # Manuscripts Under Review
 
-\ind HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Complete book manuscript under review at Cardiff University Press.
+## Revise & Resubmit
 
-\ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Information Complementarity and Control: Reconsidering Structural Holes Theory with Evidence from 21 Scientific Fields." Revise and Resubmit from *Social Networks*.
+\ind \emph{Sasha Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields." Revise and Resubmit from *Social Networks*.
+
+\ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." Revise and Resubmit from *Canadian Review of Sociology*.
+
+\ind David Tindall, *Yasmin Koop-Monteiro*, *Alexander Graham*, and **John McLevey**. "Social Network Analysis as Big Data and Computational Social Science." Revise and Resubmit from *Canadian Review of Sociology*.
+
+## Under Initial Review
+
+\ind HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Complete book manuscript under review at Cardiff University Press.
 
 \ind Allyson Stokes, Janice Aurini, Jessica Riztk, Rob Gorbet, and **John McLevey**. "Using Robotics to Support the Acquisition of 21st Century Competencies: Promising (and Practical) Directions." *Under Review*.    
 
