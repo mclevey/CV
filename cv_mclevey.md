@@ -139,7 +139,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." Revise and Resubmit from *Canadian Review of Sociology*.
 
-\ind David Tindall, *Yasmin Koop-Monteiro*, **John McLevey**, and *Alexander Graham*. "Big data, computational social science, and other recent innovations in social network analysis." Revise and Resubmit from *Canadian Review of Sociology*.
+\ind David Tindall, **John McLevey**, *Yasmin Koop-Monteiro*, and *Alexander Graham*. "Big data, computational social science, and other recent innovations in social network analysis." Revise and Resubmit from *Canadian Review of Sociology*.
 
 ## Under Initial Review
 
