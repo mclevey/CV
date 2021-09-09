@@ -552,6 +552,8 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## University of Waterloo
 
+\ind 2021 Member of the Administrative Committee, Faculty of Environment.     
+
 \ind 2021 Chair of the Environment Faculty Council, Faculty of Environment.    
 
 \ind 2020 Faculty Association University of Waterloo (FAUW), Member of Council of Representatives, Department of Knowledge Integration.   
