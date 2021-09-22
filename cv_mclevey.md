@@ -70,6 +70,7 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 1. John McLevey. 2021. *Doing Computational Social Science*. London, UK: Sage. Research methods and data science series.
 1. Mark Stoddart, Alice Mattoni, and John McLevey. 2020. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Palgrave MacMillan.
+1. HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). Forthcoming. *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Cardiff: Cardiff University Press.
 
 ## Peer Reviewed Journal Articles  
 
@@ -142,8 +143,6 @@ The table below provides a high-level overview of my peer-reviewed publications 
 \ind David Tindall, **John McLevey**, *Yasmin Koop-Monteiro*, and *Alexander Graham*. "Big data, computational social science, and other recent innovations in social network analysis." Revise and Resubmit from *Canadian Review of Sociology*.
 
 ## Under Initial Review
-
-\ind HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Complete book manuscript under review at Cardiff University Press.
 
 \ind Allyson Stokes, Janice Aurini, Jessica Riztk, Rob Gorbet, and **John McLevey**. "Using Robotics to Support the Acquisition of 21st Century Competencies: Promising (and Practical) Directions." *Under Review*.    
 
