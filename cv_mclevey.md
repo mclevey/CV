@@ -59,7 +59,6 @@ The table below provides a high-level overview of my peer-reviewed publications 
 | Peer Reviewed Chapters in Edited Volumes                      | 5                |
 | Edited Special Issues of Journals                             | 2                |
 | Journal Articles Under Review (Currently *Revise & Resubmit*) | 3                |
-| Journal Articles Under Review (Under Initial Review)          | 3                |
 | Edited Volumes in Progress                                    | 1                |
 | Policy Reports / Research Reports                             | 5                |
 | Works Translated and Republished                              | 1                |
@@ -105,6 +104,10 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind \textbf{John McLevey} and *Ryan Deschamps*. 2018. "The Sociology of Public Policy Formation and Implementation." William Outhwaite and Stephen Turner (eds) *The SAGE Handbook of Political Sociology*. SAGE.
 
+# Edited Volumes
+
+\ind John McLevey, John Scott, and Peter Carrington (eds). *The Sage Handbook of Social Network Analysis, Volume 2*. London: Sage. *Currently under contract and in progress.*
+
 # Policy & Research Reports
 
 \ind \textbf{John McLevey}, \emph{Pierson Browne}, \emph{Tyler Crick}, and Jillian Anderson. 2020. "Applied Computer Vision for Disinformation Research: An Analysis of Twitter's Elections Integrity Data on Russian and Chinese Information Operations." Research report for the Crime & Security Research Institute, Cardiff University.
@@ -123,6 +126,23 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). 2020 *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*.
 
+# Manuscripts Under Review
+
+## Revise & Resubmit
+
+\ind \emph{Alexander Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields." Revise and Resubmit from *Social Networks*.
+
+\ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. "A New Method for Computational Cultural Cartography: From Neural Word Embeddings to Transformers and Bayesian Mixture Models." Revise and Resubmit from *Canadian Review of Sociology*.
+
+\ind David Tindall, **John McLevey**, *Yasmin Koop-Monteiro*, and *Alexander Graham*. "Big data, computational social science, and other recent innovations in social network analysis." Revise and Resubmit from *Canadian Review of Sociology*.
+
+<!-- ## Under Initial Review
+
+\ind Allyson Stokes, Janice Aurini, Jessica Riztk, Rob Gorbet, and **John McLevey**. "Using Robotics to Support the Acquisition of 21st Century Competencies: Promising (and Practical) Directions." *Under Review*.    
+
+\ind Jessica Rizk, Janice Aurini, Allyson Stokes, Rob Gorbet, and **John McLevey**. "Leading through the COVID-19 Pandemic: Research with Canadian Education Leaders." *Under Review*. -->
+
+
 # Reviews and Other Non-Refereed Publications
 
 \ind John McLevey. 2021. "Probabilistic Topic Models" in Janice Aurini, Melanie Heath, and Stephanie Howells. 2021. *The How To of Qualitative Research*. London, UK: Sage.
@@ -130,26 +150,6 @@ The table below provides a high-level overview of my peer-reviewed publications 
 \ind John McLevey. 2019. "[Epistemic and Evidential Cultures](https://methods.sagepub.com/base/download/FoundationEntry/epistemic-and-evidential-cultures)." Paul Atkinson, Sara Delamont, Richard Williams and Alex Cernat (eds).  *Sage Research Methods Foundations Online*. 
 
 \ind John McLevey. 2019. Review of David Johnson (2017) *A Fractured Profession: Commercialization and Conflict in Academic Science*. Baltimore: Johns Hopkins University Press. Review published in *American Journal of Sociology*. 125(1).
-
-# Manuscripts Under Review
-
-## Revise & Resubmit
-
-\ind \emph{Alexander Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields." Revise and Resubmit from *Social Networks*.
-
-\ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. "Word Embeddings and the Structural and Cultural Foundations of Democracy and Autocracy, 1900-2020." Revise and Resubmit from *Canadian Review of Sociology*.
-
-\ind David Tindall, **John McLevey**, *Yasmin Koop-Monteiro*, and *Alexander Graham*. "Big data, computational social science, and other recent innovations in social network analysis." Revise and Resubmit from *Canadian Review of Sociology*.
-
-## Under Initial Review
-
-\ind Allyson Stokes, Janice Aurini, Jessica Riztk, Rob Gorbet, and **John McLevey**. "Using Robotics to Support the Acquisition of 21st Century Competencies: Promising (and Practical) Directions." *Under Review*.    
-
-\ind Jessica Rizk, Janice Aurini, Allyson Stokes, Rob Gorbet, and **John McLevey**. "Leading through the COVID-19 Pandemic: Research with Canadian Education Leaders." *Under Review*.
-
-# Edited Volumes in Progress
-
-\ind John McLevey, John Scott, and Peter Carrington (eds). *The Sage Handbook of Social Network Analysis, Volume 2*. London: Sage.
 
 # Research Grants
 
