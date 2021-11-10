@@ -55,10 +55,10 @@ The table below provides a high-level overview of my peer-reviewed publications 
 | Type                                                          | Count since 2013 |
 |:--------------------------------------------------------------|:-----------------|
 | Peer Reviewed Books / Monographs                              | 3                |
-| Journal Articles                                              | 11               |
+| Journal Articles                                              | 12               |
 | Peer Reviewed Chapters in Edited Volumes                      | 5                |
 | Edited Special Issues of Journals                             | 2                |
-| Journal Articles Under Review (Currently *Revise & Resubmit*) | 3                |
+| Journal Articles Under Review (Currently *Revise & Resubmit*) | 2                |
 | Edited Volumes in Progress                                    | 1                |
 | Policy Reports / Research Reports                             | 5                |
 | Works Translated and Republished                              | 1                |
@@ -71,6 +71,8 @@ The table below provides a high-level overview of my peer-reviewed publications 
 1. HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). Forthcoming. *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Cardiff: Cardiff University Press.
 
 ## Peer Reviewed Journal Articles  
+
+\ind \emph{Alexander Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. 2022. "Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields." Forthcoming from *Social Networks*.
 
 \ind Igor Grossman, Oliver Twardus, Michael E. W. Varnum, Eranda Jayawickreme, and \textbf{John McLevey}. Forthcoming 2021. "Expert Predictions of Societal Change: Insights from the World after COVID Project." *American Psychologist*.
 
@@ -129,8 +131,6 @@ The table below provides a high-level overview of my peer-reviewed publications 
 # Manuscripts Under Review
 
 ## Revise & Resubmit
-
-\ind \emph{Alexander Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. "Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields." Revise and Resubmit from *Social Networks*.
 
 \ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. "A New Method for Computational Cultural Cartography: From Neural Word Embeddings to Transformers and Bayesian Mixture Models." Revise and Resubmit from *Canadian Review of Sociology*.
 
@@ -554,7 +554,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2021 Chair of the Environment Faculty Council, Faculty of Environment.    
 
-\ind 2020 Faculty Association University of Waterloo (FAUW), Member of Council of Representatives, Department of Knowledge Integration.   
+\ind Liaison between the Faculty of Environment and the Cybersecurity and Privacy Institute, University of Waterloo.
+
+\ind 2020-2022 Faculty Association University of Waterloo (FAUW), Member of Council of Representatives, Department of Knowledge Integration.   
 
 \ind 2019 Committee member, Tenure and Promotions Committee, Department of Knowledge Integration. <!-- Vanessa's file. -->     
 
