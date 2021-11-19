@@ -55,10 +55,10 @@ The table below provides a high-level overview of my peer-reviewed publications 
 | Type                                                          | Count since 2013 |
 |:--------------------------------------------------------------|:-----------------|
 | Peer Reviewed Books / Monographs                              | 3                |
-| Journal Articles                                              | 12               |
+| Journal Articles                                              | 13               |
 | Peer Reviewed Chapters in Edited Volumes                      | 5                |
 | Edited Special Issues of Journals                             | 2                |
-| Journal Articles Under Review (Currently *Revise & Resubmit*) | 2                |
+| Journal Articles Under Review (Currently *Revise & Resubmit*) | 3                |
 | Edited Volumes in Progress                                    | 1                |
 | Policy Reports / Research Reports                             | 5                |
 | Works Translated and Republished                              | 1                |
@@ -66,11 +66,13 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 ## Books / Research Monographs
 
+1. HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). 2022. *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Cardiff, UK: Cardiff University Press.
 1. John McLevey. 2021. *Doing Computational Social Science*. London, UK: Sage. Research methods and data science series.
-1. Mark Stoddart, Alice Mattoni, and John McLevey. 2020. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* Palgrave MacMillan.
-1. HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey (Collins as lead author with others listed alphabetically). Forthcoming. *The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy*. Cardiff: Cardiff University Press.
+1. Mark Stoddart, Alice Mattoni, and John McLevey. 2020. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* London, UK: Palgrave MacMillan.
 
 ## Peer Reviewed Journal Articles  
+
+\ind David Tindall, \textbf{John McLevey}, \emph{Yasmin Koop-Monteiro}, and \emph{Alexander Graham}. 2022. "Big Data, Computational Social Science, and Other Recent Innovations in Social Network Analysis." Forthcoming from *Canadian Review of Sociology / Revue canadienne de sociologie*.
 
 \ind \emph{Alexander Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. 2022. "Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields." Forthcoming from *Social Networks*.
 
@@ -134,13 +136,11 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. "A New Method for Computational Cultural Cartography: From Neural Word Embeddings to Transformers and Bayesian Mixture Models." Revise and Resubmit from *Canadian Review of Sociology*.
 
-\ind David Tindall, **John McLevey**, *Yasmin Koop-Monteiro*, and *Alexander Graham*. "Big data, computational social science, and other recent innovations in social network analysis." Revise and Resubmit from *Canadian Review of Sociology*.
-
-<!-- ## Under Initial Review
+## Under Initial Review
 
 \ind Allyson Stokes, Janice Aurini, Jessica Riztk, Rob Gorbet, and **John McLevey**. "Using Robotics to Support the Acquisition of 21st Century Competencies: Promising (and Practical) Directions." *Under Review*.    
 
-\ind Jessica Rizk, Janice Aurini, Allyson Stokes, Rob Gorbet, and **John McLevey**. "Leading through the COVID-19 Pandemic: Research with Canadian Education Leaders." *Under Review*. -->
+\ind Jessica Rizk, Janice Aurini, Allyson Stokes, Rob Gorbet, and **John McLevey**. "Leading through the COVID-19 Pandemic: Research with Canadian Education Leaders." *Under Review*.
 
 
 # Reviews and Other Non-Refereed Publications
