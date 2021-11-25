@@ -72,11 +72,11 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 ## Peer Reviewed Journal Articles  
 
+\ind \emph{Alexander Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. 2022. "Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields." *Social Networks*. 70:55-63.
+
 \ind David Tindall, \textbf{John McLevey}, \emph{Yasmin Koop-Monteiro}, and \emph{Alexander Graham}. 2022. "Big Data, Computational Social Science, and Other Recent Innovations in Social Network Analysis." Forthcoming from *Canadian Review of Sociology / Revue canadienne de sociologie*.
 
-\ind \emph{Alexander Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. 2022. "Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields." Forthcoming from *Social Networks*.
-
-\ind Igor Grossman, Oliver Twardus, Michael E. W. Varnum, Eranda Jayawickreme, and \textbf{John McLevey}. Forthcoming 2021. "Expert Predictions of Societal Change: Insights from the World after COVID Project." *American Psychologist*.
+\ind Igor Grossman, Oliver Twardus, Michael E. W. Varnum, Eranda Jayawickreme, and \textbf{John McLevey}. 2021. "Expert Predictions of Societal Change: Insights from the World after COVID Project." *American Psychologist*.
 
 \ind Kathryn S. Plaisance, *Janet Michaud*, and **John McLevey**. Forthcoming 2021. "Pathways of Influence: Understanding the Impacts of Philosophy of Science in Scientific Domains." *Synthese*. 
 
