@@ -1,5 +1,5 @@
 one_off/
-DS_Store
+.DS_Store
 *.docx
 *.jpeg
 *.log
