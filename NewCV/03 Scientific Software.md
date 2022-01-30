@@ -1,0 +1,17 @@
+# Open Source Research Software
+
+\ind \texttt{dcss}: A Python package accompanying John McLevey (2021) *Doing Computational Social Science*. Includes curated datasets and a large collection of utility functions for data processing and working with statistical and machine learning models. Currently in beta and under active development. 
+
+\ind \texttt{bnet}: A Python implementation of probabilistic models for belief network analysis, relational class analysis, and correlational class analysis (all network-based methods for analyzing shared cultural schemas from survey data). Developed by John McLevey. Currently in beta and under active development. 
+
+\ind \href{http://networkslab.org/metaknowledge/}{\texttt{metaknowledge}}: A Python package for quantitative and social networks research in the sociology of science and information science. Developed by Reid McIlroy-Young and John McLevey. First released in 2015. Under active development. Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).
+
+\ind \href{http://www.johnmclevey.com/software/}{\texttt{Nate}}: A Python package for network-based text analysis. Developed by John McLevey, Pierson Browne, and Tyler Crick. Under active development. Website and documentation: [http://networkslab.org/nate/](http://networkslab.org/nate/).
+
+\ind \href{http://www.johnmclevey.com/software/}{\texttt{pdpp}}: A Python package for principled data processing, Python. Developed by Pierson Browne, Tyler Crick, Rachel Wood, and John McLevey. First released in 2015. Under active development. Website: [https://github.com/UWNETLAB/pdpp](https://github.com/UWNETLAB/pdpp).
+
+\ind \href{http://networkslab.org/tidyextractors/}{\texttt{tidyextractors}}: A Python package for extracting quantitative datasets from source code repositories, email mbox files, and social media APIs (currently Twitter). Developed and maintained by NetLab RA Joel Becker with NetLab support. Website and documentation: [http://networkslab.org/tidyextractors/](http://networkslab.org/tidyextractors/).
+
+\ind Contributions to Jonathan de Bruin's Python package \href{https://github.com/J535D165/recordlinkage}{\texttt{recordlinkage}}: A Python package for linking records across multiple data sources when there is no unique ID available. NetLab contributions are focused on implementing new comparison and fusion algorithms that are necessary for advancing my grant-funded empirical research on the structure and evolution of cross-sectoral collaboration networks in science and technology. Most NetLab contributions to \emph{recordlinkage} are implemented by Joel Becker (RA) and occasionally Jillian Anderson (RA), and then submitted to Jonathan de Bruin as pull requests.
+
+\ind \href{http://networkslab.org/gitnet/}{\texttt{gitnet}}: A Python package for mining source code repository and mailing list data and generating network datasets. Developed by Joel Becker, Jillian Anderson, Steve McColl, and John McLevey. First released in 2016. \emph{gitnet} is still publicly available and functional, but development efforts and maintenance have shifted to \emph{tidyextractors} and other Python packages. Website and documentation: [http://networkslab.org/gitnet/](http://networkslab.org/gitnet/)
