@@ -55,14 +55,17 @@ The table below provides a high-level overview of my peer-reviewed publications 
 | Type                                                          | Count since 2013 |
 |:--------------------------------------------------------------|:-----------------|
 | Peer Reviewed Books / Monographs                              | 3                |
-| Journal Articles                                              | 13               |
+| Journal Articles                                              | 16               |
 | Peer Reviewed Chapters in Edited Volumes                      | 5                |
 | Edited Special Issues of Journals                             | 2                |
-| Journal Articles Under Review (Currently *Revise & Resubmit*) | 3                |
 | Edited Volumes in Progress                                    | 1                |
 | Policy Reports / Research Reports                             | 5                |
 | Works Translated and Republished                              | 1                |
 | Non-Refereed Publications (e.g., Reviews)                     | 3                |
+
+
+<!-- | Journal Articles Under Review (Currently *Revise & Resubmit*) | 3                | -->
+
 
 ## Books / Research Monographs
 
@@ -71,6 +74,12 @@ The table below provides a high-level overview of my peer-reviewed publications 
 1. Mark Stoddart, Alice Mattoni, and John McLevey. 2020. *Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?* London, UK: Palgrave MacMillan.
 
 ## Peer Reviewed Journal Articles  
+
+\ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. 2022. "A New Method for Computational Cultural Cartography: From Neural Word Embeddings to Transformers and Bayesian Mixture Models." *Canadian Review of Sociology*.
+
+\ind Allyson Stokes, Janice Aurini, Jessica Riztk, Rob Gorbet, and **John McLevey**. 2022. "Using Robotics to Support the Acquisition of 21st Century Competencies: Promising (and Practical) Directions." *Canadian Journal of Education*.    
+
+\ind Jessica Rizk, Janice Aurini, Allyson Stokes, Rob Gorbet, and **John McLevey**. "Leading through the COVID-19 Pandemic: Research with Canadian Education Leaders." *Canadian Journal of Educational Administration and Policy*.
 
 \ind \emph{Alexander Graham}, \textbf{John McLevey}, \emph{Tyler Crick}, \emph{Pierson Browne}. 2022. "Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields." *Social Networks*. 70:55-63.
 
@@ -130,18 +139,9 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). 2020 *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*.
 
-# Manuscripts Under Review
+<!-- # Manuscripts Under Review -->
 
-## Revise & Resubmit
-
-\ind \textbf{John McLevey}, *Tyler Crick*, *Pierson Browne*, and Darrin Durant. "A New Method for Computational Cultural Cartography: From Neural Word Embeddings to Transformers and Bayesian Mixture Models." Revise and Resubmit from *Canadian Review of Sociology*.
-
-## Under Initial Review
-
-\ind Allyson Stokes, Janice Aurini, Jessica Riztk, Rob Gorbet, and **John McLevey**. "Using Robotics to Support the Acquisition of 21st Century Competencies: Promising (and Practical) Directions." *Under Review*.    
-
-\ind Jessica Rizk, Janice Aurini, Allyson Stokes, Rob Gorbet, and **John McLevey**. "Leading through the COVID-19 Pandemic: Research with Canadian Education Leaders." *Under Review*.
-
+<!-- ## Revise & Resubmit -->
 
 # Reviews and Other Non-Refereed Publications
 
