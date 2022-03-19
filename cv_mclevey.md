@@ -139,9 +139,19 @@ The table below provides a high-level overview of my peer-reviewed publications 
 
 \ind Mark Stoddart, John McLevey, Vanessa Schweizer, and Catherine Wong (editors). 2020 *Climate Change and Energy Futures*. Special issue of *Society and Natural Resources*.
 
-<!-- # Manuscripts Under Review -->
+# Manuscripts in Progress
 
-<!-- ## Revise & Resubmit -->
+\ind John McLevey. In progress. "Lifestyle politics and mass opinion polarization in global perspective: A longitudinal analysis of population-level belief networks." Working paper. 
+
+\ind John McLevey. In progress. "Normative and associative diffusion in heterogenous populations: A computational experiment." Working paper. 
+
+\ind John McLevey. In progress. "An agent-based computational model of climate change denial." Working paper.
+
+\ind John McLevey. 2022. "Do liberals drink lattes across the multiverse? Cultural learning and the evolution of identities, opinion, and cultural preferences." Working paper. 
+
+\ind John McLevey, Pierson Browne, and Tyler Crick. In progress. "Bayesian latent variable models for social network analysis." In preparation for the second volume of the *Sage Handbook of Social Network Analysis.*
+
+\ind John McLevey, Adam Howe, Yixi Yang, and Yasmin Koop-Monteiro. In progress. "Software for Social Network Analysis" In preparation for the second volume of the *Sage Handbook of Social Network Analysis.*
 
 # Reviews and Other Non-Refereed Publications
 
@@ -209,11 +219,9 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind 2016-2017. Janice Aurini (Co-PI), John McLevey (Co-PI), Rob Gorbet (Co-Applicant). "Assessing the Impact of Classroom-Integrated Robotics on the Cultivation of 21^st^ Century Competencies." Contract with Council of Ontario Directors of Education (CODE) for the Ontario Ministry of Education.
 
-# Open Source Research Software
+# (Selected) Open Source Research Software
 
 \ind \texttt{dcss}: A Python package accompanying John McLevey (2021) *Doing Computational Social Science*. Includes curated datasets and a large collection of utility functions for data processing and working with statistical and machine learning models. Currently in beta and under active development. 
-
-\ind \texttt{bnet}: A Python implementation of probabilistic models for belief network analysis, relational class analysis, and correlational class analysis (all network-based methods for analyzing shared cultural schemas from survey data). Developed by John McLevey. Currently in beta and under active development. 
 
 \ind \href{http://networkslab.org/metaknowledge/}{\texttt{metaknowledge}}: A Python package for quantitative and social networks research in the sociology of science and information science. Developed by Reid McIlroy-Young and John McLevey. First released in 2015. Under active development. Website and documentation: [http://networkslab.org/metaknowledge/](http://networkslab.org/metaknowledge/).
 
@@ -221,9 +229,15 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 \ind \href{http://www.johnmclevey.com/software/}{\texttt{pdpp}}: A Python package for principled data processing, Python. Developed by Pierson Browne, Tyler Crick, Rachel Wood, and John McLevey. First released in 2015. Under active development. Website: [https://github.com/UWNETLAB/pdpp](https://github.com/UWNETLAB/pdpp).
 
-\ind \href{http://networkslab.org/tidyextractors/}{\texttt{tidyextractors}}: A Python package for extracting quantitative datasets from source code repositories, email mbox files, and social media APIs (currently Twitter). Developed and maintained by NetLab RA Joel Becker with NetLab support. Website and documentation: [http://networkslab.org/tidyextractors/](http://networkslab.org/tidyextractors/).
+\ind \texttt{dems}: A Python package implementing methods and models for belief network analysis, relational class analysis, correlational class analysis, and other approaches to analyzing shared cultural schemas from survey data. Developed by John McLevey. Currently in beta and under active development. 
+
+\ind \texttt{simkit}: A Python package for generative modelling (esp. agent-based computational models and probabilistic models) of social influence and cultural learning processes. Developed by John McLevey. Currently in beta and under active development. 
+
+## Other Contributions to Open Source Scientific Software
 
 \ind Contributions to Jonathan de Bruin's Python package \href{https://github.com/J535D165/recordlinkage}{\texttt{recordlinkage}}: A Python package for linking records across multiple data sources when there is no unique ID available. NetLab contributions are focused on implementing new comparison and fusion algorithms that are necessary for advancing my grant-funded empirical research on the structure and evolution of cross-sectoral collaboration networks in science and technology. Most NetLab contributions to \emph{recordlinkage} are implemented by Joel Becker (RA) and occasionally Jillian Anderson (RA), and then submitted to Jonathan de Bruin as pull requests.
+
+\ind \href{http://networkslab.org/tidyextractors/}{\texttt{tidyextractors}}: A Python package for extracting quantitative datasets from source code repositories, email mbox files, and social media APIs (currently Twitter). Developed and maintained by NetLab RA Joel Becker with NetLab support. Website and documentation: [http://networkslab.org/tidyextractors/](http://networkslab.org/tidyextractors/).
 
 \ind \href{http://networkslab.org/gitnet/}{\texttt{gitnet}}: A Python package for mining source code repository and mailing list data and generating network datasets. Developed by Joel Becker, Jillian Anderson, Steve McColl, and John McLevey. First released in 2016. \emph{gitnet} is still publicly available and functional, but development efforts and maintenance have shifted to \emph{tidyextractors} and other Python packages. Website and documentation: [http://networkslab.org/gitnet/](http://networkslab.org/gitnet/)
 
@@ -337,7 +351,11 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ## Invited Research Talks
 
-\ind February 2021. John McLevey. "Reproducibility and Principled Data Processing for Computational Science". Toronto Data Workshop on Reproducibility, Department of Statistical Sciences, University of Toronto.    
+\ind March 18, 2022. John McLevey. "Do liberals drink lattes across the multiverse? Cultural learning, social influence, and mass opinion polarization." Knowledge Integration Seminar Series. University of Waterloo.
+
+\ind February 2022. John McLevey. "Reproducibility and Principled Data Processing for Computational Science". Toronto Data Workshop on Reproducibility, Department of Statistical Sciences, University of Toronto.    
+
+\ind November 26, 2021. John McLevey. "Modelling Meaning: Recent Advances in Computational Text Analysis and Why They Matter for Sociology." Department of Sociology Speaker Series, Memorial University. 
 
 \ind December 2019. John McLevey. "Democracies in Crisis? Online Deception, Disinformation, and Political Polarization." Invited talk in the York University Science and Technology Studies Seminar Series.
 
