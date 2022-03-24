@@ -417,26 +417,27 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ### \emph{As Supervisor (4 Students)}
 
-\noindent - Pierson Browne (supervisor, in progress)       
-\noindent - Alexander Graham (supervisor, in progress)      
-\noindent - Tyler Crick (supervisor, in progress)       
-\noindent - Karmvir Padda (supervisor, incoming Fall 2021)     
-\noindent - Amelia Howard (supervisor, in progress)     
+\noindent - Pierson Browne, ABD Status (supervisor, in progress)       
+\noindent - Alexander Graham, ABD Status (supervisor, in progress)      
+\noindent - Tyler Crick, ABD Status (supervisor, in progress)       
+\noindent - Karmvir Padda (supervisor, in progress)     
+\noindent - Amelia Howard, ABD Status, on indefinite medical leave (supervisor, in progress)     
 
 ### \emph{As Committee Member (7 Students)}
 
 \noindent - Emerson LaCroix (committee member, supervisor Janice Aurini)     
 \noindent - Julie Cook (committee member, supervisor Jennifer Lynes)    
 \noindent - Yixi Yang (committee member, supervisor Mark Stoddart - Memorial University)     
-\noindent - Adam Howe (committee member, supervisor David Tindall - UBC)     
 \noindent - Yasmin Koop-Monteiro (committee member, supervisor David Tindall - UBC)     
 \noindent - François Lachapelle (committee member, supervisor David Tindall - UBC)     
-\noindent - Peter Duggins (committee member, supervisor Chris Eliasmith, Systems Design Engineering)   
+\noindent - Peter Duggins (committee member, supervisor Chris Eliasmith, Systems Design Engineering)     
+\noindent - Keegan Aaron Fernandes (committee member, supervisor Dan Davison, Electrical and Computer Engineering)
 
 ## PhD Dissertations, Successfully Defended
 
-### \emph{As Committee Member (5 Students)}
+### \emph{As Committee Member (6 Students)}
 
+\noindent - Adam Howe (committee member, supervisor David Tindall - UBC, defended March 2022)     
 \noindent - Rod Missaghian (committee member, supervisor Janice Aurini, defended 2020)   
 \noindent - Moutasem Zakkar (committee member, supervisors Craig Janes and Plinio Morita, defended 2020) 
 \noindent - Brittany Etmanski (committee member, supervisor Owen Gallupe, defended 2019)   
