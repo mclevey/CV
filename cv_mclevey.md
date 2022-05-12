@@ -417,10 +417,10 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ### \emph{As Supervisor (4 Students)}
 
+\noindent - Karmvir Padda (supervisor, in progress)   
+\noindent - Tyler Crick, ABD Status (supervisor, in progress)       
 \noindent - Pierson Browne, ABD Status (supervisor, in progress)       
 \noindent - Alexander Graham, ABD Status (supervisor, in progress)      
-\noindent - Tyler Crick, ABD Status (supervisor, in progress)       
-\noindent - Karmvir Padda (supervisor, in progress)     
 \noindent - Amelia Howard, ABD Status, on indefinite medical leave (supervisor, in progress)     
 
 ### \emph{As Committee Member (7 Students)}
@@ -443,6 +443,16 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 \noindent - Brittany Etmanski (committee member, supervisor Owen Gallupe, defended 2019)   
 \noindent - Noorin Manji (committee member, supervisor Lorne Dawson, defended 2018)  
 \noindent - Michael Clarke (committee member, supervisor Kieran Bonner, defended 2016)   
+
+## Master's Theses and Major Research Papers
+
+### **As Supervisor**
+
+\noindent - Nermeen Zia Islam (supervisor, in progress)    
+ 
+### **As Committee Member**  
+
+\noindent - Svetlana Kopan (committee member, supervisor Janice Aurini)    
 
 ## Master's Theses, Successfully Defended (7 Students)
 
