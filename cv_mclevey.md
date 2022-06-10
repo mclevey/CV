@@ -425,6 +425,7 @@ bventions_de_developpement_savoir-eng.aspx), "Collaborative Design in Online Net
 
 ### \emph{As Committee Member (7 Students)}
 
+\noindent - Geisha Sanchez (committee member, supervisor Sarah Burch)   
 \noindent - Emerson LaCroix (committee member, supervisor Janice Aurini)     
 \noindent - Julie Cook (committee member, supervisor Jennifer Lynes)    
 \noindent - Yixi Yang (committee member, supervisor Mark Stoddart - Memorial University)     
