@@ -224,6 +224,13 @@ $endif$
 $if(grants)$
 \vspace{.2cm}
 \section*{Research Grants}
+
+\begin{table}[H]
+\raggedleft
+\caption*{\raggedleft \emph{Overview of Research Grants Since 2013}}
+\input{templates_and_tables/grants.tex}
+\end{table}
+
 \noindent
 $for(grants)$
   \note{$grants.years$}\textbf{$grants.title$}\\
