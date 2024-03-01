@@ -871,7 +871,7 @@ courses:
   id: 'INTEG 120'
   name: "The Art and Science of Learning"
   level: 'Lecture'
-  enrollment: (N)
+  enrollment: (51)
 - year: Fall 2022
   id: 'INTEG 120'
   name: 'The Art and Science of Learning'
