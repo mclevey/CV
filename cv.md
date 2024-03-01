@@ -5,7 +5,7 @@ address:
 - Sociology & Legal Studies (SLS)
 - "University of Waterloo"
 - "Waterloo, ON, Canada"
-- "\\ Citizenship: Canadian"
+- "Citizenship: Canadian"
 phone: "+1 (647) 921-2044"
 email: john.mclevey@uwaterloo.ca
 urls:
