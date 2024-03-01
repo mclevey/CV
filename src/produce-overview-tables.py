@@ -106,15 +106,10 @@ grants.index = ["As Principle Investigator", "As Co-Investigator", "As Collabora
 grants.columns = ["Count"]
 print(grants.to_markdown())
 
-# as_pi = [g for g in grants if "McLevey" in g["pi"]]
-# as_ci = [g for g in grants if "McLevey" in g["ci"]]
-# as_co = [g for g in grants if "McLevey" in g["collaborators"]]
-
-# print(len(as_pi))
-# print(len(as_ci))
-# print(len(as_po))
-# for g in grants:
-#     if "McLevey" in g["pi"]:
+amounts = pd.DataFrame([sum(as_pi_amount), sum(as_ci_amount), sum(as_co_amount)])
+amounts.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
+amounts.columns = ["Value"]
+print(amounts.to_markdown())
 
 
 ############################
