@@ -17,6 +17,7 @@ appointments:
   employer: University of Waterloo
   job: "Associate Chair (Undergraduate)"
   department: 'Knowledge Integration, Faculty of Environment'
+  cross: \vspace{-\baselineskip}
   notes: \vspace{-\baselineskip}
 - years: 2019--Present
   employer: University of Waterloo
