@@ -78,8 +78,16 @@ with open("templates_and_tables/publications.tex", "w") as f:
 grants = cv_data["grants"]
 print(grants)
 
-for g in grants:
-    print(g["pi"])
+as_pi = [g for g in grants if "McLevey" in g["pi"]]
+as_ci = [g for g in grants if "McLevey" in g["ci"]]
+as_co = [g for g in grants if "McLevey" in g["collaborators"]]
+
+print(len(as_pi))
+print(len(as_ci))
+print(len(as_po))
+# for g in grants:
+#     if "McLevey" in g["pi"]:
+
 
 ############################
 # STUDENT SUPERVISION DATA #
