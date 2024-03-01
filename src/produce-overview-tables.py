@@ -124,6 +124,7 @@ amounts.index = ["As Principle Investigator", "As Co-Investigator", "As Collabor
 amounts.columns = ["CAD"]
 amounts["CAD"] = amounts["CAD"].copy().apply(lambda x: "${:,.2f}".format(x))
 grants["CAD"] = amounts["CAD"]
+grants["CAD"].replace("$", "\$", inplace=True)
 
 table(grants, "templates_and_tables/grants.tex")
 
