@@ -115,7 +115,7 @@ def format(x):
     return "${:.1f}K".format(x)
 
 
-amounts["Value"].apply(format)
+print(amounts["Value"].apply(lambda x: "{:,}".format(x)))
 
 print(amounts.to_markdown())
 print("\n")
