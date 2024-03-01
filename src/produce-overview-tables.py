@@ -105,12 +105,13 @@ grants = pd.DataFrame([len(as_pi), len(as_ci), len(as_co)])
 grants.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
 grants.columns = ["Count"]
 print(grants.to_markdown())
+print("\n")
 
 amounts = pd.DataFrame([sum(as_pi_amount), sum(as_ci_amount), sum(as_co_amount)])
 amounts.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
 amounts.columns = ["Value"]
 print(amounts.to_markdown())
-
+print("\n")
 
 ############################
 # STUDENT SUPERVISION DATA #
