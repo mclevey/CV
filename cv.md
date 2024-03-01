@@ -100,32 +100,6 @@ books:
   city: 'London, UK'
   press: Palgrave MacMillan
 
-article-manuscripts:
-- year: R&R
-  authors: 'Owen Gallupe, Noam Gidron, John McLevey, and Annika Hillebrandt'
-  title: "Unpacking the crime-generating effect of exclusionary political rhetoric"
-  journal: "Criminology"
-  status: "Revise & Resubmit, *Criminology*"
-- year: In Progress
-  authors: 'John McLevey, Tyler Crick, Darrin Durant, and Karmvir Padda'
-  title: "How Political Beliefs Form and Evolve: A Generative Stance Model"
-  status: "In Progress"
-- year: In Progress
-  authors: 'John McLevey'
-  title: "How we talk about harm reduction and why it matters"
-  status: "In Progress"
-
-book-manuscripts:
-- year: In Progress
-  authors: 'John McLevey'
-  title: "Cultural Cognition and Mass Opinion Polarization"
-  status: "In Progress"
-- year: In Progress
-  authors: 'John McLevey'
-  title: "Reproducible Research and Generative Modelling for Social and Cognitive Scientists"
-  status: "In Progress"
-
-
 articles:
 - year: 2023
   authors: 'David Tindall, Nina Kolleck, and John McLevey'
@@ -361,6 +335,32 @@ reports:
   authors: 'Janice Aurini, John McLevey, Allyson Stokes, and Rob Gorbet'
   report: 'Classroom Robotics and Acquisition of 21^st^ Century Competencies: An Action Research Study of Nine Ontario School Boards'
   client: 'Prepared for the Council of Ontario Directors of Education (CODE) and the Ministry of Education, Ontario'
+
+
+article-manuscripts:
+- year: R&R
+  authors: 'Owen Gallupe, Noam Gidron, John McLevey, and Annika Hillebrandt'
+  title: "Unpacking the crime-generating effect of exclusionary political rhetoric"
+  journal: "Criminology"
+  status: "Revise & Resubmit, *Criminology*"
+- year: In Progress
+  authors: 'John McLevey, Tyler Crick, Darrin Durant, and Karmvir Padda'
+  title: "How Political Beliefs Form and Evolve: A Generative Stance Model"
+  status: "In Progress"
+- year: In Progress
+  authors: 'John McLevey'
+  title: "How we talk about harm reduction and why it matters"
+  status: "In Progress"
+
+book-manuscripts:
+- year: In Progress
+  authors: 'John McLevey'
+  title: "Cultural Cognition and Mass Opinion Polarization"
+  status: "In Progress"
+- year: In Progress
+  authors: 'John McLevey'
+  title: "Reproducible Research and Generative Modelling for Social and Cognitive Scientists"
+  status: "In Progress"
 
 misc:
 - year: 2021
