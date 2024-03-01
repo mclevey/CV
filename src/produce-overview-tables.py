@@ -76,7 +76,7 @@ with open("templates_and_tables/publications.tex", "w") as f:
 ##############
 
 grants = cv_data["grants"]
-print(grants)
+# print(grants)
 
 as_pi = [g for g in grants if "McLevey" in g["pi"]]
 as_ci = [g for g in grants if "McLevey" in g["ci"]]
