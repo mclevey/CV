@@ -88,8 +88,9 @@ for g in grants:
         as_co.append(g["collaborators"])
 
 
-print(len(as_pi), len(as_ci), len(as_co))
-
+# print(len(as_pi), len(as_ci), len(as_co))
+grants = pd.DataFrame([len(as_pi), len(as_ci), len(as_co)])
+print(grants.to_markdown())
 
 # as_pi = [g for g in grants if "McLevey" in g["pi"]]
 # as_ci = [g for g in grants if "McLevey" in g["ci"]]
