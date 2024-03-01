@@ -71,9 +71,18 @@ publications = counts.to_latex()
 with open("templates_and_tables/publications.tex", "w") as f:
     f.write(publications)
 
+##############
+# GRANT DATA #
+##############
+
+grants = cv_data["grants"]
+print(grants)
+
+
 ############################
 # STUDENT SUPERVISION DATA #
 ############################
+
 status_ug, status_masters, status_phd = [], [], []
 
 for student in cv_data["undergraduate"]:
