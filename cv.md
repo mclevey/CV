@@ -1770,7 +1770,7 @@ mcmaster:
 
 training:
 - year: 2023-2024
-  training: "*Academic Leadership for New Department Chairs and Associate Chairs*, Academic Leadership Program, University of Waterloo. Sessions include: Planning and Prioritizing for Change; Performance Conversations; Marketing, Recruitment, and Admissions; Governance and Policy at UW; Decreasing Unhealthy Conflict and Increasing Healthy Conflict, etc."
+  training: "*Academic Leadership for New Department Chairs and Associate Chairs*, Academic Leadership Program, University of Waterloo. Sessions include: Planning and Prioritizing for Change; Performance Conversations; Marketing, Recruitment, and Admissions; Governance and Policy at UW; Decreasing Unhealthy Conflict and Increasing Healthy Conflict; etc."
 - year: 2016
   training: "Technical / methods workshops attended at Sunbelt 2016, Newport Beach, USA: (1) Understanding Diffusion with netdiffuseR, (2) Moving beyond Descriptives: Basic Network Statistics with statnet, (3) Exponential Family Random Graph Modeling (ERGMs) Using statnet, (4) Introduction to Egocentric Network Data Analysis with ERGMs and TERGMs Using `statnet`"
 - year: 2015
