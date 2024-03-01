@@ -112,7 +112,7 @@ amounts.columns = ["Value"]
 
 
 def format(x):
-    return "${:.1f}K".format(x / 1000)
+    return "${:.1f}K".format(x)
 
 
 amounts["Value"].apply(format)
