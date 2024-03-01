@@ -83,6 +83,8 @@ for g in grants:
         print(g["pi"])
     elif "McLevey" in g["ci"]:
         print(g["ci"])
+    else:
+        print(g["collaborators"])
 
 # as_pi = [g for g in grants if "McLevey" in g["pi"]]
 # as_ci = [g for g in grants if "McLevey" in g["ci"]]
