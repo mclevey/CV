@@ -110,10 +110,10 @@ $endif$
 \noindent
 $for(appointments)$
 \note{$appointments.years$}\textbf{\textsc{$appointments.job$}}\\
-$if(appointments.notes)$$appointments.notes$\\$endif$
-$if(appointments.department)$$appointments.department$\\$endif$
-$if(appointments.cross)$$appointments.cross$\\$endif$
-$if(appointments.employer)$$appointments.employer$$endif$
+$if(appointments.notes)${$appointments.notes$}\\$endif$
+$if(appointments.department)${$appointments.department$}\\$endif$
+$if(appointments.cross)${$appointments.cross$}\\$endif$
+$if(appointments.employer)${$appointments.employer$}$endif$
 \\[.2cm]
 $endfor$
 
