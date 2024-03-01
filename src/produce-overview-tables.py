@@ -81,6 +81,8 @@ grants = cv_data["grants"]
 for g in grants:
     if "McLevey" in g["pi"]:
         print(g["pi"])
+    elif "McLevey" in g["ci"]:
+        print(g["ci"])
 
 # as_pi = [g for g in grants if "McLevey" in g["pi"]]
 # as_ci = [g for g in grants if "McLevey" in g["ci"]]
