@@ -88,7 +88,7 @@ for g in grants:
         as_co.append(g["collaborators"])
 
 
-print(len(as_pi), len(as_ci), len(as_co)
+print(len(as_pi), len(as_ci), len(as_co))
 
 
 # as_pi = [g for g in grants if "McLevey" in g["pi"]]
