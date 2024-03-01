@@ -72,6 +72,7 @@ counts.index = [
 counts.columns = ["Count"]
 
 print(counts.to_markdown())
+print("\n")
 
 publications = counts.to_latex()
 
