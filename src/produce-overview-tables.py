@@ -112,7 +112,7 @@ amounts.columns = ["$CAD"]
 
 
 def format(x):
-    return "${:.1f}K".format(x)
+    return "\$${:.1f}K".format(x)
 
 
 amounts["$CAD"] = amounts["$CAD"].copy().apply(lambda x: "{:,}".format(x))
