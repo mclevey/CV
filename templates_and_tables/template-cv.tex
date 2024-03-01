@@ -1,0 +1,453 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[$fontsize$, a4paper]{article}
+
+% For overview tables...
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{float}
+
+% LAYOUT
+%--------------------------------
+% Margins
+\usepackage{geometry} 
+\geometry{$geometry$}
+
+% Do not indent paragraphs
+\setlength\parindent{0in}
+
+% Enable multicolumns
+\usepackage{multicol}
+\setlength{\columnsep}{-3.5cm}
+
+% Reduce spacing between bullet points
+\usepackage{enumitem}
+
+% Uncomment to suppress page numbers
+% \pagenumbering{gobble}
+
+% LANGUAGE
+%--------------------------------
+% Set the main language
+$if(lang)$
+\usepackage{polyglossia}
+\setmainlanguage{$lang$}
+$endif$
+
+% TYPOGRAPHY
+%--------------------------------
+\usepackage{fontspec} 
+\usepackage{xunicode}
+\usepackage{xltxtra}
+% converts LaTeX specials (quotes, dashes etc.) to Unicode
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont [Ligatures={Common}, Numbers={OldStyle}]{$mainfont$}
+% Cool ampersand
+\newcommand{\amper}{{\fontspec[Scale=.95]{$mainfont$}\selectfont\itshape\&}}
+
+% MARGIN NOTES
+%--------------------------------
+\usepackage{marginnote}
+\newcommand{\note}[1]{\marginnote{\scriptsize #1}}
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{7pt}
+\reversemarginpar
+
+% HEADINGS
+%--------------------------------
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\rmfamily\mdseries\bfseries\scshape} 
+\subsectionfont{\rmfamily\mdseries\bfseries\scshape\normalsize} 
+\subsubsectionfont{\rmfamily\upshape\normalsize} 
+
+% PDF SETUP
+%--------------------------------
+\usepackage{hyperref}
+\hypersetup
+{
+  pdfauthor={$name$},
+  pdfsubject={$name$'s CV},
+  pdftitle={$name$'s CV},
+  colorlinks, breaklinks, xetex, bookmarks,
+  filecolor=black,
+  urlcolor=[rgb]{0.117,0.682,0.858},
+  linkcolor=[rgb]{0.117,0.682,0.858},
+  linkcolor=[rgb]{0.117,0.682,0.858},
+  citecolor=[rgb]{0.117,0.682,0.858}
+}
+
+% DOCUMENT
+%--------------------------------
+\begin{document}
+
+{\LARGE $name$}\\[.05cm]
+
+$if(urls)$
+\begin{multicols}{2}
+$endif$
+
+$for(address)$
+$address$\\
+$endfor$
+
+\vspace{-10pt}
+
+$phone$\\
+\href{mailto:$email$}{$email$}\\
+
+$if(urls)$
+\columnbreak
+
+$for(urls)$
+\href{http://$urls$}{$urls$}\\
+$endfor$
+\end{multicols}
+$endif$
+
+\section*{Appointments}
+\noindent
+$for(appointments)$
+\note{$appointments.years$}\textbf{\textsc{$appointments.job$}}\\
+$if(appointments.notes)$$appointments.notes$\\$endif$
+$if(appointments.department)$$appointments.department$\\$endif$
+$if(appointments.cross)$$appointments.cross$\\$endif$
+$if(appointments.employer)$$appointments.employer$$endif$
+\\[.2cm]
+$endfor$
+
+\section*{Affiliations}
+\noindent
+$for(affiliations)$
+\note{$affiliations.years$}\textbf{\textsc{$affiliations.role$}}\\
+$affiliations.organization$\\
+$affiliations.notes$
+\\[.2cm]
+$endfor$
+
+\section*{Education}
+\noindent
+$for(education)$
+\note{$education.year$}\textbf{$education.subject$}\\
+\emph{$education.institute$}, $education.city$
+\\[.2cm]
+$endfor$
+
+\vspace{.2cm}
+\section*{Research Areas}
+$areas$
+
+\vspace{.2cm}
+\section*{Publications}
+
+$if(books)$
+\subsection*{Books}
+\noindent
+$for(books)$
+  \note{$books.year$}$books.authors$. \emph{$books.title$}. $books.city$: $books.press$. 
+  \\[.2cm]
+$endfor$
+$endif$
+
+$if(articles)$
+\subsection*{Journal Articles}
+(Student co-authors are \emph{italicized})\\
+
+\noindent
+$for(articles)$
+  \note{$articles.year$}$articles.authors$. ``$articles.title$.'' \emph{$articles.journal$}. $if(articles.volume)$$articles.volume$$endif$$if(articles.issue)$($articles.issue$)$endif$$if(articles.pages)$: $articles.pages$.$endif$ 
+  \\[.2cm]
+$endfor$
+$endif$
+
+$if(chapters)$
+\subsection*{Chapters in Edited Volumes}
+(Student co-authors are \emph{italicized})\\
+
+\noindent
+$for(chapters)$
+  \note{$chapters.year$}$chapters.authors$. ``$chapters.title$.'' In $chapters.editors$ (Eds). \emph{$chapters.book$}. $chapters.city$: $chapters.press$. \\[.2cm]
+$endfor$
+$endif$
+
+$if(issues)$
+\subsection*{Edited Special Issues}
+\noindent
+$for(issues)$
+  \note{$issues.year$}$issues.editors$ (Guest Journal Editors). ``$issues.theme$.'' Special issue of \emph{$issues.journal$}.\\[.2cm]
+$endfor$
+$endif$
+
+% \vspace{-30pt}
+
+$if(article-manuscripts)$
+\subsection*{Article Manuscripts in Progress}
+\noindent
+$for(article-manuscripts)$
+  \note{$article-manuscripts.year$}$article-manuscripts.authors$. ``$article-manuscripts.title$.'' $article-manuscripts.status$.\\[.2cm]
+$endfor$
+$endif$
+
+$if(book-manuscripts)$
+\subsection*{Book Manuscripts in Progress}
+\noindent
+$for(book-manuscripts)$
+  \note{$book-manuscripts.year$}$book-manuscripts.authors$. ``$book-manuscripts.title$.'' $book-manuscripts.status$.\\[.2cm]
+$endfor$
+$endif$
+
+$if(reports)$
+\subsection*{Research \& Policy Reports}
+\noindent
+$for(reports)$
+  \note{$reports.year$}$reports.authors$. ``$reports.report$.'' $reports.client$.\\[.2cm]
+$endfor$
+$endif$
+
+
+$if(misc)$
+\vspace{.2cm}
+\section*{Reviews and Other Short Non-Refereed Publications}
+\noindent
+$for(misc)$
+  \note{$misc.year$}$misc.authors$. ``$misc.title$.'' $misc.details$.\\[.2cm]
+$endfor$
+$endif$
+
+$if(grants)$
+\vspace{.2cm}
+\section*{Research Grants}
+\noindent
+$for(grants)$
+  \note{$grants.years$}\textbf{$grants.title$}\\
+  $grants.amount$ -- \emph{$grants.grant$}\\
+  $grants.pi$ (Principal Investigator)$if(grants.ci)$, $grants.ci$ (Co-investigators)$endif$$if(grants.collaborators)$, $grants.collaborators$ (Collaborators)$endif$.\\[.2cm]
+$endfor$
+$endif$
+
+$if(teachinggrants)$
+\vspace{.2cm}
+\section*{Teaching Grants}
+\noindent
+$for(teachinggrants)$
+  \note{$teachinggrants.years$}\textbf{$teachinggrants.title$}\\
+  $teachinggrants.amount$ -- \emph{$teachinggrants.grant$}\\
+  $teachinggrants.pi$ (Principal Investigator)$if(teachinggrants.ci)$, $teachinggrants.ci$ (Co-investigators)$endif$$if(teachinggrants.collaborators)$, $teachinggrants.collaborators$ (Collaborators)$endif$.\\[.2cm]
+$endfor$
+$endif$
+
+$if(awards)$
+\vspace{.2cm}
+\section*{Awards and Selected Scholarships}
+\noindent
+$for(awards)$
+  \note{$awards.year$}\textbf{$awards.award$}\\
+  $if(awards.amount)$$awards.amount$ -- $endif$$if(awards.organization)$\emph{$awards.organization$}$endif$\\[.2cm]
+$endfor$
+$endif$
+
+$if(contracts)$
+\vspace{.2cm}
+\section*{Policy Research Contracts}
+\noindent
+$for(contracts)$
+  \note{$contracts.years$}\textbf{$contracts.title$}\\
+  $if(contracts.contracted)$$contracts.contracted$$endif$. $contracts.organization$.\\[.2cm]
+$endfor$
+$endif$
+
+$if(software)$
+\vspace{.2cm}
+\section*{(Selected) Scientific Software, Designed and Developed}
+\noindent
+$for(software)$
+  \note{\textbf{\texttt{$software.package$}}}$software.description$ It is designed, developed, and maintained by $software.development$.\\
+  License: $software.license$\\[.2cm]
+$endfor$
+$endif$
+
+$if(othersoftware)$
+\vspace{.2cm}
+\section*{Other Contributions to Scientific Software}
+\noindent
+$for(othersoftware)$
+  \note{\textbf{\texttt{$othersoftware.package$}}}$othersoftware.description$ 
+  \\[.2cm]
+$endfor$
+$endif$
+
+$if(conferences)$
+\vspace{.2cm}
+\section*{Conference Presentations}
+\noindent
+$for(conferences)$
+  \note{$conferences.year$}$conferences.authors$. ``$conferences.title$'' \emph{$conferences.conference$}. $if(conferences.location)$$conferences.location$$endif$.\\[.2cm]
+$endfor$
+$endif$
+
+
+$if(invited)$
+\vspace{.2cm}
+\section*{Invited Talks}
+\noindent
+$for(invited)$
+  \note{$invited.year$}$invited.authors$. ``$invited.title$'' \emph{$invited.conference$}. $if(invited.location)$$invited.location$$endif$.\\[.2cm]
+$endfor$
+$endif$
+
+\section*{Teaching}
+\subsection*{Assigned Courses}
+\noindent
+$for(courses)$
+\note{$courses.year$}$courses.id$ -- \emph{$courses.name$}\\
+$courses.level$, $courses.enrollment$ Students
+\\[.2cm]
+$endfor$
+
+\subsection*{Reading Courses (Not Assigned)}
+\noindent
+$for(reading)$
+\note{$reading.year$}\emph{$reading.name$}\\
+$reading.level$
+\\[.2cm]
+$endfor$
+
+\vspace{.2cm}
+\section*{Student Supervision}
+
+\begin{table}[H]
+\raggedleft
+\caption*{\raggedleft \emph{Overview of Student Supervision and Committee Membership Since 2013}}
+\input{templates_and_tables/student-supervision.tex}
+\end{table}
+
+$if(phd)$
+\subsection*{PhD Student Supervision and Dissertation Committee Membership}
+$for(phd)$
+\note{$phd.status$}\emph{$phd.student$} ($phd.department$)\\
+$phd.supervisor$ (Supervisor)$if(phd.committee)$ + $phd.committee$$endif$ $if(phd.enddate)$ \\ $phd.enddate$$endif$
+\\[.2cm]
+$endfor$
+$endif$
+
+$if(masters)$
+\subsection*{Master of Arts (MA) and Master of Science (MSc) Student Theses}
+$for(masters)$
+\note{$masters.status$}\emph{$masters.student$} ($masters.department$)\\
+Advisory Role: $masters.role$
+\\[.2cm]
+$endfor$
+$endif$
+
+$if(undergraduate)$
+\subsection*{Supervised Undergraduate Honours Theses \& Design Projects}
+$for(undergraduate)$
+\note{$undergraduate.year$}\emph{$undergraduate.student$} ($undergraduate.department$). $if(undergraduate.thesis)$``$undergraduate.thesis$''$endif$
+\\[.2cm]
+$endfor$
+$endif$
+
+$if(hqp)$
+\subsection*{Highly Qualified Personnel (HQP) Training (Research Positions)}
+$for(hqp)$
+\note{$hqp.year$}$if(hqp.gra)$\strong{Graduate HQP}\\ $hqp.gra$$endif$ $if(hqp.ura)$ \\ \strong{Undergraduate HQP}\\ $hqp.ura$$endif$
+\\[.2cm]
+$endfor$
+$endif$
+
+
+$if(othergrad)$
+\subsection*{Other Highly Qualified Personnel (HQP) Training (Workshops, Short Courses)}
+$for(othergrad)$
+\note{$othergrad.year$}$othergrad.training$
+\\[.2cm]
+$endfor$
+$endif$
+
+\section*{Service -- To the Profession}
+
+$if(profession)$
+\noindent
+$for(profession)$
+  \note{$profession.year$}$profession.role$.\\[.2cm]
+$endfor$
+$endif$
+
+$if(prarticles)$
+\subsection*{Peer Reviewing - Academic Journals}
+\begin{itemize}[noitemsep]
+  $for(prarticles)$
+    \item $prarticles.journal$
+  $endfor$
+\end{itemize}
+$endif$
+
+$if(prbooks)$
+\subsection*{Peer Reviewing - Books}
+\begin{itemize}[noitemsep]
+  $for(prbooks)$
+    \item $prbooks.book$
+  $endfor$
+\end{itemize}
+$endif$
+
+$if(prgrants)$
+\subsection*{Peer Reviewing / Evaluation - Grants}
+  $for(prgrants)$
+  \note{$prgrants.year$}$prgrants.grant$\\[.2cm]
+  $endfor$
+$endif$
+
+$if(prother)$
+\subsection*{Peer Reviewing - Other}
+  $for(prother)$
+  \note{$prother.year$}$prother.what$\\[.2cm]
+  $endfor$
+$endif$
+
+$if(sessions)$
+\subsection*{Conference Sessions Organized}
+\noindent
+$for(sessions)$
+  \note{$sessions.year$}$sessions.session$.\\[.2cm]
+$endfor$
+$endif$
+
+\section*{Service -- University of Waterloo}
+$if(suwaterloo)$
+\noindent
+$for(suwaterloo)$
+  \note{$suwaterloo.year$}$suwaterloo.role$\\[.2cm]
+$endfor$
+$endif$
+
+\section*{Service -- McMaster University}
+$if(mcmaster)$
+\noindent
+$for(mcmaster)$
+  \note{$mcmaster.year$}$mcmaster.role$\\[.2cm]
+$endfor$
+$endif$
+
+\section*{Other Technical Training (Courses and Workshops Only)}
+$if(technical)$
+\noindent
+$for(technical)$
+  \note{$technical.year$}$technical.training$\\[.2cm]
+$endfor$
+$endif$
+
+\section*{Research and Teaching Assistantships (2008-2013)}
+$if(rata)$
+\noindent
+$for(rata)$
+  \note{$rata.year$}$rata.position$\\[.2cm]
+$endfor$
+$endif$
+
+\section*{Professional Memberships}
+\noindent
+$memberships$
+
+\end{document}
