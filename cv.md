@@ -1536,7 +1536,7 @@ hqp:
 
 othergrad:
 - year: 2024
-  training: "John McLevey, *Introduction to Computational Social Science with Python* (5 days), GESIS Fall Seminar in Computational Social Science, Leibniz Institute for the Social Sciences, Cologne Germany. Course materials co-designed with Johannes Gruber (University of Amsterdam), who teaches the R course."
+  training: "Instructor for *Introduction to Computational Social Science with Python* (5 days), GESIS Fall Seminar in Computational Social Science, Leibniz Institute for the Social Sciences, Cologne Germany. Course materials co-designed with Johannes Gruber (University of Amsterdam), who teaches the R course."
 - year: 2018-Present
   training: "Co-Instructor (with Eric Kennedy) for *Science Outside the Lab (SOtL) North*: a week long intensive course in science policy held annually in Ottawa and Montréal or Vancouver and Victoria. Each course cohort is ~ 14 graduate students from science and engineering disciplines across Canada."
 - year: 2020
