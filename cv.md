@@ -8,7 +8,6 @@ address:
 - "Citizenship: Canadian"
 phone: "+1 (647) 921-2044"
 email: john.mclevey@uwaterloo.ca
-# Insert URLs without http://
 urls:
 - www.johnmclevey.com/
 - github.com/mclevey/
@@ -1792,7 +1791,7 @@ lang: en-GB
 geometry: a4paper, left=35mm, right=35mm, top=25mm, bottom=25mm
 ---
 
-<!-- 
+<!--
 # References
 
 \ind Harry Collins, Fellow of the British Academy, Distinguished Research Professor, School of Social Sciences, Cardiff University, <CollinsHM@cf.ac.uk>
