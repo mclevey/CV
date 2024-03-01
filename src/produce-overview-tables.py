@@ -27,7 +27,53 @@ def count_binary_status(status_list):
 cv_data = read_yaml_cv_data("cv.md")
 data_keys = list(cv_data.keys())
 
-# STUDENT SUPERVISION DATA
+####################
+# PUBLICATION DATA #
+####################
+
+books = cv_data["books"]
+articles = cv_data["articles"]
+chapters = cv_data["chapters"]
+reports = cv_data["reports"]
+issues = cv_data["issues"]
+article_manuscripts = cv_data["article-manuscripts"]
+book_manuscripts = cv_data["book-manuscripts"]
+misc = cv_data["misc"]
+
+counts = [
+    len(books),
+    len(articles),
+    len(chapters),
+    len(reports),
+    len(issues),
+    len(article_manuscripts),
+    len(book_manuscripts),
+    len(misc),
+]
+counts = pd.DataFrame(counts)
+counts.index = [
+    "Books",
+    "Refereed Journal Articles",
+    "Refereed Book Chapters",
+    "Research \& Policy Reports",
+    "Special Issues of Journals",
+    "Article Manuscripts in Progress",
+    "Book Manuscripts in Progress",
+    "Non-refereed Publications",
+]
+counts.columns = ["Count"]
+
+print(counts.to_markdown())
+
+publications = counts.to_latex()
+
+# Write to a text file
+with open("templates_and_tables/publications.tex", "w") as f:
+    f.write(publications)
+
+############################
+# STUDENT SUPERVISION DATA #
+############################
 status_ug, status_masters, status_phd = [], [], []
 
 for student in cv_data["undergraduate"]:
