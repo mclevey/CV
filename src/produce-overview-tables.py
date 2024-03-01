@@ -78,6 +78,8 @@ with open("templates_and_tables/publications.tex", "w") as f:
 grants = cv_data["grants"]
 print(grants)
 
+for g in grants:
+    print(g["pi"])
 
 ############################
 # STUDENT SUPERVISION DATA #
