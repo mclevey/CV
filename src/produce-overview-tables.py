@@ -78,19 +78,23 @@ with open("templates_and_tables/publications.tex", "w") as f:
 grants = cv_data["grants"]
 
 as_pi, as_ci, as_co = [], [], []
+as_pi_amount, as_ci_amount, as_co_amount = [], [], []
 
 for g in grants:
     if "McLevey" in g["pi"]:
         as_pi.append(g["pi"])
+        as_pi_amount.append(g["amount"])
     elif "McLevey" in g["ci"]:
         as_ci.append(g["ci"])
+        as_ci_amount.append(g["amount"])
     else:
         as_co.append(g["collaborators"])
+        as_co_amount.append(g["amount"])
 
+print(as_pi_amount, as_ci_amount, as_co_amount)
 
-# print(len(as_pi), len(as_ci), len(as_co))
 grants = pd.DataFrame([len(as_pi), len(as_ci), len(as_co)])
-grants.index = ["Principle Investigator", "Co-Investigator", "Collaborator"]
+grants.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
 grants.columns = ["Count"]
 print(grants.to_markdown())
 
