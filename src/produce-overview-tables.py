@@ -126,3 +126,37 @@ amounts["CAD"] = amounts["CAD"].copy().apply(lambda x: "${:,.2f}".format(x))
 grants["CAD"] = amounts["CAD"]
 
 table(grants, "templates_and_tables/grants.tex")
+
+############################
+# STUDENT SUPERVISION DATA #
+############################
+
+status_ug, status_masters, status_phd = [], [], []
+
+for student in cv_data["undergraduate"]:
+    status_ug.append(student["student"])
+
+for student in cv_data["phd"]:
+    status_phd.append(student["status"])
+
+for student in cv_data["masters"]:
+    status_masters.append(student["status"])
+
+phd = pd.Series(
+    count_binary_status(status_phd),
+    index=["Total", "Complete", "In Progress"],
+    name="PhD Dissertations",
+)
+masters = pd.Series(
+    count_binary_status(status_masters),
+    index=["Total", "Complete", "In Progress"],
+    name="Masters Theses",
+)
+ug = pd.Series(
+    [len(status_ug), len(status_ug), 0],
+    index=["Total", "Complete", "In Progress"],
+    name="Undergraduate Theses",
+)
+
+students = pd.DataFrame([ug, masters, phd])
+table(students, "templates_and_tables/student-supervision.tex")
