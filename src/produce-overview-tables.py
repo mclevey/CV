@@ -52,7 +52,7 @@ counts = [
 ]
 counts = pd.DataFrame(counts)
 counts.index = [
-    "Books",
+    "Refereed Books",
     "Refereed Journal Articles",
     "Refereed Book Chapters",
     "Research \& Policy Reports",
