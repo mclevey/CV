@@ -90,6 +90,8 @@ for g in grants:
 
 # print(len(as_pi), len(as_ci), len(as_co))
 grants = pd.DataFrame([len(as_pi), len(as_ci), len(as_co)])
+grants.index = ["Principle Investigator", "Co-Investigator", "Collaborator"]
+grants.columns = ["Count"]
 print(grants.to_markdown())
 
 # as_pi = [g for g in grants if "McLevey" in g["pi"]]
