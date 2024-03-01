@@ -126,7 +126,7 @@ amounts["CAD"] = amounts["CAD"].copy().apply(lambda x: "${:,.2f}".format(x))
 grants["CAD"] = amounts["CAD"].astype(str)
 grants["CAD"].replace("$", "\$", inplace=True)
 
-table(grants, "templates_and_tables/grants.tex")
+# table(grants, "templates_and_tables/grants.tex")
 
 ############################
 # STUDENT SUPERVISION DATA #
