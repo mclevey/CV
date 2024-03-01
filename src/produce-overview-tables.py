@@ -99,8 +99,6 @@ for g in grants:
         as_co.append(g["collaborators"])
         as_co_amount.append(extract_dollar_value(g["amount"]))
 
-print(as_pi_amount, as_ci_amount, as_co_amount)
-
 grants = pd.DataFrame([len(as_pi), len(as_ci), len(as_co)])
 grants.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
 grants.columns = ["Count"]
