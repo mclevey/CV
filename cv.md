@@ -17,6 +17,7 @@ appointments:
   employer: University of Waterloo
   job: "Associate Chair (Undergraduate)"
   department: 'Knowledge Integration, Faculty of Environment'
+  notes: (Vanessa Schweizer is Interim while I am on parental leave.)
 - years: 2019--Present
   employer: University of Waterloo
   job: Associate Professor (with tenure)
@@ -25,7 +26,7 @@ appointments:
   notes: 'ADDS Status - Approved Doctoral Dissertation Supervisor'
 - years: 2013--2019
   employer: University of Waterloo
-  job: Assistant Professor (tenure track)
+  job: Assistant Professor (tenure track) 
   department: 'Knowledge Integration, Faculty of Environment'
   cross: 'Sociology & Legal Studies, Faculty of Arts'
   notes: 'ADDS Status - Approved Doctoral Dissertation Supervisor'
