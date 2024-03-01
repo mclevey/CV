@@ -32,6 +32,10 @@ def extract_dollar_value(s):
     return float(match.group()) if match else None
 
 
+def format(x):
+    return "${:.1f}K".format(x)
+
+
 cv_data = read_yaml_cv_data("cv.md")
 data_keys = list(cv_data.keys())
 
@@ -102,22 +106,16 @@ for g in grants:
 
 grants = pd.DataFrame([len(as_pi), len(as_ci), len(as_co)])
 grants.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
-grants.columns = ["Count"]
-print(grants.to_markdown())
-print("\n")
+grants.columns = ["No. of Grants"]
 
 amounts = pd.DataFrame([sum(as_pi_amount), sum(as_ci_amount), sum(as_co_amount)])
 amounts.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
 amounts.columns = ["CAD"]
-
-
-def format(x):
-    return "${:.1f}K".format(x)
-
-
 amounts["CAD"] = amounts["CAD"].copy().apply(lambda x: "${:,.2f}".format(x))
 
-print(amounts.to_markdown())
+grants["CAD"] = amounts["CAD"]
+
+print(grants.to_markdown())
 print("\n")
 
 ############################
