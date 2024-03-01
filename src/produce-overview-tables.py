@@ -37,7 +37,7 @@ def extract_dollar_value(s):
 
 
 def format(x):
-    return "${:.1f}K".format(x)
+    return "\${:.1f}K".format(x)
 
 
 def table(df, filename):
