@@ -94,3 +94,35 @@ counts.index = [
 counts.columns = ["Count"]
 
 table(counts, "templates_and_tables/publications.tex")
+
+##############
+# GRANT DATA #
+##############
+
+grants = cv_data["grants"]
+
+as_pi, as_ci, as_co = [], [], []
+as_pi_amount, as_ci_amount, as_co_amount = [], [], []
+
+for g in grants:
+    if "McLevey" in g["pi"]:
+        as_pi.append(g["pi"])
+        as_pi_amount.append(extract_dollar_value(g["amount"]))
+    elif "McLevey" in g["ci"]:
+        as_ci.append(g["ci"])
+        as_ci_amount.append(extract_dollar_value(g["amount"]))
+    else:
+        as_co.append(g["collaborators"])
+        as_co_amount.append(extract_dollar_value(g["amount"]))
+
+grants = pd.DataFrame([len(as_pi), len(as_ci), len(as_co)])
+grants.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
+grants.columns = ["No. of Grants"]
+
+amounts = pd.DataFrame([sum(as_pi_amount), sum(as_ci_amount), sum(as_co_amount)])
+amounts.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
+amounts.columns = ["CAD"]
+amounts["CAD"] = amounts["CAD"].copy().apply(lambda x: "${:,.2f}".format(x))
+grants["CAD"] = amounts["CAD"]
+
+table(grants, "templates_and_tables/grants.tex")
