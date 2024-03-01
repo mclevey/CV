@@ -1680,6 +1680,8 @@ prother:
   what: "Sage Campus Course. (Online research design classes)"
 
 suwaterloo:
+- year: 2024-Present
+  role: "Associate Chair (Undergraduate), Knowledge Integration. (*Vanessa Schweizer is interium while I am on parental leave*.)"
 - year: 2022-2023
   role: "Knowledge Integration Department Chair Search and Selection Committee"
 - year: 2023 (07-...)
