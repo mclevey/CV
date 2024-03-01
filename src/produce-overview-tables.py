@@ -24,6 +24,14 @@ def count_binary_status(status_list):
     return total, n_complete, in_progress
 
 
+def extract_dollar_value(s):
+    # Remove dollar sign, commas and whitespace
+    s = re.sub(r"[$,\s]", "", s)
+    # Extract and return the first floating point number
+    match = re.search(r"\d+(\.\d+)?", s)
+    return float(match.group()) if match else None
+
+
 cv_data = read_yaml_cv_data("cv.md")
 data_keys = list(cv_data.keys())
 
@@ -83,13 +91,13 @@ as_pi_amount, as_ci_amount, as_co_amount = [], [], []
 for g in grants:
     if "McLevey" in g["pi"]:
         as_pi.append(g["pi"])
-        as_pi_amount.append(g["amount"].extract("\$([0-9,.]+)"))
+        as_pi_amount.append(extract_dollar_value(g["amount"]))
     elif "McLevey" in g["ci"]:
         as_ci.append(g["ci"])
-        as_ci_amount.append(g["amount"].extract("\$([0-9,.]+)"))
+        as_ci_amount.append(extract_dollar_value(g["amount"]))
     else:
         as_co.append(g["collaborators"])
-        as_co_amount.append(g["amount"].extract("\$([0-9,.]+)"))
+        as_co_amount.append(extract_dollar_value(g["amount"]))
 
 print(as_pi_amount, as_ci_amount, as_co_amount)
 
