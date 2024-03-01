@@ -1643,6 +1643,7 @@ sessions:
 prarticles:
 - journal: "Nature Communications"
 - journal: "American Journal of Sociology"
+- journal: "American Sociological Review"
 - journal: "Social Networks"
 - journal: "Canadian Review of Sociology"
 - journal: "Science and Public Policy"
