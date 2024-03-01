@@ -17,7 +17,7 @@ appointments:
   employer: University of Waterloo
   job: "Associate Chair (Undergraduate)"
   department: 'Knowledge Integration, Faculty of Environment'
-  notes: (Vanessa Schweizer is Interim while I am on parental leave.)
+  notes: \vspace{-\baselineskip}
 - years: 2019--Present
   employer: University of Waterloo
   job: Associate Professor (with tenure)
