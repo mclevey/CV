@@ -45,7 +45,7 @@ def table(df, filename):
         print("\n")
         sys.stdout.write(df.to_markdown())
         print("\n")
-    table_tex = df.to_latex()
+    table_tex = df.to_latex(escape=True)
     with open(filename, "w") as f:
         f.write(table_tex)
 
@@ -126,7 +126,7 @@ amounts["CAD"] = amounts["CAD"].copy().apply(lambda x: "${:,.2f}".format(x))
 grants["CAD"] = amounts["CAD"].astype(str)
 grants["CAD"].replace("$", "\$", inplace=True)
 
-# table(grants, "templates_and_tables/grants.tex")
+table(grants, "templates_and_tables/grants.tex")
 
 ############################
 # STUDENT SUPERVISION DATA #
