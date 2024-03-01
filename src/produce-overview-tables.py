@@ -83,13 +83,13 @@ as_pi_amount, as_ci_amount, as_co_amount = [], [], []
 for g in grants:
     if "McLevey" in g["pi"]:
         as_pi.append(g["pi"])
-        as_pi_amount.append(g["amount"])
+        as_pi_amount.append(g["amount"].extract("\$([0-9,.]+)"))
     elif "McLevey" in g["ci"]:
         as_ci.append(g["ci"])
-        as_ci_amount.append(g["amount"])
+        as_ci_amount.append(g["amount"].extract("\$([0-9,.]+)"))
     else:
         as_co.append(g["collaborators"])
-        as_co_amount.append(g["amount"])
+        as_co_amount.append(g["amount"].extract("\$([0-9,.]+)"))
 
 print(as_pi_amount, as_ci_amount, as_co_amount)
 
