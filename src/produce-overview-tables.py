@@ -5,6 +5,10 @@ import sys
 
 print_tables = True
 
+####################
+# CUSTOM FUNCTIONS #
+####################
+
 
 def read_yaml_cv_data(filename):
     with open(filename, "r") as file:
@@ -35,6 +39,20 @@ def extract_dollar_value(s):
 def format(x):
     return "${:.1f}K".format(x)
 
+
+def table(df, filename):
+    if print_tables:
+        print("\n")
+        sys.stdout.write(df.to_markdown())
+        print("\n")
+    table_tex = df.to_latex()
+    with open(filename, "w") as f:
+        f.write(table_tex)
+
+
+###########
+# CV DATA #
+###########
 
 cv_data = read_yaml_cv_data("cv.md")
 data_keys = list(cv_data.keys())
@@ -75,87 +93,4 @@ counts.index = [
 ]
 counts.columns = ["Count"]
 
-print(counts.to_markdown())
-print("\n")
-
-publications = counts.to_latex()
-
-# Write to a text file
-with open("templates_and_tables/publications.tex", "w") as f:
-    f.write(publications)
-
-##############
-# GRANT DATA #
-##############
-
-grants = cv_data["grants"]
-
-as_pi, as_ci, as_co = [], [], []
-as_pi_amount, as_ci_amount, as_co_amount = [], [], []
-
-for g in grants:
-    if "McLevey" in g["pi"]:
-        as_pi.append(g["pi"])
-        as_pi_amount.append(extract_dollar_value(g["amount"]))
-    elif "McLevey" in g["ci"]:
-        as_ci.append(g["ci"])
-        as_ci_amount.append(extract_dollar_value(g["amount"]))
-    else:
-        as_co.append(g["collaborators"])
-        as_co_amount.append(extract_dollar_value(g["amount"]))
-
-grants = pd.DataFrame([len(as_pi), len(as_ci), len(as_co)])
-grants.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
-grants.columns = ["No. of Grants"]
-
-amounts = pd.DataFrame([sum(as_pi_amount), sum(as_ci_amount), sum(as_co_amount)])
-amounts.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
-amounts.columns = ["CAD"]
-amounts["CAD"] = amounts["CAD"].copy().apply(lambda x: "${:,.2f}".format(x))
-
-grants["CAD"] = amounts["CAD"]
-
-print(grants.to_markdown())
-print("\n")
-
-############################
-# STUDENT SUPERVISION DATA #
-############################
-
-status_ug, status_masters, status_phd = [], [], []
-
-for student in cv_data["undergraduate"]:
-    status_ug.append(student["student"])
-
-for student in cv_data["phd"]:
-    status_phd.append(student["status"])
-
-for student in cv_data["masters"]:
-    status_masters.append(student["status"])
-
-phd = pd.Series(
-    count_binary_status(status_phd),
-    index=["Total", "Complete", "In Progress"],
-    name="PhD Dissertations",
-)
-masters = pd.Series(
-    count_binary_status(status_masters),
-    index=["Total", "Complete", "In Progress"],
-    name="Masters Theses",
-)
-ug = pd.Series(
-    [len(status_ug), len(status_ug), 0],
-    index=["Total", "Complete", "In Progress"],
-    name="Undergraduate Theses",
-)
-
-df = pd.DataFrame([ug, masters, phd])
-
-if print_tables:
-    print("\n")
-    sys.stdout.write(df.to_markdown())
-    print("\n")
-
-student_supervision_table = df.to_latex()
-with open("templates_and_tables/student-supervision.tex", "w") as f:
-    f.write(student_supervision_table)
+table(counts, "templates_and_tables/publications.tex")
