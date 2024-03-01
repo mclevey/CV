@@ -123,7 +123,7 @@ amounts = pd.DataFrame([sum(as_pi_amount), sum(as_ci_amount), sum(as_co_amount)]
 amounts.index = ["As Principle Investigator", "As Co-Investigator", "As Collaborator"]
 amounts.columns = ["CAD"]
 amounts["CAD"] = amounts["CAD"].copy().apply(lambda x: "${:,.2f}".format(x))
-grants["CAD"] = amounts["CAD"]
+grants["CAD"] = amounts["CAD"].astype(str)
 grants["CAD"].replace("$", "\$", inplace=True)
 
 table(grants, "templates_and_tables/grants.tex")
