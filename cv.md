@@ -393,7 +393,7 @@ grants:
   amount: '$20,000'
 - years: 2020--2025
   pi: 'Kathryn S. Plaisance'
-  ci: 
+  ci: ''
   collaborators: "Kevin Elliott, Michael O'Rourke, Lisbeth Berbary, and John McLevey"
   title: 'Engaging Science with Philosophy: Best Practices for Fostering Effective Collaboration'
   grant: 'SSHRC Insight Grant'
@@ -421,14 +421,14 @@ grants:
   amount: '$282,672'
 - years: 2016--2020
   pi: John McLevey
-  ci: 
+  ci: ''
   collaborators:
   title: 'Information and Idea Diffusion in an Open Source Collaboration Network'
   grant: 'Early Researcher Award (ERA), Ontario Ministry of Research & Innovation'
   amount: '$150,000'
 - years: 2016--2018
   pi: John McLevey
-  ci: 
+  ci: ''
   collaborators: 'Owen Gallupe, Martin Cooke'
   title: 'Remaking the Boundaries of Open and Proprietary Science: A Longitudinal Study of Biomedical Research and Development Networks in Canada'
   grant: 'SSHRC Insight Development Grant'
@@ -456,14 +456,14 @@ grants:
   amount: '$188,432'
 - years: 2014--2016
   pi: John McLevey
-  ci: 
+  ci: ''
   collaborators:
   title: 'Collaborative Design in Online Networks'
   grant: 'SSHRC Insight Grant'
   amount: '$78,814'
 - years: 2013
   pi: John McLevey
-  ci: 
+  ci: ''
   collaborators:
   title: 'Faculty Research Startup Grant'
   grant: 'University of Waterloo'
@@ -472,7 +472,7 @@ grants:
 teachinggrants:
 - years: 2015--2016
   pi: John McLevey
-  ci: 
+  ci: ''
   collaborators:
   title: 'A Data-Driven and Interactive Approach to Enhancing Student Learning about Disciplinary and Interdisciplinary Knowledge Production'
   grant: 'LITE Seed Grant, Centre for Teaching Excellence, University of Waterloo'
