@@ -1641,19 +1641,19 @@ sessions:
   session: '*Sociology of Culture* (with Dr. Allyson Stokes), CSA'
 
 prarticles:
-- journal: "Nature Communications"
-- journal: "American Journal of Sociology"
-- journal: "American Sociological Review"
-- journal: "Social Networks"
-- journal: "Canadian Review of Sociology"
-- journal: "Science and Public Policy"
-- journal: "Scientometrics"
-- journal: "Sociological Theory"
-- journal: "Social Studies of Science"
-- journal: "Canadian Journal of Sociology"
-- journal: "Methodological Innovations"
-- journal: "Acta Sociologica"
-- journal: "Society & Natural Resources"
+- journal: "*Nature Communications*"
+- journal: "*American Journal of Sociology*"
+- journal: "*American Sociological Review*"
+- journal: "*Social Networks*"
+- journal: "*Canadian Review of Sociology*"
+- journal: "*Science and Public Policy*"
+- journal: "*Scientometrics*"
+- journal: "*Sociological Theory*"
+- journal: "*Social Studies of Science*"
+- journal: "*Canadian Journal of Sociology*"
+- journal: "*Methodological Innovations*"
+- journal: "*Acta Sociologica*"
+- journal: "*Society & Natural Resources*"
 
 prbooks:
 - year: 2019
