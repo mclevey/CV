@@ -1,5 +1,5 @@
 ---
-name: "Dr. John McLevey"
+name: "Dr. John McLevey (he/him)"
 address:
 - Knowledge Integration (KI)
 - Sociology & Legal Studies (SLS)
@@ -871,7 +871,7 @@ courses:
   id: 'INTEG 120'
   name: "The Art and Science of Learning"
   level: 'Lecture'
-  enrollment: (51)
+  enrollment: (47)
 - year: Fall 2022
   id: 'INTEG 120'
   name: 'The Art and Science of Learning'
