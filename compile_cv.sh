@@ -10,4 +10,4 @@ echo -e ✅ Pushing to git repo
 git add . && git commit -m 'routine cv update' && git push
 
 echo -e ✅ Copying files to mun-application
-cp cv.pdf /Users/johnmclevey/Vaults/EC2/mun-application/_application/
+cp cv.pdf ~/Vaults/EC2/applications/mun-2024/_application/
