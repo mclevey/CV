@@ -355,7 +355,7 @@ article-manuscripts:
 book-manuscripts:
 - year: In Progress
   authors: 'John McLevey'
-  title: "Cultural Cognition and Mass Opinion Polarization"
+  title: "Cultural Cognition, Identity, and Mass Opinion Polarization"
   status: "In Progress"
 - year: In Progress
   authors: 'John McLevey'
