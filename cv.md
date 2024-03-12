@@ -353,10 +353,10 @@ article-manuscripts:
   status: "In Progress"
 
 book-manuscripts:
-- year: In Progress
-  authors: 'John McLevey'
-  title: "Cultural Cognition, Identity, and Mass Opinion Polarization"
-  status: "In Progress"
+# - year: In Progress
+#   authors: 'John McLevey'
+#   title: "Cultural Cognition, Identity, and Mass Opinion Polarization"
+#   status: "In Progress"
 - year: In Progress
   authors: 'John McLevey'
   title: "Reproducible Research and Generative Modelling for Social and Cognitive Scientists"
