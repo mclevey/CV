@@ -345,11 +345,11 @@ article-manuscripts:
   status: "Revise & Resubmit, *Criminology*"
 - year: In Progress
   authors: 'John McLevey, Tyler Crick, Darrin Durant, and Karmvir Padda'
-  title: "How Political Beliefs Form and Evolve: A Generative Stance Model"
+  title: "How Political Beliefs Form and Evolve in Interaction Networks: A Generative Stance Model"
   status: "In Progress"
 - year: In Progress
   authors: 'John McLevey'
-  title: "How we talk about harm reduction and why it matters"
+  title: "A Generative Method for Constructing and Analyzing Belief Networks from Survey and Text Data"
   status: "In Progress"
 
 book-manuscripts:
