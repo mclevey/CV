@@ -76,7 +76,7 @@ education:
   institute: Memorial University
   city: "St. John's, NL, Canada"
 
-areas: "Computational Social Science and Quantitative Methods; Networks; Cultural Cognition and Emotion; Social Influence and Opinion Dynamics; Sociology of Science and Technology; Computational Text Analysis; Generative Modelling; Bayesian Inference; Climate Change and Environmental Politics"
+areas: "Computational Social Science, Networks, Cognitive Social Science, Public Opinion, Political Sociology, Sociology of Science and Technology, Environmental Politics, Quantitative Methodology, Generative Modelling, Bayesian Statistics, Natural Language Processing and Text Analysis"
 
 books:
 - year: 2023
