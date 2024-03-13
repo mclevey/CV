@@ -24,13 +24,13 @@ appointments:
   job: Associate Professor (with tenure)
   department: 'Knowledge Integration, Faculty of Environment'
   cross: 'Sociology & Legal Studies, Faculty of Arts'
-  notes: 'ADDS Status - Approved Doctoral Dissertation Supervisor'
+  notes: '*ADDS Status - Approved Doctoral Dissertation Supervisor*'
 - years: 2013--2019
   employer: University of Waterloo
   job: Assistant Professor (tenure track) 
   department: 'Knowledge Integration, Faculty of Environment'
   cross: 'Sociology & Legal Studies, Faculty of Arts'
-  notes: 'ADDS Status - Approved Doctoral Dissertation Supervisor'
+  notes: '*ADDS Status - Approved Doctoral Dissertation Supervisor*'
 
 affiliations:
 - years: 2023
