@@ -13,12 +13,12 @@ urls:
 - github.com/mclevey/
 
 appointments:
-- years: 2023--Present
+- years: 2022--Present
   employer: University of Waterloo
   job: "Associate Chair (Undergraduate)"
   department: 'Knowledge Integration, Faculty of Environment'
   cross: \vspace{-\baselineskip} # Hack because template is not cooperating...
-  notes: \vspace{-\baselineskip} # Hack because template is not cooperating...
+  notes: (With a 6-month sabbatical leave in 2023 and a parental leave in 2024.) #\vspace{-\baselineskip} # Hack because template is not cooperating...
 - years: 2019--Present
   employer: University of Waterloo
   job: Associate Professor (with tenure)
