@@ -18,7 +18,7 @@ appointments:
   job: "Associate Chair (Undergraduate)"
   department: 'Knowledge Integration, Faculty of Environment'
   cross: \vspace{-\baselineskip} # Hack because template is not cooperating...
-  notes: "*Away from the role during a 6-month sabbatical in 2023 and a parental leave in 2024.*"
+  notes: "*Note: Vanessa Schweizer is performing this role while I am on parental leave in 2024.*"
 - years: 2019--Present
   employer: University of Waterloo
   job: Associate Professor (with tenure)
