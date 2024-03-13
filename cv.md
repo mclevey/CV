@@ -90,7 +90,7 @@ books:
   city: 'London, UK'
   press: 'Sage'
 - year: 2022
-  authors: 'HM Collins, R Evans, M Innes, W Mason-Wilkes, E Kennedy, and J McLevey' 
+  authors: 'Harry Collins, Rob Evans, Martin Innes, Will Mason-Wilkes, Eric Kennedy, and John McLevey' 
   title: 'The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy'
   city: 'Cardiff, UK'
   press: Cardfiff University Press
@@ -134,7 +134,7 @@ articles:
   pages: 271-288
   contribution:
 - year: 2022
-  authors: 'Allyson Stokes, Janice Aurini, Jessica Riztk, Rob Gorbet, and John McLevey'
+  authors: 'Allyson Stokes, Janice Aurini, Jessica Rizk, Rob Gorbet, and John McLevey'
   title: 'Using Robotics to Support the Acquisition of 21^st^ Century Competencies: Promising (and Practical) Directions'
   journal: 'Canadian Journal of Education / Revue Canadienne De l’éducation'
   volume: 45
