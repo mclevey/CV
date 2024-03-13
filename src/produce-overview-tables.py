@@ -85,7 +85,7 @@ counts.index = [
     "Refereed Books",
     "Refereed Journal Articles",
     "Refereed Book Chapters",
-    "Research \& Policy Reports",
+    "Research & Policy Reports",
     "Special Issues of Journals",
     "Article Manuscripts in Progress",
     "Book Manuscripts in Progress",
