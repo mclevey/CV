@@ -1610,6 +1610,8 @@ profession:
   role: 'Organizer and liaison with the Canadian Sociological Association for the Sociology of Science, Technology, and Knowledge Research Cluster'
 
 sessions:
+- year: 2024
+  session: "Sessions on *Network Approaches to Attitudes and Beliefs* at the 2024 Sunbelt meetings in Edinburgh, Scotland. Co-organized with Claudia Zucca, Mario Diani, and Lorien Jasny."
 - year: 2022
   session: "Sessions on *Social Networks and Climate Change* at the 2022 Sunbelt meetings in Melbourne, Australia. Co-organized with David Tindall and Mark Stoddart"
 - year: 2020
