@@ -101,11 +101,6 @@ books:
   press: Palgrave MacMillan
 
 articles:
-- year: R&R
-  authors: 'Owen Gallupe, Noam Gidron, John McLevey, and Annika Hillebrandt'
-  title: "Unpacking the crime-generating effect of exclusionary political rhetoric"
-  journal: "Criminology"
-  status: "Revise & Resubmit, *Criminology*"
 - year: 2023
   authors: 'David Tindall, Nina Kolleck, and John McLevey'
   title: 'Social Networks and Anthropogenic Climate Change (Special Issue Introduction)'
