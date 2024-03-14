@@ -1264,7 +1264,7 @@ phd:
   department: 'Applied Health Sciences'
   status: 2019
   startdate: 2015-09
-  enddate: "Defended 2020-11"
+  enddate: "Defended 2019-11"
   supervisor: "Craig Janes, Samantha Meyer"
   committee: "Plinio Morita, Daniel Lizotte, John McLevey"
   dissertation: 
