@@ -1244,6 +1244,14 @@ phd:
   supervisor: "Jennifer Lynes"
   committee: "Steve Quilley and John McLevey"
   dissertation: 
+- student: "Rod Missaghian"
+  department: 'Sociology & Legal Studies'
+  status: 2020
+  startdate: 2015-09
+  enddate: "Defended 2020-10"
+  supervisor: "Janice Aurini"
+  committee: "Linda Quirke and John McLevey"
+  dissertation: 
 - student: "Brittany Etmanski"
   department: 'Sociology and Legal Studies'
   status: 2019
@@ -1259,14 +1267,6 @@ phd:
   enddate: "Defended 2020-11"
   supervisor: "Craig Janes, Samantha Meyer"
   committee: "Plinio Morita, Daniel Lizotte, John McLevey"
-  dissertation: 
-- student: "Rod Missaghian"
-  department: 'Sociology & Legal Studies'
-  status: 2020
-  startdate: 2015-09
-  enddate: "Defended 2020-10"
-  supervisor: "Janice Aurini"
-  committee: "Linda Quirke and John McLevey"
   dissertation: 
 - student: "Noorin Manji"
   department: 'Sociology & Legal Studies'
