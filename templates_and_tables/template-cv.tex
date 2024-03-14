@@ -340,7 +340,7 @@ $if(phd)$
 \subsection*{PhD Student Supervision and Dissertation Committee Membership}
 $for(phd)$
 \note{$phd.status$}\emph{$phd.student$} ($phd.department$)\\
-$phd.supervisor$ (Supervisor)$if(phd.committee)$ + $phd.committee$$endif$ $if(phd.enddate)$ \\ $phd.enddate$$endif$
+$phd.supervisor$ (Supervisor)$if(phd.committee)$ + $phd.committee$$endif$ $if(phd.enddate)$ \\ Defended: $phd.enddate$$endif$
 \\[.2cm]
 $endfor$
 $endif$
