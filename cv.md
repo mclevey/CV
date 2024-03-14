@@ -1224,7 +1224,7 @@ phd:
   department: 'Sociology, University of British Columbia'
   status: "2022"
   startdate: 2016-09
-  enddate: 2022-03
+  enddate: "Defended 2022-03"
   supervisor: "David Tindall"
   committee: "Catherine Corrigall-Brown, Rima Wilkes, and John McLevey"
   dissertation: 
@@ -1232,7 +1232,7 @@ phd:
   department: 'Sociology, University of British Columbia'
   status: 2022
   startdate: 2015-09
-  enddate: 2022-02
+  enddate: "Defended 2022-02"
   supervisor: "Beth Hirsh"
   committee: "David Tindall and John McLevey"
   dissertation: 
@@ -1240,7 +1240,7 @@ phd:
   department: 'School of Environment, Enterprise, and Development'
   status: 2022
   startdate: 2016-09
-  enddate: 2022-08
+  enddate: "Defended 2022-08"
   supervisor: "Jennifer Lynes"
   committee: "Steve Quilley and John McLevey"
   dissertation: 
@@ -1248,7 +1248,7 @@ phd:
   department: 'Sociology and Legal Studies'
   status: 2019
   startdate: 2015-09
-  enddate: 2019-09
+  enddate: "Defended 2019-09"
   supervisor: "Janice Aurini"
   committee: "Owen Gallupe and John McLevey"
   dissertation: 
@@ -1256,7 +1256,7 @@ phd:
   department: 'Applied Health Sciences'
   status: 2019
   startdate: 2015-09
-  enddate: 2020-11
+  enddate: "Defended 2020-11"
   supervisor: "Craig Janes, Samantha Meyer"
   committee: "Plinio Morita, Daniel Lizotte, John McLevey"
   dissertation: 
@@ -1264,7 +1264,7 @@ phd:
   department: 'Sociology & Legal Studies'
   status: 2020
   startdate: 2015-09
-  enddate: 2020-10
+  enddate: "Defended 2020-10"
   supervisor: "Janice Aurini"
   committee: "Linda Quirke and John McLevey"
   dissertation: 
@@ -1272,7 +1272,7 @@ phd:
   department: 'Sociology & Legal Studies'
   status: 2018
   startdate: 2010-09
-  enddate: 2018-08
+  enddate: "Defended 2018-08"
   supervisor: "Lorne Dawson"
   committee: "Janice Aurini and John McLevey"
   dissertation: 
@@ -1280,7 +1280,7 @@ phd:
   department: 'Sociology & Legal Studies'
   status: 2016
   startdate: 2011-09
-  enddate: 2016-06
+  enddate: "Defended 2016-06"
   supervisor: "Kieran Bonner"
   committee: "David Goodwin and John McLevey"
   dissertation: 
@@ -1431,7 +1431,7 @@ masters:
   supervisor: Janice Aurini
   status: 2022
   startdate: 2020-09
-  enddate: 2022-06
+  enddate: "Defended 2022-06"
 - student: 'Nicholas Brendan, MD'
   department: "School of Public Health Sciences"
   degree: MSc
@@ -1440,7 +1440,7 @@ masters:
   supervisor: Shannon Majowicz
   status: 2018
   startdate: 2015-09
-  enddate: 2018-05
+  enddate: "Defended 2018-05"
 - student: 'Sarah Tang'
   department: "School of Environment, Enterprise, and Development"
   degree: MSc
@@ -1449,7 +1449,7 @@ masters:
   supervisor: Simron Singh
   status: 2018
   startdate: 2016-09
-  enddate: 2018-08
+  enddate: "Defended 2018-08"
 - student: 'Emerson LaCroix'
   department: Sociology and Legal Studies
   degree: MA
@@ -1458,7 +1458,7 @@ masters:
   supervisor: Janice Aurini
   status: 2018
   startdate: 2015-09
-  enddate: 2018
+  enddate: "Defended 2018"
 - student: 'Alexander V. Graham'
   department: Sociology and Legal Studies
   degree: MA
@@ -1466,7 +1466,7 @@ masters:
   role: 'Supervisor'
   status: 2017
   startdate: 2015-09
-  enddate: 2017-08
+  enddate: "Defended 2017-08"
 - student: 'Junyi (Jill) Wang'
   department: Geography and Environmental Management
   degree: MSc
@@ -1475,7 +1475,7 @@ masters:
   supervisor: Derek Robinson
   status: 2017
   startdate: 2015-09
-  enddate: 2017-04
+  enddate: "Defended 2017-04"
 - student: 'Stuart Anderson'
   department: Anthropology
   degree: MA
@@ -1484,7 +1484,7 @@ masters:
   supervisor: Götz Hoeppe
   status: 2017
   startdate: 2015
-  enddate: 2017
+  enddate: "Defended 2017"
 - student: 'Chen Chen'
   department: Geography and Environmental Management
   degree: MSc
@@ -1493,7 +1493,7 @@ masters:
   supervisor: Peter Johnson
   status: 2016
   startdate: 2014
-  enddate: 2016
+  enddate: "Defended 2016"
 
 hqp:
 - year: 2023
