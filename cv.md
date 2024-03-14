@@ -455,7 +455,7 @@ grants:
   ci: ''
   collaborators:
   title: 'Collaborative Design in Online Networks'
-  grant: 'SSHRC Insight Grant'
+  grant: 'SSHRC Insight Development Grant'
   amount: '$78,814'
 - years: 2013
   pi: John McLevey
