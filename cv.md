@@ -1420,7 +1420,7 @@ masters:
   thesis: ''
   role: Supervisor
   supervisor: John McLevey
-  status: "Completed"
+  status: "2024"
   startdate: 2021-09
   enddate: 2024-04
 - student: 'Svetlana Kopan'
