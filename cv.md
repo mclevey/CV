@@ -1420,9 +1420,9 @@ masters:
   thesis: ''
   role: Supervisor
   supervisor: John McLevey
-  status: In Progress
+  status: "Completed"
   startdate: 2021-09
-  enddate: In Progress
+  enddate: 2024-04
 - student: 'Svetlana Kopan'
   department: "Sociology and Legal Studies"
   degree: MA
