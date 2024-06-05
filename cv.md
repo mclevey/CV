@@ -1164,11 +1164,11 @@ phd:
   supervisor: "Sarah Burch"
   committee: "Olaf Weber and John McLevey"
   dissertation: 
-- student: "Emerson LaCroix -- ABD"
+- student: "Emerson LaCroix"
   department: 'Sociology & Legal Studies'
-  status: "In Progress"
+  status: "2024"
   startdate: 2020-09
-  enddate: "Expected defence in 2024"
+  enddate: "2024-06"
   supervisor: "Janice Aurini"
   committee: "John McLevey and Stephanie Howells"
   dissertation: 
