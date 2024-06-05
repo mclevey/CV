@@ -1164,14 +1164,6 @@ phd:
   supervisor: "Sarah Burch"
   committee: "Olaf Weber and John McLevey"
   dissertation: 
-- student: "Emerson LaCroix"
-  department: 'Sociology & Legal Studies'
-  status: "2024"
-  startdate: 2020-09
-  enddate: "2024-06"
-  supervisor: "Janice Aurini"
-  committee: "John McLevey and Stephanie Howells"
-  dissertation: 
 - student: "Mark Shakespear"
   department: 'Sociology, University of British Columbia'
   status: "In Progress"
@@ -1204,11 +1196,19 @@ phd:
   supervisor: "Dan Davison"
   committee: "David Wang, Rob Gorbet, and John McLevey"
   dissertation: 
+- student: "Emerson LaCroix"
+  department: 'Sociology & Legal Studies'
+  status: "2024"
+  startdate: 2020-09
+  enddate: "2024-06"
+  supervisor: "Janice Aurini"
+  committee: "John McLevey and Stephanie Howells"
+  dissertation: 
 - student: "Pierson Browne"
   department: 'Sociology & Legal Studies'
   status: "2023"
   startdate: 2015-09
-  enddate: 
+  enddate: 2023-12
   supervisor: "John McLevey"
   committee: "Owen Gallupe and Peter Carrington"
   dissertation: "Doing Reproducible Quantiative Sociology"
