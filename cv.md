@@ -1200,7 +1200,7 @@ phd:
   department: 'Sociology & Legal Studies'
   status: "2024"
   startdate: 2020-09
-  enddate: "2024-06"
+  enddate: "Defended 2024-06"
   supervisor: "Janice Aurini"
   committee: "John McLevey and Stephanie Howells"
   dissertation: 
@@ -1208,7 +1208,7 @@ phd:
   department: 'Sociology & Legal Studies'
   status: "2023"
   startdate: 2015-09
-  enddate: 2023-12
+  enddate: "Defended 2023-12"
   supervisor: "John McLevey"
   committee: "Owen Gallupe and Peter Carrington"
   dissertation: "Doing Reproducible Quantiative Sociology"
