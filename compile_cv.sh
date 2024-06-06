@@ -21,7 +21,7 @@ echo -e "✅ COPYING SITE FILES TO PUBLIC DIRECTORY"
 cp -r ~/Vaults/EC2/websites/mclevey.github.io-source/_site/* ~/Vaults/EC2/websites/mclevey.github.io
 
 echo -e "✅ PUSHING WEBSITE GITHUB REPO"
-# cd ~/Vaults/EC2/websites/mclevey.github.io/ && git add . && git commit -m 'routine cv update' && git push
+cd ~/Vaults/EC2/websites/mclevey.github.io/ && git add . && git commit -m 'routine cv update' && git push
 
 
 
