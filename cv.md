@@ -5,7 +5,7 @@ address:
 - Sociology & Legal Studies (SLS)
 - "University of Waterloo"
 - "Waterloo, ON, Canada"
-- "Citizenship: Canadian"
+# - "Citizenship: Canadian"
 phone: "+1 (647) 921-2044"
 email: john.mclevey@uwaterloo.ca
 urls:
@@ -13,12 +13,12 @@ urls:
 - github.com/mclevey/
 
 appointments:
-- years: 2022--Present
+- years: "2022, 2023, 2024"
   employer: University of Waterloo
   job: "Associate Chair (Undergraduate)"
   department: 'Knowledge Integration, Faculty of Environment'
   cross: \vspace{-\baselineskip} # Hack because template is not cooperating...
-  notes: "*Vanessa Schweizer was ACUG during my 6-month sabbatical (2023) and parental leave (2024)*"
+  notes: "*Vanessa Schweizer was ACUG during my sabbatical (2023) and parental leave (2024)*"
 - years: 2019--Present
   employer: University of Waterloo
   job: Associate Professor (with tenure)
@@ -338,11 +338,11 @@ reports:
 
 
 article-manuscripts:
-- year: R&R
+- year: In Progress
   authors: 'Owen Gallupe, Noam Gidron, John McLevey, and Annika Hillebrandt'
   title: "Unpacking the crime-generating effect of exclusionary political rhetoric"
   journal: "Criminology"
-  status: "Revise & Resubmit, *Criminology*"
+  status: "In Progress"
 - year: In Progress
   authors: 'John McLevey, Tyler Crick, Darrin Durant, and Karmvir Padda'
   title: "How Political Beliefs Form and Evolve in Interaction Networks: A Generative Stance Model"
@@ -478,6 +478,7 @@ awards:
 - year: 2017
   organization: University of Waterloo
   award: 'Outstanding Performance Award'
+  amount: 
 - year: 2010--2013
   organization: SSHRC Doctoral Scholarship (Category A)
   award: 'Bombardier Canada Graduate Scholarship'
@@ -497,7 +498,7 @@ awards:
 - year: 2009
   organization: Memorial University
   award: 'University Gold Medal for Excellence in Sociology'
-
+  amount: 
 contracts:
 - years: 2020
   contracted: John McLevey
@@ -543,7 +544,7 @@ software:
   development: "Joel Becker, Jillian Anderson, Steve McColl, and John McLevey"
 
 othersoftware:
-- package: recordlink
+- package: recordlinkage
   description: "Contributions to Jonathan de Bruin's Python package `recordlinkage`: A Python package for linking records across multiple data sources when there is no unique ID available. NetLab contributions were focused on implementing new comparison and fusion algorithms for my research on the structure and evolution of cross-sectoral collaboration networks in science and technology. Most NetLab contributions to `recordlinkage` were implemented by Joel Becker (RA) and occasionally Jillian Anderson (RA), and then submitted to Jonathan de Bruin as pull requests."
 
 
@@ -782,6 +783,11 @@ Analysis'
   location: 'Carleton University, Ottawa ON, Canada'
 
 invited:
+- year: 2024-04
+  authors: John McLevey
+  title: 'What makes you say that? Rethinking causal connections in cultural cognition and political belief network analysis'
+  conference: 'Department of Sociology'
+  location: "Memorial University, St. John's, NL, Canada"
 - year: 2022-03
   authors: John McLevey
   title: 'Do liberals drink lattes across the multiverse? Cultural learning, social influence, and mass opinion polarization.'
