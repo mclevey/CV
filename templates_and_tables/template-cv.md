@@ -143,7 +143,7 @@ $if(articles)$
 
 ## Journal Articles
 
-(*Italicized* authors were students at time of publication)   
+*Italicized* authors were students at time of publication.   
 
 $for(articles)$
 
@@ -172,7 +172,7 @@ $if(chapters)$
 
 ## Chapters in Edited Volumes
 
-(*Italicized* authors were students at time of publication)   
+*Italicized* authors were students at time of publication.   
 
 $for(chapters)$
 
@@ -189,7 +189,7 @@ $chapters.year$<br>
 
 ::: {.column width="90%"}
 <!-- COLUMN 2 -->
-$chapters.authors$. "$chapters.title$." In $chapters.editors$ (Eds) \emph{$chapters.book$}. $chapters.city$: $chapters.press$. <br>
+$chapters.authors$. "$chapters.title$." In $chapters.editors$ (Eds) *$chapters.book$*. $chapters.city$: $chapters.press$. <br>
 :::
 
 ::::
