@@ -40,14 +40,27 @@ def format(x):
     return "\${:.1f}K".format(x)
 
 
-def table(df, filename):
-    if print_tables:
-        print("\n")
-        sys.stdout.write(df.to_markdown())
-        print("\n")
+def table(df, filename, print_tables=True):
     table_tex = df.to_latex(escape=True)
-    with open(filename, "w") as f:
-        f.write(table_tex)
+    table_md = df.to_markdown()
+
+    if '.tex' in filename:
+        with open(filename, "w") as f:
+            f.write(table_tex)
+        mdf = filename.replace('.tex', '.md')
+        with open(mdf, "w") as f:
+            f.write(table_md)
+    elif '.md' in filename:
+        with open(filename, "w") as f:
+            f.write(table_md)
+        tex = filename.replace('.md', '.tex')
+        with open(tex, "w") as f:
+            f.write(table_tex)
+    if print_tables is True:
+        print("\n")
+        sys.stdout.write(table_md)
+        print("\n")
+
 
 
 ###########
