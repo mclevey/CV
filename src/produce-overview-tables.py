@@ -56,6 +56,11 @@ def table(df, filename, print_tables=True):
         tex = filename.replace('.md', '.tex')
         with open(tex, "w") as f:
             f.write(table_tex)
+    else:
+        with open(f"{filename}.md", "w") as f:
+            f.write(table_md)
+        with open(f"{filename}.tex", "w") as f:
+            f.write(table_tex)
     if print_tables is True:
         print("\n")
         sys.stdout.write(table_md)
