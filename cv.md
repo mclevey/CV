@@ -84,21 +84,29 @@ books:
   title: 'The Sage Handbook of Social Network Analysis, Volume 2'
   city: 'London, UK'
   press: Sage
+  ilink: https://www.johnmclevey.com/publications/books/Sage-Handbook-Social-Network-Analysis.html
+  elink:
 - year: 2022
   authors: John McLevey
   title: Doing Computational Social Science
   city: 'London, UK'
   press: 'Sage'
+  ilink: https://www.johnmclevey.com/publications/books/Doing-Computational-Social-Science.html
+  elink:
 - year: 2022
   authors: 'Harry Collins, Rob Evans, Martin Innes, Will Mason-Wilkes, Eric Kennedy, and John McLevey' 
   title: 'The Face to Face Principle and the Internet: Science, Trust, Truth and Democracy'
   city: 'Cardiff, UK'
   press: Cardfiff University Press
+  ilink: https://www.johnmclevey.com/publications/books/Face-to-Face.html
+  elink:
 - year: 2020
   authors: 'Mark Stoddart, Alice Mattoni, and John McLevey'
   title: 'Industrial Development and Eco-Tourisms: Is Co-existence Possible Between Oil Exploration and Nature Conservation?'
   city: 'London, UK'
   press: Palgrave MacMillan
+  ilink: https://www.johnmclevey.com/publications/books/Industrial-Development-Eco-Tourisms.html
+  elink:
 
 articles:
 - year: 2023

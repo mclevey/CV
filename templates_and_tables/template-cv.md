@@ -132,7 +132,7 @@ $books.year$<br>
 :::
 ::: {.column width="90%"}
 <!-- COLUMN 2 -->
-$books.authors$. *$books.title$*. $books.city$: $books.press$.<br>
+$books.authors$. $if(books.ilink)$[$endif$*$books.title$.*$if(books.ilink)$]($books.ilink$)$endif$ $books.city$: $books.press$.<br>
 :::
 ::::
 $endfor$
