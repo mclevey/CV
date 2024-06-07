@@ -63,11 +63,7 @@ $appointments.years$<br>
 :::
 ::: {.column width="80%"}
 <!-- COLUMN 2 -->
-**$appointments.job$**<br>
-$if(appointments.notes)$ $appointments.notes$ <br>$endif$
-$if(appointments.department)$ $appointments.department$ <br>$endif$
-$if(appointments.cross)$ $appointments.cross$ <br>$endif$
-$if(appointments.employer)$ $appointments.employer$ <br>$endif$
+**$appointments.job$** $if(appointments.notes)$ <br> $appointments.notes$ $endif$ $if(appointments.department)$ <br> $appointments.department$ $endif$ $if(appointments.cross)$ <br> $appointments.cross$ $endif$ $if(appointments.employer)$ <br> $appointments.employer$ $endif$ <br>
 :::
 ::::
 $endfor$
