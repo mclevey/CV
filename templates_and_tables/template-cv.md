@@ -3,7 +3,6 @@ title: "CV<br><br>John McLevey"
 subtitle: "**he/him**"
 toc: true
 toc-expand: 1
-fontsize: 14pt
 ---
  
 <!-- 
