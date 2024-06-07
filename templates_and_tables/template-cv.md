@@ -338,7 +338,7 @@ $for(grants)$
 
 :::: {.columns}
 
-::: {.column width="10%"}
+::: {.column width="18%"}
 <!-- COLUMN 1 -->
 $grants.years$<br>
 :::
@@ -347,7 +347,7 @@ $grants.years$<br>
 <!-- hack to create space between columns -->
 :::
 
-::: {.column width="88%"}
+::: {.column width="80%"}
 <!-- COLUMN 2 -->
 *$grants.title$*<br>
 $grants.amount$ -- $grants.grant$<br>
