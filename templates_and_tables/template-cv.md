@@ -161,7 +161,7 @@ $articles.year$<br>
 ::: {.column width="90%"}
 <!-- COLUMN 2 -->
 $articles.authors$. $if(articles.ilink)$[$endif$*$articles.title$.*$if(articles.ilink)$]($articles.ilink$)$endif$ *$articles.journal$*. $if(articles.volume)$$articles.volume$$endif$$if(articles.issue)$($articles.issue$)$endif$$if(articles.pages)$: $articles.pages$.$endif$<br>
-$if(articles.ilink)$[**{{< ai open-access >}}**$endif$ **Open Access Link** $if(articles.ilink)$]($articles.ilink$)$endif$ <br>
+$if(articles.ilink)$<span style="color:red;">**{{< ai open-access >}}**</span> [$endif$ **Open Access Link** $if(articles.ilink)$]($articles.ilink$)$endif$ <br>
 :::
 
 ::::
