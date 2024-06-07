@@ -185,7 +185,7 @@ $chapters.year$<br>
 
 ::: {.column width="90%"}
 <!-- COLUMN 2 -->
-$chapters.authors$. "$chapters.title$." In $chapters.editors$ (Eds) *$chapters.book$*. $chapters.city$: $chapters.press$. $if(chapters.oa)$<br>**{{< ai open-access >}}** [$endif$ $if(chapters.oa)$**Open Access Link**]($chapters.ilink$)$endif$<br>
+$chapters.authors$. "$chapters.title$." In $chapters.editors$ (Eds) *$chapters.book$*. $chapters.city$: $chapters.press$. $if(chapters.oa)$<br>**{{< ai open-access >}}** [$endif$ $if(chapters.oa)$**Open Access Link**]($chapters.oa$)$endif$<br>
 :::
 
 ::::
