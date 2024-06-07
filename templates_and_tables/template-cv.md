@@ -872,14 +872,14 @@ $if(suwaterloo)$
 ## University of Waterloo
 $for(suwaterloo)$    
 :::: {.columns}    
-::: {.column width="12%"}    
+::: {.column width="18%"}    
 <!-- COLUMN 1 -->    
 $suwaterloo.year$<br>    
 :::    
 ::: {.column width="2%"}    
 <!-- hack to create space between columns -->    
 :::    
-::: {.column width="86%"}    
+::: {.column width="80%"}    
 <!-- COLUMN 2 -->    
 $suwaterloo.role$<br>    
 :::    
@@ -891,14 +891,14 @@ $if(mcmaster)$
 ## McMaster University
 $for(mcmaster)$    
 :::: {.columns}    
-::: {.column width="12%"}    
+::: {.column width="18%"}    
 <!-- COLUMN 1 -->    
 $mcmaster.year$<br>    
 :::    
 ::: {.column width="2%"}    
 <!-- hack to create space between columns -->    
 :::    
-::: {.column width="86%"}    
+::: {.column width="80%"}    
 <!-- COLUMN 2 -->    
 $mcmaster.role$<br>    
 :::    
