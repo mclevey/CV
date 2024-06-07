@@ -156,7 +156,7 @@ $articles.year$<br>
 
 ::: {.column width="90%"}
 <!-- COLUMN 2 -->
-$articles.authors$. "$articles.title$." *$articles.journal$*. $if(articles.volume)$$articles.volume$$endif$$if(articles.issue)$($articles.issue$)$endif$$if(articles.pages)$: $articles.pages$.$endif$$if(articles.ilink)$<br>**{{< ai open-access >}}** [$endif$ $if(articles.ilink)$**Open Access Link**]($articles.ilink$)$endif$<br>
+$articles.authors$. "$articles.title$." *$articles.journal$*. $if(articles.volume)$$articles.volume$$endif$$if(articles.issue)$($articles.issue$)$endif$$if(articles.pages)$: $articles.pages$.$endif$$if(articles.oa)$<br>**{{< ai open-access >}}** [$endif$ $if(articles.oa)$**Open Access Link**]($articles.ilink$)$endif$<br>
 :::
 
 ::::
@@ -185,7 +185,7 @@ $chapters.year$<br>
 
 ::: {.column width="90%"}
 <!-- COLUMN 2 -->
-$chapters.authors$. "$chapters.title$." In $chapters.editors$ (Eds) *$chapters.book$*. $chapters.city$: $chapters.press$. <br>
+$chapters.authors$. "$chapters.title$." In $chapters.editors$ (Eds) *$chapters.book$*. $chapters.city$: $chapters.press$. $if(chapters.oa)$<br>**{{< ai open-access >}}** [$endif$ $if(chapters.oa)$**Open Access Link**]($chapters.ilink$)$endif$<br>
 :::
 
 ::::

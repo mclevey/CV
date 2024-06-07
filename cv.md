@@ -117,7 +117,6 @@ articles:
   issue: 
   pages: 
   contribution:
-  ilink: https://www.sciencedirect.com/science/article/abs/pii/S0378873323000230
 - year: 2022
   authors: '*Alexander Graham*, John McLevey, *Tyler Crick*, and *Pierson Browne*'
   title: 'Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields'
@@ -248,6 +247,7 @@ chapters:
   city: 'London, UK'
   press: 'Sage'
   contribution:
+  oa: http://www.johnmclevey.com/inferential-network-clustering-hsbms/
 - year: 2023
   authors: '*Pierson Browne*, *Adam Howe*, *Yasmin Koop-Monteiro*, *Yixi Yang*, and John McLevey'
   title: 'Scientific Software for Network Analysis'
@@ -264,6 +264,7 @@ chapters:
   city: 'London, UK'
   press: 'Sage'
   contribution:
+  oa: https://www.johnmclevey.com/publications/chapters/SHSNA-Introduction.html
 - year: 2023
   authors: 'John McLevey, Allyson Stokes, and *Amelia Howard*'
   title: "L’influence inégale de Bourdieu sur la sociologie canadienne anglophone (French translation of 'Pierre Bourdieu's Uneven Influence on Anglophone Canadian Sociology')"
