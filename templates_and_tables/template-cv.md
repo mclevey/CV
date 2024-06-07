@@ -430,7 +430,7 @@ $for(contracts)$
 
 :::: {.columns}
 
-::: {.column width="10%"}
+::: {.column width="18%"}
 <!-- COLUMN 1 -->
 $contracts.years$<br>
 :::
@@ -439,7 +439,7 @@ $contracts.years$<br>
 <!-- hack to create space between columns -->
 :::
 
-::: {.column width="88%"}
+::: {.column width="80%"}
 <!-- COLUMN 2 -->
 *$contracts.title$*<br>
 $if(contracts.contracted)$$contracts.contracted$$endif$. $contracts.organization$. <br>
