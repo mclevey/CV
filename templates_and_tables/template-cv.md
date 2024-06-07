@@ -369,7 +369,7 @@ $for(teachinggrants)$
 
 :::: {.columns}
 
-::: {.column width="10%"}
+::: {.column width="18%"}
 <!-- COLUMN 1 -->
 $teachinggrants.years$<br>
 :::
@@ -378,7 +378,7 @@ $teachinggrants.years$<br>
 <!-- hack to create space between columns -->
 :::
 
-::: {.column width="88%"}
+::: {.column width="80%"}
 <!-- COLUMN 2 -->
 *$teachinggrants.title$*<br>
 $teachinggrants.amount$ -- $teachinggrants.grant$<br>
@@ -400,7 +400,7 @@ $for(awards)$
 
 :::: {.columns}
 
-::: {.column width="10%"}
+::: {.column width="18%"}
 <!-- COLUMN 1 -->
 $awards.year$<br>
 :::
@@ -409,7 +409,7 @@ $awards.year$<br>
 <!-- hack to create space between columns -->
 :::
 
-::: {.column width="88%"}
+::: {.column width="80%"}
 <!-- COLUMN 2 -->
 $awards.award$<br>
 $if(awards.amount)$$awards.amount$ -- $endif$$if(awards.organization)$*$awards.organization$*$endif$ <br>
