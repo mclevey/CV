@@ -117,6 +117,7 @@ articles:
   issue: 
   pages: 
   contribution:
+  ilink: https://www.sciencedirect.com/science/article/abs/pii/S0378873323000230
 - year: 2022
   authors: '*Alexander Graham*, John McLevey, *Tyler Crick*, and *Pierson Browne*'
   title: 'Structural Diversity is a Poor Proxy for Information Diversity: Evidence from 25 Scientific Fields'

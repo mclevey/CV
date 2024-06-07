@@ -160,7 +160,7 @@ $articles.year$<br>
 
 ::: {.column width="90%"}
 <!-- COLUMN 2 -->
-$articles.authors$. "$articles.title$." *$articles.journal$*. $if(articles.volume)$$articles.volume$$endif$$if(articles.issue)$($articles.issue$)$endif$$if(articles.pages)$: $articles.pages$.$endif$<br>
+$articles.authors$. $if(articles.ilink)$[$endif$*$articles.title$.*$if(articles.ilink)$]($articles.ilink$)$endif$ *$articles.journal$*. $if(articles.volume)$$articles.volume$$endif$$if(articles.issue)$($articles.issue$)$endif$$if(articles.pages)$: $articles.pages$.$endif$<br>
 :::
 
 ::::
