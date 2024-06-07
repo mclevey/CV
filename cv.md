@@ -17,7 +17,7 @@ appointments:
   employer: University of Waterloo
   job: "Associate Chair (Undergraduate)"
   department: 'Knowledge Integration, Faculty of Environment'
-  cross: \vspace{-\baselineskip} # Hack because template is not cooperating...
+  # cross: \vspace{-\baselineskip} # Hack because template is not cooperating...
   notes: "*Vanessa Schweizer was ACUG during my sabbatical (2023) and parental leave (2024)*"
 - years: 2019--Present
   employer: University of Waterloo
