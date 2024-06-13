@@ -384,6 +384,13 @@ misc:
 
 grants:
 - years: 2020--2025
+  pi: James Kim
+  ci: 'Toni Serafini'
+  collaborators: 'John McLevey'
+  title: 'Modern Man-ifestations: An Interdisciplinary Mixed-Methods Investigation of Misogyny and Gender-Based Violence'
+  grant: 'SSHRC Insight Development Grant'
+  amount: '$0'
+- years: 2020--2025
   pi: John McLevey
   ci: Anabel Quan-Haase, David Tindall
   collaborators: 'Darrin Durant, Deena Abul-Fottouh, Owen Gallupe, and Martin Innes'
