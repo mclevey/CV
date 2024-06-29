@@ -1,0 +1,12 @@
+!!python/object:pdpp.tasks.export_task.ExportTask
+dep_files:
+  make_cv: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - cv.pdf
+    task_name: make_cv
+    task_out: output
+enabled: true
+language: ''
+src_files: []
+target_dir: _export_
