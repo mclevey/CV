@@ -12,7 +12,7 @@ echo -e "${YELLOW}[mstk]${YELLOW_REG} compiling and publishing cv.md${NC}"
 set -e
 mstk pipeline cv .
 
-echo -e "${YELLOW}[mstk] committing changes to git repo: curriculum-vitae${NC}"
+echo -e "${YELLOW}[mstk]${YELLOW_REG} committing changes to git repo: curriculum-vitae${NC}"
 git add .
 git commit -m "routine cv update"
 git push
