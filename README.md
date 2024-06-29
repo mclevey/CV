@@ -7,12 +7,16 @@ The cv is compiled and published using [`mstk`](https://github.com/mclevey/mstk/
 
 ## Compile
 
+`mstk` is currently installed in the conda environemnt `mstk`. This is really just for development, will not do this once the package is on pypi. 
+
 ```zsh
+conda activate mstk 
 bash compile.sh
 ```
 
 or 
 
 ```zsh
+conda activate mstk 
 mstk pipeline cv .
 ```
