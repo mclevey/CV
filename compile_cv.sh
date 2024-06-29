@@ -6,12 +6,12 @@ YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 # Print colored messages
-echo -e "${GREEN}[mstk]${NC} compiling and publishing cv.md"
+echo -e "${YELLOW}[mstk] compiling and publishing cv.md${NC}"
 
 set -e
 mstk pipeline cv .
 
-echo -e "${YELLOW}[mstk]${NC} committing changes to git repo: curriculum-vitae"
+echo -e "${YELLOW}[mstk] committing changes to git repo: curriculum-vitae${NC}"
 git add .
 git commit -m "routine cv update"
 git push
