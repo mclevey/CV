@@ -3,6 +3,6 @@ PIPELINE_CV:
   website_public_repo: "/Users/johnmclevey/Vaults/EC2/websites/mclevey.github.io"
   website_source_repo: "/Users/johnmclevey/Vaults/EC2/websites/mclevey.github.io-source"
   cv_qmd_website_source_path: "/Users/johnmclevey/Vaults/EC2/websites/mclevey.github.io-source/pages/cv.qmd"
-  cv_pdf_website_source_path: "/Users/johnmclevey/Vaults/EC2/websites/mclevey.github.io-source/pdfs/"
+  cv_pdf_website_source_path: "/Users/johnmclevey/Vaults/EC2/websites/mclevey.github.io-source/pdfs/cv.pdf"
 
 
