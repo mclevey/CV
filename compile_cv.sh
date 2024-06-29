@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 set -e
-
 GREEN='\033[0;32m'
 YELLOW_BOLD='\033[1;33m'
 YELLOW_REG='\033[0;33m'
