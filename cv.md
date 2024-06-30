@@ -1,5 +1,5 @@
 ---
-name: "Dr. John McLevey \\newline \\footnotesize he/him"
+name: "Dr. John McLevey \\newline \\footnotesize he/him "
 address:
 - Knowledge Integration (KI)
 - Sociology & Legal Studies (SLS)
